@@ -1,17 +1,17 @@
 [
   {
     "protocol": "http",
-    "ip": "193.38.224.169",
-    "port": 8081,
+    "ip": "85.85.186.84",
+    "port": 8080,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Madrid",
+    "city": "Barcelona",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 7.7,
-    "asn": "AS206276",
-    "isp": "Citelia s.a.",
-    "latency_ms": 1908.69,
-    "last_checked": 1784328450.8626368
+    "uptime_percent": 45.84,
+    "asn": "AS15704",
+    "isp": "Xtra Telecom S.A.",
+    "latency_ms": 645.85,
+    "last_checked": 1784330144.2840745
   }
 ]

@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "103.11.193.77",
+    "port": 8080,
+    "country": "Mongolia",
+    "country_code": "MN",
+    "city": "Ulan Bator",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 39.8,
+    "asn": "AS17882",
+    "isp": "MCS-Univision",
+    "latency_ms": 7794.01,
+    "last_checked": 1784330028.5307205
+  },
+  {
+    "protocol": "http",
+    "ip": "202.21.106.35",
+    "port": 8080,
+    "country": "Mongolia",
+    "country_code": "MN",
+    "city": "Ulan Bator",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.67,
+    "asn": "AS9484",
+    "isp": "Mobinet LLC",
+    "latency_ms": 3307.91,
+    "last_checked": 1784330229.8161077
+  },
+  {
+    "protocol": "http",
     "ip": "43.242.241.47",
     "port": 8080,
     "country": "Mongolia",
@@ -11,7 +41,7 @@
     "uptime_percent": 12.13,
     "asn": "AS17882",
     "isp": "MCS Com Co Ltd",
-    "latency_ms": 11934.26,
-    "last_checked": 1784328531.64788
+    "latency_ms": 2061.66,
+    "last_checked": 1784330192.5328648
   }
 ]

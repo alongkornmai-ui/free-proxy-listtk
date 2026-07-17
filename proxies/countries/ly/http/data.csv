@@ -1,9 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,102.68.128.210,8080,Libya,LY,Tripoli,transparent,false,8.82,AS21003,"LTT Autonomous System, Tripoli Libya",5651.3,1784328504.3440855
-http,102.38.13.9,19000,Libya,LY,Tripoli,transparent,true,8.25,AS328539,Giga for Telecommunication and Technology Limited,11182.45,1784328485.830616
-http,102.38.30.24,8080,Libya,LY,Tripoli,transparent,false,27.18,AS328539,GZA,7414.84,1784328395.2638767
-http,102.68.128.212,8080,Libya,LY,Tripoli,transparent,false,20.29,AS21003,"LTT Autonomous System, Tripoli Libya",2996.23,1784328391.7878602
-http,165.16.92.193,8102,Libya,LY,Tripoli,transparent,true,5.54,AS37284,Aljeel Aljadeed For Technology,299.99,1784328581.5177486
-http,165.16.92.193,8103,Libya,LY,Tripoli,transparent,true,8.17,AS37284,Aljeel Aljadeed For Technology,1012.41,1784328573.2950108
-http,154.127.78.16,44444,Libya,LY,Waddān,transparent,true,12.07,AS37284,Aljeel Aljadeed For Technology,1410.97,1784328466.4456122
-http,165.16.27.42,1976,Libya,LY,Benghazi,transparent,false,3.4,AS37284,Aljeel Aljadeed For Technology,8940.0,1784328331.6068373
+http,102.38.30.151,8080,Libya,LY,Tripoli,transparent,false,15.31,AS328539,GZA,237.53,1784330165.9299123
+http,102.38.29.36,8080,Libya,LY,Tripoli,transparent,false,9.24,AS328539,GZA,218.16,1784330112.8213177
+http,165.16.27.42,1981,Libya,LY,Benghazi,transparent,false,8.54,AS37284,Aljeel Aljadeed For Technology,7275.76,1784330241.0985599
+http,154.127.78.16,44444,Libya,LY,Waddān,transparent,true,12.08,AS37284,Aljeel Aljadeed For Technology,10373.28,1784330212.688056
+http,165.16.58.131,8080,Libya,LY,Tripoli,transparent,false,24.51,AS37284,Aljeel Aljadeed For Technology,3320.9,1784330182.9098146
+http,165.16.92.193,8104,Libya,LY,Tripoli,transparent,true,8.88,AS37284,Aljeel Aljadeed For Technology,3289.46,1784330140.599919

@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "102.0.25.184",
+    "port": 8080,
+    "country": "Kenya",
+    "country_code": "KE",
+    "city": "Nairobi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.99,
+    "asn": "AS36926",
+    "isp": "Airtel KE Mobile & Fixed Internet",
+    "latency_ms": 2057.75,
+    "last_checked": 1784330205.7907116
+  },
+  {
+    "protocol": "http",
     "ip": "102.211.146.31",
     "port": 8080,
     "country": "Kenya",
@@ -8,56 +23,26 @@
     "city": "Nairobi",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 22.27,
+    "uptime_percent": 22.33,
     "asn": "AS328490",
     "isp": "Unwired Communications Limited",
-    "latency_ms": 6720.32,
-    "last_checked": 1784328530.4975703
+    "latency_ms": 6181.08,
+    "last_checked": 1784330176.6111689
   },
   {
     "protocol": "http",
-    "ip": "102.0.18.120",
-    "port": 8080,
-    "country": "Kenya",
-    "country_code": "KE",
-    "city": "Nairobi",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 8.42,
-    "asn": "AS36926",
-    "isp": "Airtel KE Mobile & Fixed Internet",
-    "latency_ms": 9291.96,
-    "last_checked": 1784328502.1514196
-  },
-  {
-    "protocol": "http",
-    "ip": "102.213.179.210",
+    "ip": "102.211.145.31",
     "port": 8080,
     "country": "Kenya",
     "country_code": "KE",
     "city": "Nairobi",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 31.05,
-    "asn": "AS329261",
-    "isp": "NEXT THING NETWORKS Limited",
-    "latency_ms": 4070.97,
-    "last_checked": 1784328467.1799822
-  },
-  {
-    "protocol": "http",
-    "ip": "102.209.18.248",
-    "port": 8080,
-    "country": "Kenya",
-    "country_code": "KE",
-    "city": "Nairobi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.23,
-    "asn": "AS329437",
-    "isp": "Vennet Solutions Limited",
-    "latency_ms": 3493.7,
-    "last_checked": 1784328449.6477783
+    "uptime_percent": 25.59,
+    "asn": "AS328490",
+    "isp": "Unwired Communications Ltd",
+    "latency_ms": 4321.45,
+    "last_checked": 1784330069.4724994
   },
   {
     "protocol": "http",
@@ -68,41 +53,11 @@
     "city": "Nairobi",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 24.41,
+    "uptime_percent": 24.56,
     "asn": "AS329272",
     "isp": "Servercore Africa Ltd",
-    "latency_ms": 20104.55,
-    "last_checked": 1784328425.4790933
-  },
-  {
-    "protocol": "http",
-    "ip": "102.211.145.161",
-    "port": 8081,
-    "country": "Kenya",
-    "country_code": "KE",
-    "city": "Nairobi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.38,
-    "asn": "AS328490",
-    "isp": "Unwired Communications Ltd",
-    "latency_ms": 984.39,
-    "last_checked": 1784328360.1059537
-  },
-  {
-    "protocol": "http",
-    "ip": "41.72.199.106",
-    "port": 8089,
-    "country": "Kenya",
-    "country_code": "KE",
-    "city": "Nairobi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 28.63,
-    "asn": "AS30844",
-    "isp": "Maintainer Liquid Telecommunications Operations Limited",
-    "latency_ms": 1420.57,
-    "last_checked": 1784328582.5813968
+    "latency_ms": 8812.79,
+    "last_checked": 1784330003.4499288
   },
   {
     "protocol": "http",
@@ -112,11 +67,11 @@
     "country_code": "KE",
     "city": "Imara Daima Estate",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 28.75,
     "asn": "AS37305",
     "isp": "Frontier Optical Networks Ltd",
-    "latency_ms": 7993.57,
-    "last_checked": 1784328551.9570525
+    "latency_ms": 9834.36,
+    "last_checked": 1784330012.2965105
   }
 ]

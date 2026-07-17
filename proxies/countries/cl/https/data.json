@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "38.7.195.51",
+    "ip": "200.95.184.58",
     "port": 999,
     "country": "Chile",
     "country_code": "CL",
-    "city": "Santiago",
+    "city": "Chillan",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 28.56,
-    "asn": "AS263702",
-    "isp": "Grupo ZGH SpA",
-    "latency_ms": 2653.81,
-    "last_checked": 1784328520.8915927
+    "uptime_percent": 13.04,
+    "asn": "AS264859",
+    "isp": "Comunicaciones Cablevision Ltda.",
+    "latency_ms": 4549.52,
+    "last_checked": 1784330083.9502516
+  },
+  {
+    "protocol": "http",
+    "ip": "45.225.204.97",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Las Cabras",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 14.77,
+    "asn": "AS265858",
+    "isp": "Netdelsur Telecomunicaciones SPA",
+    "latency_ms": 5701.79,
+    "last_checked": 1784330059.5182476
   },
   {
     "protocol": "http",
@@ -26,7 +41,22 @@
     "uptime_percent": 36.23,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 4468.99,
-    "last_checked": 1784328493.2725422
+    "latency_ms": 2060.5,
+    "last_checked": 1784330259.7824721
+  },
+  {
+    "protocol": "http",
+    "ip": "38.7.195.51",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 28.57,
+    "asn": "AS263702",
+    "isp": "Grupo ZGH SpA",
+    "latency_ms": 10015.34,
+    "last_checked": 1784330249.5753288
   }
 ]

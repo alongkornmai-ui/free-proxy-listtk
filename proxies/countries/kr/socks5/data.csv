@@ -1,5 +1,13 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks5,121.169.46.116,1090,South Korea,KR,Suwon,elite,true,94.65,AS4766,Korea Telecom,3852.04,1784328431.7749968
-socks5,146.56.191.98,19422,South Korea,KR,Seoul,elite,true,28.22,AS31898,Oracle Corporation,8921.92,1784328574.058341
-socks5,152.70.236.84,1080,South Korea,KR,Seoul,elite,true,13.61,AS31898,Oracle Corporation,3155.17,1784328557.4151976
-socks5,152.70.237.238,3128,South Korea,KR,Seoul,elite,true,50.25,AS31898,Oracle Corporation,1580.78,1784328543.9536526
+socks5,193.122.105.251,65535,South Korea,KR,Seoul,elite,true,16.88,AS31898,Oracle Corporation,5398.18,1784330188.8587916
+socks5,8.213.156.191,6379,South Korea,KR,Seoul,elite,true,1.05,AS45102,"Alibaba (US) Technology Co., Ltd.",6806.36,1784330183.3686264
+socks5,8.213.156.191,8008,South Korea,KR,Seoul,elite,true,1.12,AS45102,"Alibaba (US) Technology Co., Ltd.",7039.72,1784330180.1467721
+socks5,8.213.156.191,7010,South Korea,KR,Seoul,elite,true,1.15,AS45102,"Alibaba (US) Technology Co., Ltd.",6549.4,1784330179.8936553
+socks5,8.213.156.191,1036,South Korea,KR,Seoul,elite,true,1.03,AS45102,"Alibaba (US) Technology Co., Ltd.",6571.27,1784330178.796203
+socks5,8.213.156.191,9091,South Korea,KR,Seoul,elite,true,1.21,AS45102,"Alibaba (US) Technology Co., Ltd.",14050.15,1784330173.6000097
+socks5,121.169.46.116,1090,South Korea,KR,Suwon,elite,true,94.65,AS4766,Korea Telecom,4041.45,1784330122.5739167
+socks5,146.56.191.98,14785,South Korea,KR,Seoul,elite,true,26.93,AS31898,Oracle Corporation,5391.35,1784330259.2000628
+socks5,146.56.191.98,19422,South Korea,KR,Seoul,elite,true,28.23,AS31898,Oracle Corporation,10994.74,1784330251.6769261
+socks5,58.229.240.204,9050,South Korea,KR,Gwangjin-gu,elite,true,38.23,AS9318,SK Broadband Co Ltd,11711.74,1784330245.0496178
+socks5,130.162.141.185,52916,South Korea,KR,Seoul,elite,true,59.39,AS31898,Oracle Corporation,11764.95,1784330239.046661
+socks5,132.226.229.220,1080,South Korea,KR,Seoul,elite,true,46.89,AS31898,Oracle Corporation,21118.11,1784330151.1693769

@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "84.242.58.9",
+    "port": 8080,
+    "country": "Palestine",
+    "country_code": "PS",
+    "city": "Ramallah",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 21.09,
+    "asn": "AS51407",
+    "isp": "Mada Al-Arab General Services Company",
+    "latency_ms": 3293.62,
+    "last_checked": 1784330215.434654
+  },
+  {
+    "protocol": "http",
     "ip": "87.229.14.128",
     "port": 8080,
     "country": "Palestine",
@@ -8,10 +23,10 @@
     "city": "Deir el-Balah",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 37.64,
+    "uptime_percent": 37.72,
     "asn": "AS44213",
     "isp": "Thaer A. T. Abuyousef trading as Abuyousef Co & Partners General Trade",
-    "latency_ms": 5117.75,
-    "last_checked": 1784328507.3521647
+    "latency_ms": 1209.46,
+    "last_checked": 1784330159.6398613
   }
 ]

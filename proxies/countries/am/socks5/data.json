@@ -8,10 +8,10 @@
     "city": "Yerevan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.11,
+    "uptime_percent": 32.13,
     "asn": "AS215929",
     "isp": "Data Campus Limited",
-    "latency_ms": 7543.95,
-    "last_checked": 1784328576.467173
+    "latency_ms": 2940.66,
+    "last_checked": 1784330201.7003317
   }
 ]

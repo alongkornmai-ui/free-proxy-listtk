@@ -8,10 +8,10 @@
     "city": "Beauharnois",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.26,
+    "uptime_percent": 80.3,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 480.01,
-    "last_checked": 1784328552.5795069
+    "latency_ms": 501.69,
+    "last_checked": 1784330211.6069787
   }
 ]

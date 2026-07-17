@@ -8,10 +8,10 @@
     "city": "Cota",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 91.29,
+    "uptime_percent": 91.32,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 999.37,
-    "last_checked": 1784328570.88139
+    "latency_ms": 977.5,
+    "last_checked": 1784330252.7271936
   }
 ]

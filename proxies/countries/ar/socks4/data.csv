@@ -1,4 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,186.138.177.33,4145,Argentina,AR,Córdoba,elite,true,49.41,AS7303,Telecom Argentina S.A,1252.61,1784328538.9356327
-socks4,200.16.211.70,4153,Argentina,AR,Luján,elite,true,51.32,AS10834,Telefonica de Argentina,1164.5,1784328530.3985593
-socks4,190.182.137.250,1085,Argentina,AR,Miguel Riglos,elite,true,51.72,AS27983,Red Intercable Digital S.A,8351.7,1784328528.397232
+socks4,190.182.137.250,1085,Argentina,AR,Miguel Riglos,elite,true,51.71,AS27983,Red Intercable Digital S.A,2334.4,1784330221.0216362
+socks4,190.228.33.42,1085,Argentina,AR,San Salvador de Jujuy,elite,true,28.84,AS7303,Telecom Argentina S.A.,8470.76,1784330202.7813368
+socks4,200.16.211.70,4153,Argentina,AR,Luján,elite,true,51.32,AS10834,Telefonica de Argentina,4170.58,1784330169.2653272
+socks4,200.70.56.84,1080,Argentina,AR,Buenos Aires,elite,true,52.56,AS10834,Telefonica de Argentina,1153.5,1784330262.4370465
+socks4,200.63.95.13,1085,Argentina,AR,Villa Paula de Sarmiento,elite,true,25.74,AS272046,CATALA SERGIO TADEO (PUYUTA INTERNET & TECNOLOGIA),1273.53,1784330256.0141807

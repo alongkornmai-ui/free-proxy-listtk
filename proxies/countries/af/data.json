@@ -11,7 +11,22 @@
     "uptime_percent": 62.22,
     "asn": "AS133894",
     "isp": "Easy Connect- ISP",
-    "latency_ms": 2192.89,
-    "last_checked": 1784328543.8322463
+    "latency_ms": 2117.68,
+    "last_checked": 1784330240.9243941
+  },
+  {
+    "protocol": "http",
+    "ip": "149.54.16.170",
+    "port": 8080,
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "city": "Kabul",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.82,
+    "asn": "AS55330",
+    "isp": "Government Communications Network",
+    "latency_ms": 1700.18,
+    "last_checked": 1784330184.3284097
   }
 ]

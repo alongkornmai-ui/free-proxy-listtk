@@ -1,17 +1,32 @@
 [
   {
     "protocol": "http",
+    "ip": "192.203.0.250",
+    "port": 999,
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "city": "Comunas",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.79,
+    "asn": "AS63393",
+    "isp": "Boom NET",
+    "latency_ms": 434.55,
+    "last_checked": 1784330161.6800568
+  },
+  {
+    "protocol": "http",
     "ip": "192.203.0.166",
     "port": 999,
     "country": "Puerto Rico",
     "country_code": "PR",
     "city": "Comunas",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 19.2,
     "asn": "AS63393",
     "isp": "Boom NET",
-    "latency_ms": 1458.39,
-    "last_checked": 1784328490.608732
+    "latency_ms": 1504.49,
+    "last_checked": 1784330092.987893
   }
 ]

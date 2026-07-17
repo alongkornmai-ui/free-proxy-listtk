@@ -1,6 +1,9 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,190.43.59.119,999,Peru,PE,Trujillo,transparent,true,54.89,AS6147,Telefonica Del Peru,8038.63,1784328525.7798705
-http,38.158.83.193,999,Peru,PE,Arequipa,transparent,true,13.71,AS272838,Fiberred SAC,8580.74,1784328470.7478507
-http,38.188.101.197,999,Peru,PE,Pichari,transparent,true,21.69,AS272976,Ifox Telecomunicaciones,2067.66,1784328450.6646128
-http,200.123.27.122,999,Peru,PE,Lima,transparent,true,39.37,AS22411,Wigo S.A.,612.69,1784328589.5876322
-http,209.45.68.241,999,Peru,PE,Miraflores,transparent,true,45.22,AS3132,Red Cientifica Peruana,865.73,1784328572.4604445
+http,190.43.59.119,999,Peru,PE,Trujillo,transparent,true,54.91,AS6147,Telefonica Del Peru,2048.27,1784330198.6872025
+http,45.236.44.94,8080,Peru,PE,Lima,transparent,true,15.16,AS27843,Optical Technologies S.A.C.,580.51,1784330155.2708855
+http,38.183.183.114,999,Peru,PE,Huaura,transparent,true,10.86,AS273084,Forza Bussines S.A.C,2096.98,1784330153.2680264
+http,190.12.95.170,47029,Peru,PE,Lima,elite,true,5.53,AS27843,ON EMPRESAS S.A.C,9950.85,1784330014.2225652
+http,201.230.121.244,999,Peru,PE,San Borja,transparent,true,10.78,AS6147,Telefonica Del Peru,4804.32,1784330265.432702
+http,45.190.170.0,999,Peru,PE,Cieneguilla,transparent,true,6.78,AS269898,Softbutterfly SAC,7829.42,1784330254.6681697
+http,38.250.116.58,3128,Peru,PE,Lima,elite,true,9.07,AS3132,Red Cientifica Peruana,549.98,1784330248.6631892
+http,38.226.49.202,8080,Peru,PE,Ayacucho,transparent,true,19.84,AS274029,Kazav Latam E.I.R.L.,2045.31,1784330229.178816

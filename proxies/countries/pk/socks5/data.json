@@ -11,8 +11,8 @@
     "uptime_percent": 67.64,
     "asn": "AS131275",
     "isp": "Logon Broadband Pvt. Limited",
-    "latency_ms": 741.96,
-    "last_checked": 1784328551.4215767
+    "latency_ms": 8068.23,
+    "last_checked": 1784330141.3640215
   },
   {
     "protocol": "socks5",
@@ -23,25 +23,10 @@
     "city": "Karachi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 73.09,
+    "uptime_percent": 73.07,
     "asn": "AS38193",
     "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-    "latency_ms": 3794.39,
-    "last_checked": 1784328544.0451767
-  },
-  {
-    "protocol": "socks5",
-    "ip": "202.70.156.235",
-    "port": 3000,
-    "country": "Pakistan",
-    "country_code": "PK",
-    "city": "Karachi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.41,
-    "asn": "AS9557",
-    "isp": "Pakistan Telecommuication company limited",
-    "latency_ms": 1920.19,
-    "last_checked": 1784328530.8442187
+    "latency_ms": 2137.21,
+    "last_checked": 1784330257.2688503
   }
 ]

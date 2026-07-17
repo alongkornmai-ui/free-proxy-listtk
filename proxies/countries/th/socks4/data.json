@@ -1,63 +1,18 @@
 [
   {
     "protocol": "socks4",
-    "ip": "183.89.217.91",
+    "ip": "1.20.254.32",
     "port": 4153,
     "country": "Thailand",
     "country_code": "TH",
-    "city": "Nikhom Nam Un",
+    "city": "Phon Charoen",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 52.56,
-    "asn": "AS45758",
-    "isp": "Triple T Broadband Public Company Limited",
-    "latency_ms": 4007.61,
-    "last_checked": 1784328548.0631998
-  },
-  {
-    "protocol": "socks4",
-    "ip": "27.131.189.130",
-    "port": 4153,
-    "country": "Thailand",
-    "country_code": "TH",
-    "city": "Lat Phrao",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.88,
-    "asn": "AS24187",
-    "isp": "KIRZ Company Limited",
-    "latency_ms": 1450.04,
-    "last_checked": 1784328545.7031693
-  },
-  {
-    "protocol": "socks4",
-    "ip": "182.53.96.56",
-    "port": 4145,
-    "country": "Thailand",
-    "country_code": "TH",
-    "city": "Bangkok",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 19.47,
+    "uptime_percent": 49.03,
     "asn": "AS23969",
     "isp": "TOT Public Company Limited",
-    "latency_ms": 8103.82,
-    "last_checked": 1784328540.7528439
-  },
-  {
-    "protocol": "socks4",
-    "ip": "1.179.172.45",
-    "port": 31225,
-    "country": "Thailand",
-    "country_code": "TH",
-    "city": "Bangkok",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.54,
-    "asn": "AS131293",
-    "isp": "TOT Public Company Limited",
-    "latency_ms": 1148.82,
-    "last_checked": 1784328533.269776
+    "latency_ms": 1875.69,
+    "last_checked": 1784330219.7322977
   },
   {
     "protocol": "socks4",
@@ -71,8 +26,8 @@
     "uptime_percent": 17.94,
     "asn": "AS131293",
     "isp": "TOT Public Company Limited",
-    "latency_ms": 1022.66,
-    "last_checked": 1784328525.5095563
+    "latency_ms": 8307.18,
+    "last_checked": 1784330210.1093063
   },
   {
     "protocol": "socks4",
@@ -83,11 +38,11 @@
     "city": "Chiang Mai",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.25,
+    "uptime_percent": 35.37,
     "asn": "AS23969",
     "isp": "TOT Public Company Limited",
-    "latency_ms": 8062.69,
-    "last_checked": 1784328482.920276
+    "latency_ms": 1951.05,
+    "last_checked": 1784330200.2368784
   },
   {
     "protocol": "socks4",
@@ -98,10 +53,55 @@
     "city": "Bangkok",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 49.08,
+    "uptime_percent": 49.07,
     "asn": "AS23969",
     "isp": "TOT Public Company Limited",
-    "latency_ms": 7997.16,
-    "last_checked": 1784328473.4990752
+    "latency_ms": 3898.28,
+    "last_checked": 1784330184.5836403
+  },
+  {
+    "protocol": "socks4",
+    "ip": "27.131.189.130",
+    "port": 4153,
+    "country": "Thailand",
+    "country_code": "TH",
+    "city": "Lat Phrao",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.85,
+    "asn": "AS24187",
+    "isp": "KIRZ Company Limited",
+    "latency_ms": 854.17,
+    "last_checked": 1784330184.3932188
+  },
+  {
+    "protocol": "socks4",
+    "ip": "183.88.248.232",
+    "port": 4145,
+    "country": "Thailand",
+    "country_code": "TH",
+    "city": "Ban Mai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.89,
+    "asn": "AS45758",
+    "isp": "Triple T Broadband Public Company Limited",
+    "latency_ms": 8135.34,
+    "last_checked": 1784330264.0170944
+  },
+  {
+    "protocol": "socks4",
+    "ip": "183.89.217.91",
+    "port": 4153,
+    "country": "Thailand",
+    "country_code": "TH",
+    "city": "Nikhom Nam Un",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.52,
+    "asn": "AS45758",
+    "isp": "Triple T Broadband Public Company Limited",
+    "latency_ms": 996.52,
+    "last_checked": 1784330231.6151714
   }
 ]

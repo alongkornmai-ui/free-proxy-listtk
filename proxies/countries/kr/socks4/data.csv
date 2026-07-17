@@ -1,5 +1,10 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,114.108.177.104,60984,South Korea,KR,Daejeon,elite,true,24.18,AS3786,LG DACOM KIDC,4139.7,1784328548.0820255
-socks4,121.139.218.165,43295,South Korea,KR,Ansan-si,elite,true,26.58,AS4766,Korea Telecom,1295.91,1784328596.729078
-socks4,130.162.141.185,52916,South Korea,KR,Seoul,elite,true,59.26,AS31898,Oracle Corporation,9475.56,1784328586.350367
-socks4,152.70.237.238,3128,South Korea,KR,Seoul,elite,true,53.24,AS31898,Oracle Corporation,1120.08,1784328573.038989
+socks4,114.108.177.104,60984,South Korea,KR,Daejeon,elite,true,24.18,AS3786,LG DACOM KIDC,8354.76,1784330186.3334525
+socks4,8.220.205.172,11,South Korea,KR,Seoul,elite,true,0.94,AS45102,"Alibaba (US) Technology Co., Ltd.",3543.28,1784330172.4977858
+socks4,58.229.240.204,9050,South Korea,KR,Gwangjin-gu,elite,true,40.57,AS9318,SK Broadband Co Ltd,9264.05,1784330170.1750455
+socks4,8.220.205.172,18081,South Korea,KR,Seoul,elite,true,0.73,AS45102,"Alibaba (US) Technology Co., Ltd.",6567.17,1784330169.9269052
+socks4,8.220.205.172,8060,South Korea,KR,Seoul,elite,true,0.9,AS45102,"Alibaba (US) Technology Co., Ltd.",6569.23,1784330168.6455355
+socks4,58.235.170.51,5678,South Korea,KR,Chilgok-gun,elite,true,61.81,AS9318,SK Broadband Co Ltd,1306.57,1784330273.3911622
+socks4,152.70.237.238,3128,South Korea,KR,Seoul,elite,true,53.25,AS31898,Oracle Corporation,4180.12,1784330270.8688474
+socks4,146.56.191.98,14785,South Korea,KR,Seoul,elite,true,25.0,AS31898,Oracle Corporation,3462.61,1784330261.6053853
+socks4,130.162.141.185,52916,South Korea,KR,Seoul,elite,true,59.26,AS31898,Oracle Corporation,13751.52,1784330259.7824328

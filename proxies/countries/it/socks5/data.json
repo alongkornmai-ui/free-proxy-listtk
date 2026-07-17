@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks5",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 85.59,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 890.93,
+    "last_checked": 1784330275.7367702
+  },
+  {
+    "protocol": "socks5",
     "ip": "212.77.75.25",
     "port": 1088,
     "country": "Italy",
@@ -11,22 +26,7 @@
     "uptime_percent": 99.87,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 1053.73,
-    "last_checked": 1784328599.9880028
-  },
-  {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 85.58,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 1043.57,
-    "last_checked": 1784328558.5273108
+    "latency_ms": 193.96,
+    "last_checked": 1784330246.3986588
   }
 ]

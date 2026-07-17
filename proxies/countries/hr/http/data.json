@@ -8,25 +8,25 @@
     "city": "Rijeka",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 44.01,
+    "uptime_percent": 44.03,
     "asn": "AS29485",
     "isp": "A1 Hrvatska d.o.o.",
-    "latency_ms": 3702.39,
-    "last_checked": 1784328485.6574502
+    "latency_ms": 10531.58,
+    "last_checked": 1784330196.396887
   },
   {
     "protocol": "http",
     "ip": "212.92.204.54",
-    "port": 80,
+    "port": 8080,
     "country": "Croatia",
     "country_code": "HR",
     "city": "Zagreb",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 6.26,
+    "ssl": true,
+    "uptime_percent": 6.31,
     "asn": "AS35549",
     "isp": "A1 Hrvatska d.o.o",
-    "latency_ms": 8303.99,
-    "last_checked": 1784328525.1169443
+    "latency_ms": 7527.09,
+    "last_checked": 1784330180.9437902
   }
 ]

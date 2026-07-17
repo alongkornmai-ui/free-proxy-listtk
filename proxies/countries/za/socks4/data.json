@@ -1,17 +1,47 @@
 [
   {
     "protocol": "socks4",
-    "ip": "102.211.56.106",
-    "port": 9051,
+    "ip": "102.214.147.147",
+    "port": 4153,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Johannesburg",
+    "city": "Jeffreys Bay",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.08,
-    "asn": "AS329325",
-    "isp": "Maxko for Gaming Development",
-    "latency_ms": 1485.41,
-    "last_checked": 1784328549.3311908
+    "uptime_percent": 42.29,
+    "asn": "AS329124",
+    "isp": "TrueTechnologies",
+    "latency_ms": 1844.8,
+    "last_checked": 1784330197.541726
+  },
+  {
+    "protocol": "socks4",
+    "ip": "197.100.98.169",
+    "port": 1080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Bloemfontein",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.07,
+    "asn": "AS3741",
+    "isp": "Dimension Data",
+    "latency_ms": 8084.38,
+    "last_checked": 1784330178.6902661
+  },
+  {
+    "protocol": "socks4",
+    "ip": "165.165.178.142",
+    "port": 4153,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "East London",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.98,
+    "asn": "AS5713",
+    "isp": "Telkom SA Ltd.",
+    "latency_ms": 1964.73,
+    "last_checked": 1784330244.162372
   }
 ]

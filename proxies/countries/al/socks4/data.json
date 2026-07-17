@@ -1,36 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "78.159.131.139",
-    "port": 1082,
-    "country": "Albania",
-    "country_code": "AL",
-    "city": "Elbasan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 73.91,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1097.8,
-    "last_checked": 1784328549.205169
-  },
-  {
-    "protocol": "socks4",
-    "ip": "78.159.131.112",
-    "port": 1081,
-    "country": "Albania",
-    "country_code": "AL",
-    "city": "Elbasan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 79.8,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1085.79,
-    "last_checked": 1784328547.6101139
-  },
-  {
-    "protocol": "socks4",
     "ip": "78.159.131.131",
     "port": 1082,
     "country": "Albania",
@@ -38,11 +8,26 @@
     "city": "Elbasan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 77.27,
+    "uptime_percent": 77.3,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 11237.78,
-    "last_checked": 1784328536.3158271
+    "latency_ms": 1078.65,
+    "last_checked": 1784330219.6776788
+  },
+  {
+    "protocol": "socks4",
+    "ip": "78.159.131.112",
+    "port": 1082,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Elbasan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 74.88,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3143.72,
+    "last_checked": 1784330219.3332493
   },
   {
     "protocol": "socks4",
@@ -56,38 +41,38 @@
     "uptime_percent": 78.36,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 7350.85,
-    "last_checked": 1784328531.273469
+    "latency_ms": 4142.61,
+    "last_checked": 1784330216.3252642
   },
   {
     "protocol": "socks4",
-    "ip": "78.159.131.131",
-    "port": 1081,
+    "ip": "78.159.131.139",
+    "port": 1082,
     "country": "Albania",
     "country_code": "AL",
     "city": "Elbasan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.33,
+    "uptime_percent": 73.95,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2147.2,
-    "last_checked": 1784328529.9827368
+    "latency_ms": 7236.79,
+    "last_checked": 1784330210.0991488
   },
   {
     "protocol": "socks4",
     "ip": "78.159.131.112",
-    "port": 1082,
+    "port": 1081,
     "country": "Albania",
     "country_code": "AL",
     "city": "Elbasan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 74.8,
+    "uptime_percent": 79.82,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 7207.89,
-    "last_checked": 1784328522.3573127
+    "latency_ms": 7180.95,
+    "last_checked": 1784330209.6766167
   },
   {
     "protocol": "socks4",
@@ -98,11 +83,26 @@
     "city": "Elbasan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 84.72,
+    "uptime_percent": 84.66,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 77.19,
-    "last_checked": 1784328590.5119529
+    "latency_ms": 1089.44,
+    "last_checked": 1784330275.1293402
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.190.90.2",
+    "port": 4145,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Rrashbull",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.59,
+    "asn": "AS212637",
+    "isp": "Lightnet Sh.p.k.",
+    "latency_ms": 7411.14,
+    "last_checked": 1784330264.697404
   },
   {
     "protocol": "socks4",
@@ -113,10 +113,10 @@
     "city": "Elbasan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 84.7,
+    "uptime_percent": 84.68,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 48.39,
-    "last_checked": 1784328586.9546812
+    "latency_ms": 57.77,
+    "last_checked": 1784330254.5401804
   }
 ]

@@ -1,3 +1,4 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,85.132.139.45,4153,Czechia,CZ,Slavkov u Brna,elite,true,44.07,AS205400,GIN's network,7236.08,1784328536.7612677
-socks4,109.69.211.18,1080,Czechia,CZ,Přerov,elite,true,59.05,AS196815,LAN servis s.r.o,3179.15,1784328533.4172077
+socks4,109.69.211.18,1080,Czechia,CZ,Přerov,elite,true,59.05,AS196815,LAN servis s.r.o,145.88,1784330212.2638335
+socks4,85.132.139.45,4153,Czechia,CZ,Slavkov u Brna,elite,true,44.06,AS205400,GIN's network,7337.55,1784330189.6518893
+socks4,90.178.216.215,4153,Czechia,CZ,Prague,elite,true,42.8,AS5610,"Telefonica O2 Czech Republic, a.s.",1326.34,1784330273.9333084

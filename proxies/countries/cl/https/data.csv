@@ -1,3 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,38.7.195.51,999,Chile,CL,Santiago,transparent,true,28.56,AS263702,Grupo ZGH SpA,2653.81,1784328520.8915927
-http,38.7.195.49,999,Chile,CL,Santiago,transparent,true,36.23,AS263702,Grupo ZGH SpA,4468.99,1784328493.2725422
+http,200.95.184.58,999,Chile,CL,Chillan,transparent,true,13.04,AS264859,Comunicaciones Cablevision Ltda.,4549.52,1784330083.9502516
+http,45.225.204.97,999,Chile,CL,Las Cabras,transparent,true,14.77,AS265858,Netdelsur Telecomunicaciones SPA,5701.79,1784330059.5182476
+http,38.7.195.49,999,Chile,CL,Santiago,transparent,true,36.23,AS263702,Grupo ZGH SpA,2060.5,1784330259.7824721
+http,38.7.195.51,999,Chile,CL,Santiago,transparent,true,28.57,AS263702,Grupo ZGH SpA,10015.34,1784330249.5753288

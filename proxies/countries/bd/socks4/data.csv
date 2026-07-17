@@ -1,3 +1,4 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,103.114.97.59,80,Bangladesh,BD,Rāipur,elite,true,51.33,AS137449,Skynet Chowmuhani,8263.11,1784328509.060278
-socks4,103.42.228.19,1080,Bangladesh,BD,Rāmganj,elite,true,50.87,AS137449,Skynet Chowmuhani,3993.37,1784328563.2091742
+socks4,123.200.6.58,5678,Bangladesh,BD,Dhaka,elite,true,24.0,AS23688,Link3 Technologies Limited,5579.62,1784330214.4830558
+socks4,103.81.104.53,9090,Bangladesh,BD,Dhaka,elite,true,68.01,AS136141,Dilara Tower(lavel 7),1825.29,1784330253.5734763
+socks4,103.83.233.165,1080,Bangladesh,BD,Naogaon,elite,true,49.5,AS153038,Mohammad Masfiequr Rahaman & Rony Saha,902.68,1784330253.4207823

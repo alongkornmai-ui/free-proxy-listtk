@@ -8,10 +8,10 @@
     "city": "Arinj",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 90.11,
+    "uptime_percent": 90.13,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 221.4,
-    "last_checked": 1784328507.3467813
+    "latency_ms": 221.71,
+    "last_checked": 1784330203.9352398
   }
 ]

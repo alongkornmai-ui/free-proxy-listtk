@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "138.124.102.98",
+    "port": 8082,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.46,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 2653.29,
+    "last_checked": 1784330212.499959
+  },
+  {
+    "protocol": "http",
     "ip": "77.221.149.98",
     "port": 3128,
     "country": "Sweden",
@@ -8,11 +23,41 @@
     "city": "Stockholm",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 31.73,
+    "uptime_percent": 31.8,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 15359.84,
-    "last_checked": 1784328520.8888826
+    "latency_ms": 15117.6,
+    "last_checked": 1784330184.774318
+  },
+  {
+    "protocol": "http",
+    "ip": "109.120.155.157",
+    "port": 3128,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.76,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 4190.11,
+    "last_checked": 1784330106.5755568
+  },
+  {
+    "protocol": "http",
+    "ip": "194.154.31.227",
+    "port": 3128,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Falkenberg",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 28.43,
+    "asn": "AS48040",
+    "isp": "Fornex Hosting S.L.",
+    "latency_ms": 19239.94,
+    "last_checked": 1784330015.8746643
   },
   {
     "protocol": "http",
@@ -23,10 +68,10 @@
     "city": "Stockholm",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 35.2,
+    "uptime_percent": 35.22,
     "asn": "AS198550",
     "isp": "Node Host Limited",
-    "latency_ms": 1174.69,
-    "last_checked": 1784328444.6632376
+    "latency_ms": 4151.58,
+    "last_checked": 1784330253.3173115
   }
 ]

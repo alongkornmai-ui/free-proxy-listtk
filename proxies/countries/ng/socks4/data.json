@@ -1,17 +1,32 @@
 [
   {
     "protocol": "socks4",
-    "ip": "154.113.17.107",
+    "ip": "154.113.170.1",
     "port": 5678,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Benin City",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.46,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 3623.49,
+    "last_checked": 1784330260.6133437
+  },
+  {
+    "protocol": "socks4",
+    "ip": "41.75.84.86",
+    "port": 4153,
     "country": "Nigeria",
     "country_code": "NG",
     "city": "Lagos",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 5.04,
+    "uptime_percent": 46.93,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 7657.89,
-    "last_checked": 1784328582.4259515
+    "latency_ms": 593.76,
+    "last_checked": 1784330257.5738375
   }
 ]

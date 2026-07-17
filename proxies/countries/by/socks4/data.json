@@ -8,10 +8,10 @@
     "city": "Minsk",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 38.76,
+    "uptime_percent": 38.86,
     "asn": "AS6697",
     "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-    "latency_ms": 3204.73,
-    "last_checked": 1784328530.6708522
+    "latency_ms": 2137.41,
+    "last_checked": 1784330218.1307628
   }
 ]

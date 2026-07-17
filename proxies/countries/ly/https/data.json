@@ -1,51 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "102.38.13.9",
-    "port": 19000,
-    "country": "Libya",
-    "country_code": "LY",
-    "city": "Tripoli",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 8.25,
-    "asn": "AS328539",
-    "isp": "Giga for Telecommunication and Technology Limited",
-    "latency_ms": 11182.45,
-    "last_checked": 1784328485.830616
-  },
-  {
-    "protocol": "http",
-    "ip": "165.16.92.193",
-    "port": 8102,
-    "country": "Libya",
-    "country_code": "LY",
-    "city": "Tripoli",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 5.54,
-    "asn": "AS37284",
-    "isp": "Aljeel Aljadeed For Technology",
-    "latency_ms": 299.99,
-    "last_checked": 1784328581.5177486
-  },
-  {
-    "protocol": "http",
-    "ip": "165.16.92.193",
-    "port": 8103,
-    "country": "Libya",
-    "country_code": "LY",
-    "city": "Tripoli",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 8.17,
-    "asn": "AS37284",
-    "isp": "Aljeel Aljadeed For Technology",
-    "latency_ms": 1012.41,
-    "last_checked": 1784328573.2950108
-  },
-  {
-    "protocol": "http",
     "ip": "154.127.78.16",
     "port": 44444,
     "country": "Libya",
@@ -53,10 +8,25 @@
     "city": "Waddān",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 12.07,
+    "uptime_percent": 12.08,
     "asn": "AS37284",
     "isp": "Aljeel Aljadeed For Technology",
-    "latency_ms": 1410.97,
-    "last_checked": 1784328466.4456122
+    "latency_ms": 10373.28,
+    "last_checked": 1784330212.688056
+  },
+  {
+    "protocol": "http",
+    "ip": "165.16.92.193",
+    "port": 8104,
+    "country": "Libya",
+    "country_code": "LY",
+    "city": "Tripoli",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.88,
+    "asn": "AS37284",
+    "isp": "Aljeel Aljadeed For Technology",
+    "latency_ms": 3289.46,
+    "last_checked": 1784330140.599919
   }
 ]

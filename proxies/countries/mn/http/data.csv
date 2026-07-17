@@ -1,2 +1,4 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,43.242.241.47,8080,Mongolia,MN,Ulan Bator,transparent,false,12.13,AS17882,MCS Com Co Ltd,11934.26,1784328531.64788
+http,103.11.193.77,8080,Mongolia,MN,Ulan Bator,transparent,true,39.8,AS17882,MCS-Univision,7794.01,1784330028.5307205
+http,202.21.106.35,8080,Mongolia,MN,Ulan Bator,transparent,false,11.67,AS9484,Mobinet LLC,3307.91,1784330229.8161077
+http,43.242.241.47,8080,Mongolia,MN,Ulan Bator,transparent,false,12.13,AS17882,MCS Com Co Ltd,2061.66,1784330192.5328648

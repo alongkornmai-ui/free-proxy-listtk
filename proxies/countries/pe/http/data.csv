@@ -1,13 +1,22 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,190.43.59.119,999,Peru,PE,Trujillo,transparent,true,54.89,AS6147,Telefonica Del Peru,8038.63,1784328525.7798705
-http,181.174.225.67,999,Peru,PE,Lima,transparent,false,12.37,AS272059,CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.,5783.1,1784328521.8182056
-http,38.158.83.193,999,Peru,PE,Arequipa,transparent,true,13.71,AS272838,Fiberred SAC,8580.74,1784328470.7478507
-http,64.76.106.106,999,Peru,PE,Lima,transparent,false,41.5,AS273067,Loa Network,3992.83,1784328466.6012614
-http,38.188.101.197,999,Peru,PE,Pichari,transparent,true,21.69,AS272976,Ifox Telecomunicaciones,2067.66,1784328450.6646128
-http,190.216.163.195,999,Peru,PE,Puno,transparent,false,23.63,AS3549,Level 3 Peru S.A,3767.07,1784328444.66389
-http,38.252.215.197,999,Peru,PE,Independencia,transparent,false,10.07,AS274156,Cogent Communications,4858.58,1784328420.6709063
-http,38.172.129.168,999,Peru,PE,Lima,transparent,false,18.69,AS273133,Conex TV E.I.R.L,534.62,1784328402.3711414
-http,38.172.128.139,999,Peru,PE,Lima,transparent,false,17.04,AS273133,Conex TV E.I.R.L,4324.94,1784328398.8918095
-http,200.123.27.122,999,Peru,PE,Lima,transparent,true,39.37,AS22411,Wigo S.A.,612.69,1784328589.5876322
-http,201.230.121.228,999,Peru,PE,Puno,transparent,false,29.29,AS6147,Telefonica Del Peru,1874.2,1784328583.5471966
-http,209.45.68.241,999,Peru,PE,Miraflores,transparent,true,45.22,AS3132,Red Cientifica Peruana,865.73,1784328572.4604445
+http,190.43.59.119,999,Peru,PE,Trujillo,transparent,true,54.91,AS6147,Telefonica Del Peru,2048.27,1784330198.6872025
+http,38.199.6.82,999,Peru,PE,Lima,anonymous,false,31.01,AS273067,Loa Network,9700.08,1784330188.6878636
+http,190.216.163.195,999,Peru,PE,Puno,transparent,false,23.64,AS3549,Level 3 Peru S.A,7967.15,1784330180.9610858
+http,45.236.44.94,8080,Peru,PE,Lima,transparent,true,15.16,AS27843,Optical Technologies S.A.C.,580.51,1784330155.2708855
+http,38.183.183.114,999,Peru,PE,Huaura,transparent,true,10.86,AS273084,Forza Bussines S.A.C,2096.98,1784330153.2680264
+http,200.106.124.50,999,Peru,PE,Pocollay,transparent,false,45.49,AS6147,Telefonica del Peru,1641.68,1784330152.2878199
+http,200.107.142.39,3128,Peru,PE,Tabaconas,transparent,false,8.4,AS6147,Telefonica del Peru S.A.A.,8493.0,1784330133.576943
+http,38.158.83.161,999,Peru,PE,Arequipa,transparent,false,13.3,AS272838,Fiberred SAC,12769.33,1784330109.0839043
+http,38.19.228.244,999,Peru,PE,Lima,transparent,false,25.4,AS273133,Conex TV E.I.R.L,3624.06,1784330084.9998703
+http,138.99.176.139,999,Peru,PE,Lima,transparent,false,10.39,AS271842,NET WIN PERU,3587.99,1784330039.3306253
+http,190.12.95.170,47029,Peru,PE,Lima,elite,true,5.53,AS27843,ON EMPRESAS S.A.C,9950.85,1784330014.2225652
+http,201.230.121.244,999,Peru,PE,San Borja,transparent,true,10.78,AS6147,Telefonica Del Peru,4804.32,1784330265.432702
+http,45.190.170.0,999,Peru,PE,Cieneguilla,transparent,true,6.78,AS269898,Softbutterfly SAC,7829.42,1784330254.6681697
+http,38.250.116.58,3128,Peru,PE,Lima,elite,true,9.07,AS3132,Red Cientifica Peruana,549.98,1784330248.6631892
+http,161.132.45.17,1081,Peru,PE,Tucsipampa,elite,false,33.06,AS3132,Red Cientifica Peruana,2562.95,1784330247.4839168
+http,38.226.49.202,8080,Peru,PE,Ayacucho,transparent,true,19.84,AS274029,Kazav Latam E.I.R.L.,2045.31,1784330229.178816
+http,45.189.116.122,999,Peru,PE,Lima,transparent,false,37.59,AS273133,Conex TV E.I.R.L,4050.5,1784330206.3229136
+http,201.230.121.228,999,Peru,PE,Puno,transparent,false,29.3,AS6147,Telefonica Del Peru,13775.19,1784330205.6399379
+http,64.76.106.106,999,Peru,PE,Lima,transparent,false,41.53,AS273067,Loa Network,8400.11,1784330195.9262087
+http,200.123.27.122,999,Peru,PE,Lima,transparent,false,43.75,AS22411,Wigo S.A.,3465.22,1784330107.5359042
+http,45.189.117.72,999,Peru,PE,Lima,transparent,false,4.47,AS273133,Conex TV E.I.R.L.,3587.75,1784329969.4291914

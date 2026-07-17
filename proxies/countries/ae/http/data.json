@@ -11,8 +11,8 @@
     "uptime_percent": 80.09,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 620.22,
-    "last_checked": 1784328529.425944
+    "latency_ms": 750.7,
+    "last_checked": 1784330110.8250694
   },
   {
     "protocol": "http",
@@ -23,10 +23,10 @@
     "city": "Dubai",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 61.27,
+    "uptime_percent": 61.29,
     "asn": "AS15802",
     "isp": "Emirates Integrated Telecommunications Company PJSC",
-    "latency_ms": 10344.19,
-    "last_checked": 1784328490.5205185
+    "latency_ms": 12323.93,
+    "last_checked": 1784330171.341458
   }
 ]

@@ -1,16 +1,13 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,34.84.162.206,38080,Japan,JP,Tokyo,elite,true,45.16,AS396982,Google LLC,982.4,1784328535.640479
-http,180.34.117.197,8080,Japan,JP,Yokohama,transparent,true,96.24,AS4713,NTT Communications Corporation,1051.96,1784328515.7289279
-http,133.232.90.156,80,Japan,JP,Chiyoda City,elite,false,8.4,AS2514,"NTT PC Communications, Inc.",5923.18,1784328495.8053062
-http,5.104.81.13,8118,Japan,JP,Chiyoda City,elite,false,18.78,AS141995,Contabo Asia Private Limited,3216.1,1784328495.288171
-http,45.32.8.165,6688,Japan,JP,Minamishinagawa,elite,false,35.66,AS20473,Choopa,6081.78,1784328487.5935585
-http,8.209.214.143,3128,Japan,JP,Tokyo,transparent,true,49.97,AS45102,"Alibaba (US) Technology Co., Ltd.",3685.18,1784328458.912538
-http,133.232.90.126,80,Japan,JP,Chiyoda City,elite,false,16.87,AS2514,"NTT PC Communications, Inc.",8899.46,1784328448.331619
-http,45.76.223.103,1080,Japan,JP,Minamishinagawa,elite,false,31.47,AS20473,The Constant Company,19209.7,1784328437.0423646
-http,8.209.255.13,3128,Japan,JP,Tokyo,elite,true,77.67,AS45102,"Alibaba (US) Technology Co., Ltd.",708.41,1784328435.8975117
-http,52.185.184.73,8561,Japan,JP,Tokyo,transparent,true,23.1,AS8075,Microsoft Corporation,8090.35,1784328427.3198624
-http,140.238.32.108,3128,Japan,JP,Tokyo,elite,true,87.41,AS31898,Oracle Corporation,11786.25,1784328417.6417346
-http,61.118.38.234,60808,Japan,JP,Honchō,elite,false,7.95,AS4713,Open Computer Network,2812.49,1784328364.2723923
-http,160.248.7.177,80,Japan,JP,Ogura,elite,false,25.57,AS2514,"NTT PC Communications, Inc.",3799.15,1784328582.3038087
-http,158.101.89.163,3123,Japan,JP,Tokyo,transparent,true,17.65,AS31898,Oracle Corporation,8809.41,1784328555.30577
-http,168.138.202.218,3128,Japan,JP,Tokyo,transparent,true,12.47,AS31898,Oracle Corporation,12860.53,1784328555.1722991
+http,180.34.117.197,8080,Japan,JP,Yokohama,transparent,true,96.24,AS4713,NTT Communications Corporation,994.08,1784330205.0526335
+http,34.84.162.206,38080,Japan,JP,Tokyo,elite,false,45.16,AS396982,Google LLC,3237.22,1784330203.8978028
+http,5.104.81.13,8118,Japan,JP,Chiyoda City,elite,false,18.82,AS141995,Contabo Asia Private Limited,8081.86,1784330161.4563618
+http,140.238.32.108,3128,Japan,JP,Tokyo,elite,true,87.42,AS31898,Oracle Corporation,11781.46,1784330122.4827073
+http,140.227.202.251,3128,Japan,JP,Hyakuninchō,elite,false,37.4,AS2514,InfoSphere,1760.55,1784330117.8201394
+http,61.118.38.234,60808,Japan,JP,Honchō,elite,false,7.96,AS4713,Open Computer Network,9268.94,1784330104.3679097
+http,140.245.85.78,3128,Japan,JP,Tokyo,transparent,false,4.3,AS31898,Oracle Corporation,10878.11,1784330017.6300426
+http,168.138.202.218,3128,Japan,JP,Tokyo,transparent,true,12.47,AS31898,Oracle Corporation,837.64,1784330261.7703953
+http,158.101.89.163,3123,Japan,JP,Tokyo,transparent,true,17.68,AS31898,Oracle Corporation,6571.68,1784330242.4231277
+http,160.251.171.151,8080,Japan,JP,Chiyoda City,transparent,false,20.88,AS58791,"GMO Internet, Inc",12019.23,1784330188.6273613
+http,40.81.205.181,1080,Japan,JP,Tokyo,transparent,true,99.23,AS8075,Microsoft Corporation,770.85,1784330153.246233
+http,133.232.90.85,80,Japan,JP,Chiyoda City,elite,false,5.86,AS2514,"NTT PC Communications, Inc.",12037.91,1784330115.559934

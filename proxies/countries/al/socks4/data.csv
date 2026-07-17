@@ -1,9 +1,9 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,78.159.131.139,1082,Albania,AL,Elbasan,elite,true,73.91,AS215540,Global Connectivity Solutions LLP,1097.8,1784328549.205169
-socks4,78.159.131.112,1081,Albania,AL,Elbasan,elite,true,79.8,AS215540,Global Connectivity Solutions LLP,1085.79,1784328547.6101139
-socks4,78.159.131.131,1082,Albania,AL,Elbasan,elite,true,77.27,AS215540,Global Connectivity Solutions LLP,11237.78,1784328536.3158271
-socks4,78.159.131.139,1081,Albania,AL,Elbasan,elite,true,78.36,AS215540,Global Connectivity Solutions LLP,7350.85,1784328531.273469
-socks4,78.159.131.131,1081,Albania,AL,Elbasan,elite,true,81.33,AS215540,Global Connectivity Solutions LLP,2147.2,1784328529.9827368
-socks4,78.159.131.112,1082,Albania,AL,Elbasan,elite,true,74.8,AS215540,Global Connectivity Solutions LLP,7207.89,1784328522.3573127
-socks4,147.45.221.115,1082,Albania,AL,Elbasan,elite,true,84.72,AS215540,Global Connectivity Solutions LLP,77.19,1784328590.5119529
-socks4,147.45.221.115,1081,Albania,AL,Elbasan,elite,true,84.7,AS215540,Global Connectivity Solutions LLP,48.39,1784328586.9546812
+socks4,78.159.131.131,1082,Albania,AL,Elbasan,elite,true,77.3,AS215540,Global Connectivity Solutions LLP,1078.65,1784330219.6776788
+socks4,78.159.131.112,1082,Albania,AL,Elbasan,elite,true,74.88,AS215540,Global Connectivity Solutions LLP,3143.72,1784330219.3332493
+socks4,78.159.131.139,1081,Albania,AL,Elbasan,elite,true,78.36,AS215540,Global Connectivity Solutions LLP,4142.61,1784330216.3252642
+socks4,78.159.131.139,1082,Albania,AL,Elbasan,elite,true,73.95,AS215540,Global Connectivity Solutions LLP,7236.79,1784330210.0991488
+socks4,78.159.131.112,1081,Albania,AL,Elbasan,elite,true,79.82,AS215540,Global Connectivity Solutions LLP,7180.95,1784330209.6766167
+socks4,147.45.221.115,1082,Albania,AL,Elbasan,elite,true,84.66,AS215540,Global Connectivity Solutions LLP,1089.44,1784330275.1293402
+socks4,185.190.90.2,4145,Albania,AL,Rrashbull,elite,true,14.59,AS212637,Lightnet Sh.p.k.,7411.14,1784330264.697404
+socks4,147.45.221.115,1081,Albania,AL,Elbasan,elite,true,84.68,AS215540,Global Connectivity Solutions LLP,57.77,1784330254.5401804

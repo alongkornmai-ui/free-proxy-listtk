@@ -1,25 +1,31 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,193.239.86.180,80,Hong Kong,HK,Hong Kong,elite,false,92.59,AS9009,M247 Europe SRL,1066.59,1784328547.9272456
-http,47.76.144.139,8123,Hong Kong,HK,Hong Kong,elite,false,0.74,AS45102,Alibaba Cloud LLC,2370.04,1784328546.4360843
-http,47.76.144.139,8888,Hong Kong,HK,Hong Kong,elite,false,0.76,AS45102,Alibaba Cloud LLC,2363.55,1784328543.450996
-http,8.210.93.183,8213,Hong Kong,HK,Hong Kong,transparent,true,61.5,AS45102,Alibaba.com LLC,1017.66,1784328512.949475
-http,68.64.179.186,8080,Hong Kong,HK,Tai Kok Tsui,elite,false,16.06,AS139659,LucidaCloud Limited,12870.37,1784328501.3878875
-http,118.193.37.78,3128,Hong Kong,HK,Hong Kong,transparent,false,27.07,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,13937.75,1784328494.6336687
-http,47.243.92.199,3128,Hong Kong,HK,Hong Kong,elite,false,84.67,AS45102,Alibaba Cloud LLC,1254.26,1784328479.9530606
-http,103.167.61.162,3128,Hong Kong,HK,Mid Levels,elite,true,87.66,AS398704,Stacks Inc,7620.63,1784328478.5274224
-http,103.1.50.45,3125,Hong Kong,HK,Kwun Tong,transparent,false,7.93,AS142352,CPCNet Hong Kong Ltd. - IP Administrator,10910.95,1784328477.523919
-http,103.43.191.71,8888,Hong Kong,HK,Kwai Chung,elite,true,95.92,AS139021,West263 International Limited,1800.05,1784328475.3963194
-http,8.217.64.30,11080,Hong Kong,HK,Hong Kong,elite,true,41.72,AS45102,"Alibaba (US) Technology Co., Ltd.",6564.25,1784328463.3279436
-http,47.242.243.198,2233,Hong Kong,HK,Hong Kong,elite,true,95.23,AS45102,Alibaba.com LLC,872.06,1784328445.018537
-http,20.205.16.149,3128,Hong Kong,HK,Hong Kong,transparent,true,12.59,AS8075,Microsoft Corporation,12343.17,1784328442.9839602
-http,216.236.6.203,7890,Hong Kong,HK,Kwai Chung,elite,true,14.69,AS48266,Eons Data Communications Limited,699.91,1784328430.3562617
-http,101.36.109.77,8118,Hong Kong,HK,Hong Kong,elite,true,94.71,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,863.53,1784328429.4891365
-http,216.236.6.203,7892,Hong Kong,HK,Kwai Chung,elite,true,13.91,AS48266,Eons Data Communications Limited,724.04,1784328429.004089
-http,183.178.50.58,8080,Hong Kong,HK,Kwai Chung,transparent,false,7.24,AS9269,Hong Kong Broadband Network Limited,7397.84,1784328401.0118492
-http,47.238.106.120,666,Hong Kong,HK,Hong Kong,elite,false,67.57,AS45102,Alibaba Cloud LLC,2472.2,1784328391.5620246
-http,103.69.129.89,24444,Hong Kong,HK,Hong Kong,transparent,true,89.3,AS63473,"HostHatch, LLC",11346.54,1784328349.188009
-http,103.73.66.232,24444,Hong Kong,HK,Hong Kong,transparent,true,89.56,AS63473,HostHatch,7938.17,1784328581.703403
-http,156.247.40.95,8888,Hong Kong,HK,Hong Kong,elite,true,71.01,AS401739,Yancy Limited,15832.21,1784328563.7112422
-http,203.19.38.114,1080,Hong Kong,HK,Hong Kong,elite,false,75.42,AS23764,China Telecom Global networks,500.21,1784328555.0782044
-http,43.161.239.147,11090,Hong Kong,HK,Hong Kong,elite,true,60.44,AS132203,Aceville Pte.ltd,1648.84,1784328543.3994377
-http,129.226.127.245,18080,Hong Kong,HK,Hong Kong,elite,true,75.69,AS132203,Tencent Cloud Computing (Beijing) Co,631.18,1784328541.7065725
+http,34.96.238.40,8080,Hong Kong,HK,Hong Kong,elite,true,23.7,AS396982,Google LLC,610.24,1784330200.4003904
+http,139.198.113.42,10023,Hong Kong,HK,Hong Kong,anonymous,false,41.62,AS134366,Yunify Technologies Inc,8455.74,1784330199.9115067
+http,183.178.50.58,8080,Hong Kong,HK,Kwai Chung,transparent,true,7.24,AS9269,Hong Kong Broadband Network Limited,9547.06,1784330171.7765048
+http,47.239.140.6,80,Hong Kong,HK,Hong Kong,elite,true,53.19,AS45102,Alibaba Cloud LLC,602.56,1784330166.3493295
+http,220.241.20.97,3129,Hong Kong,HK,Central,anonymous,true,23.56,AS4515,PCCW IMS Ltd (PCCW Business Internet Access),635.04,1784330160.869557
+http,8.217.64.30,11080,Hong Kong,HK,Hong Kong,elite,true,41.86,AS45102,"Alibaba (US) Technology Co., Ltd.",720.57,1784330160.2949595
+http,47.243.92.199,3128,Hong Kong,HK,Hong Kong,elite,true,84.67,AS45102,Alibaba Cloud LLC,612.01,1784330155.0189319
+http,14.199.167.175,3128,Hong Kong,HK,Wong Tai Sin,transparent,true,31.6,AS9269,Hong Kong Broadband Network Limited,548.68,1784330146.1405025
+http,103.167.61.162,3128,Hong Kong,HK,Mid Levels,elite,true,87.67,AS398704,Stacks Inc,12535.22,1784330140.7807488
+http,34.150.27.141,20001,Hong Kong,HK,Hong Kong,elite,false,87.41,AS396982,Google LLC,17549.07,1784330135.3053598
+http,47.242.243.198,2233,Hong Kong,HK,Hong Kong,elite,true,95.23,AS45102,Alibaba.com LLC,862.32,1784330135.26746
+http,101.36.109.77,8118,Hong Kong,HK,Hong Kong,elite,true,94.71,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1949.38,1784330118.3227758
+http,118.193.37.78,3128,Hong Kong,HK,Hong Kong,transparent,true,27.1,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,21192.28,1784330115.1845691
+http,193.239.86.180,80,Hong Kong,HK,Hong Kong,elite,false,92.59,AS9009,M247 Europe SRL,1383.16,1784330115.1619928
+http,8.210.93.183,8213,Hong Kong,HK,Hong Kong,transparent,true,61.51,AS45102,Alibaba.com LLC,620.59,1784330114.6412144
+http,47.238.106.120,666,Hong Kong,HK,Hong Kong,elite,false,67.58,AS45102,Alibaba Cloud LLC,1181.65,1784330092.832888
+http,47.238.203.170,50000,Hong Kong,HK,Hong Kong,elite,true,32.3,AS45102,Alibaba Cloud LLC,2340.86,1784330070.9652846
+http,223.197.178.186,3128,Hong Kong,HK,Central,transparent,false,7.14,AS4760,PCCW IMSBiz,16233.15,1784330046.3332772
+http,165.154.7.156,8888,Hong Kong,HK,Hong Kong,elite,true,54.38,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,883.89,1784330268.0819151
+http,43.255.159.94,3129,Hong Kong,HK,Kwun Tong,elite,true,24.37,AS42960,VH Global Limited,11725.04,1784330254.4623723
+http,129.226.127.245,18080,Hong Kong,HK,Hong Kong,elite,true,75.83,AS132203,Tencent Cloud Computing (Beijing) Co,630.11,1784330250.0801945
+http,43.128.63.68,7890,Hong Kong,HK,Hong Kong,elite,true,75.56,AS132203,Shenzhen Tencent Computer Systems Company Limited,1702.38,1784330243.9798303
+http,20.2.221.52,3456,Hong Kong,HK,Hong Kong,transparent,true,18.07,AS8075,Microsoft Corporation,11492.96,1784330243.743216
+http,103.69.129.89,24444,Hong Kong,HK,Hong Kong,transparent,false,89.31,AS63473,"HostHatch, LLC",16377.56,1784330231.713272
+http,39.109.113.97,4090,Hong Kong,HK,Kwai Chung,elite,false,74.1,AS142403,Yisu Cloud LTD,5504.0,1784330229.9062688
+http,103.43.191.71,8888,Hong Kong,HK,Kwai Chung,elite,true,95.92,AS139021,West263 International Limited,780.92,1784330209.9446576
+http,203.19.38.114,1080,Hong Kong,HK,Hong Kong,elite,false,75.42,AS23764,China Telecom Global networks,527.71,1784330207.698072
+http,43.155.20.204,3128,Hong Kong,HK,Hong Kong,elite,false,53.37,AS132203,Shenzhen Tencent Computer Systems Company Limited,15073.01,1784330205.2286503
+http,156.247.40.95,8888,Hong Kong,HK,Hong Kong,elite,true,70.99,AS401739,Yancy Limited,14898.07,1784330197.1794279
+http,103.226.127.3,10080,Hong Kong,HK,San Po Kong,elite,false,18.35,AS5065,Bunny Communications,4979.16,1784330131.019513

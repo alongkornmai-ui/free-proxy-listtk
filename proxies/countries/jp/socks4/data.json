@@ -1,18 +1,48 @@
 [
   {
     "protocol": "socks4",
-    "ip": "45.76.104.16",
+    "ip": "8.216.32.38",
     "port": 1080,
     "country": "Japan",
     "country_code": "JP",
-    "city": "Minamishinagawa",
+    "city": "Tokyo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 58.08,
+    "uptime_percent": 89.27,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 1001.78,
+    "last_checked": 1784330210.3203356
+  },
+  {
+    "protocol": "socks4",
+    "ip": "31.57.172.220",
+    "port": 10808,
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Tokyo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.8,
+    "asn": "AS212336",
+    "isp": "ByteVirt LLC",
+    "latency_ms": 18947.68,
+    "last_checked": 1784330203.8210764
+  },
+  {
+    "protocol": "socks4",
+    "ip": "64.176.44.31",
+    "port": 7890,
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Osaka",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.73,
     "asn": "AS20473",
     "isp": "The Constant Company",
-    "latency_ms": 1739.25,
-    "last_checked": 1784328546.3949163
+    "latency_ms": 4999.0,
+    "last_checked": 1784330197.795758
   },
   {
     "protocol": "socks4",
@@ -26,38 +56,8 @@
     "uptime_percent": 33.36,
     "asn": "AS20473",
     "isp": "The Constant Company",
-    "latency_ms": 4011.84,
-    "last_checked": 1784328544.2652845
-  },
-  {
-    "protocol": "socks4",
-    "ip": "8.216.32.38",
-    "port": 1080,
-    "country": "Japan",
-    "country_code": "JP",
-    "city": "Tokyo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 89.27,
-    "asn": "AS45102",
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 967.95,
-    "last_checked": 1784328543.1873853
-  },
-  {
-    "protocol": "socks4",
-    "ip": "31.57.172.220",
-    "port": 10808,
-    "country": "Japan",
-    "country_code": "JP",
-    "city": "Tokyo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.79,
-    "asn": "AS212336",
-    "isp": "ByteVirt LLC",
-    "latency_ms": 16177.1,
-    "last_checked": 1784328528.1281776
+    "latency_ms": 1726.86,
+    "last_checked": 1784330178.4445405
   },
   {
     "protocol": "socks4",
@@ -68,10 +68,25 @@
     "city": "Osaka",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 49.12,
+    "uptime_percent": 49.07,
     "asn": "AS20473",
     "isp": "The Constant Company",
-    "latency_ms": 928.45,
-    "last_checked": 1784328591.7453232
+    "latency_ms": 1914.11,
+    "last_checked": 1784330267.257297
+  },
+  {
+    "protocol": "socks4",
+    "ip": "38.54.51.14",
+    "port": 30001,
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Tokyo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.44,
+    "asn": "AS138915",
+    "isp": "Kaopu Cloud HK Limited",
+    "latency_ms": 10463.58,
+    "last_checked": 1784330265.1851985
   }
 ]

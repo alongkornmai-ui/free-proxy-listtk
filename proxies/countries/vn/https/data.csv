@@ -1,26 +1,41 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,113.176.92.71,3128,Vietnam,VN,Bien Hoa,transparent,true,62.37,AS45899,VNPT,2348.82,1784328545.3594582
-http,117.7.80.126,2095,Vietnam,VN,Nam Định,elite,true,64.55,AS7552,VIETTEL,3908.1,1784328541.5868638
-http,118.71.44.153,2096,Vietnam,VN,Hanoi,elite,true,77.28,AS18403,Vietnam Internet Network Information Center,886.67,1784328535.2942185
-http,103.82.20.76,8080,Vietnam,VN,Dich Vong,elite,true,67.69,AS135905,INETACADEMY,8984.67,1784328532.8994472
-http,222.252.97.26,8008,Vietnam,VN,Hanoi,transparent,true,11.41,AS45899,VietNam Post and Telecom Corporation,11868.67,1784328531.589136
-http,117.7.80.184,2114,Vietnam,VN,Nam Định,elite,true,48.77,AS7552,VIETTEL,651.12,1784328521.628758
-http,58.186.168.168,2111,Vietnam,VN,Hanoi,elite,true,80.66,AS18403,FPT Telecom Company,656.69,1784328521.2940238
-http,113.160.132.26,8080,Vietnam,VN,Hanoi,elite,true,97.96,AS45899,VietNam Post and Telecom Corporation,741.25,1784328519.7608948
-http,117.7.80.189,2114,Vietnam,VN,Nam Định,elite,true,49.08,AS7552,VIETTEL,2523.8,1784328506.4262137
-http,117.7.80.189,2027,Vietnam,VN,Nam Định,elite,true,50.41,AS7552,VIETTEL,3030.01,1784328499.3596642
-http,117.7.80.193,2027,Vietnam,VN,Nam Định,elite,true,46.55,AS7552,VIETTEL,3990.11,1784328498.2746873
-http,117.7.80.199,2027,Vietnam,VN,Nam Định,elite,true,48.88,AS7552,VIETTEL,3044.54,1784328496.6494908
-http,58.186.168.168,2080,Vietnam,VN,Hanoi,elite,true,56.28,AS18403,FPT Telecom Company,4713.69,1784328484.4513052
-http,103.129.127.244,8088,Vietnam,VN,Ho Chi Minh City,elite,true,66.62,AS135918,THIENTUANSTECH,13984.02,1784328470.8852909
-http,117.7.80.160,2114,Vietnam,VN,Nam Định,elite,true,47.74,AS7552,VIETTEL,895.2,1784328470.464691
-http,117.7.80.189,2050,Vietnam,VN,Nam Định,elite,true,27.37,AS7552,VIETTEL,1970.96,1784328468.1159089
-http,118.71.44.153,2050,Vietnam,VN,Hanoi,elite,true,45.3,AS18403,Vietnam Internet Network Information Center,8320.66,1784328465.4425464
-http,101.96.98.153,8080,Vietnam,VN,Nghia Do,transparent,true,20.47,AS24173,NetNam Corporation,2613.23,1784328456.1916726
-http,103.15.222.192,10154,Vietnam,VN,Tây Mỗ,elite,true,21.62,AS149137,TAN Thanh AN International Trade Development Company Limited,7841.19,1784328455.3619657
-http,117.7.80.246,2114,Vietnam,VN,Nam Định,elite,true,50.02,AS7552,VIETTEL,9261.94,1784328411.6934636
-http,117.7.80.184,2084,Vietnam,VN,Nam Định,elite,true,53.73,AS7552,VIETTEL,929.35,1784328382.8879888
-http,117.7.80.126,2042,Vietnam,VN,Nam Định,elite,true,45.52,AS7552,VIETTEL,4856.16,1784328358.3751109
-http,103.69.96.15,9999,Vietnam,VN,Bút Sơn,elite,true,74.01,AS135918,VNCLOUD,4475.55,1784328568.4996126
-http,103.69.96.15,7777,Vietnam,VN,Bút Sơn,elite,true,76.08,AS135918,VNCLOUD,4605.26,1784328562.9605167
-http,137.59.47.73,3128,Vietnam,VN,Mai Dich,transparent,true,81.48,AS131429,MOBIFONECNTT,9075.7,1784328547.5558395
+http,113.176.92.71,3128,Vietnam,VN,Bien Hoa,transparent,true,62.38,AS45899,VNPT,736.82,1784330219.3123224
+http,117.7.80.246,2026,Vietnam,VN,Nam Định,elite,true,80.29,AS7552,VIETTEL,1070.0,1784330212.8884263
+http,117.7.80.246,2088,Vietnam,VN,Nam Định,elite,true,85.23,AS7552,VIETTEL,670.65,1784330212.4593692
+http,58.186.168.168,2063,Vietnam,VN,Hanoi,elite,true,77.52,AS18403,FPT Telecom Company,892.81,1784330210.2489767
+http,117.7.80.126,2042,Vietnam,VN,Nam Định,elite,true,45.74,AS7552,VIETTEL,1582.72,1784330208.4285598
+http,117.7.80.126,2095,Vietnam,VN,Nam Định,elite,true,64.59,AS7552,VIETTEL,3747.25,1784330205.2022107
+http,101.96.122.196,8080,Vietnam,VN,Tây Hồ,transparent,true,26.64,AS24173,NetNam Corporation,876.75,1784330193.042033
+http,117.7.80.126,2114,Vietnam,VN,Nam Định,elite,true,63.02,AS7552,VIETTEL,6677.16,1784330192.416299
+http,103.15.222.192,10371,Vietnam,VN,Tây Mỗ,elite,true,24.92,AS149137,TAN Thanh AN International Trade Development Company Limited,2116.76,1784330180.7141345
+http,117.7.80.160,2114,Vietnam,VN,Nam Định,elite,true,47.88,AS7552,VIETTEL,1166.99,1784330179.6387186
+http,58.186.168.168,2030,Vietnam,VN,Hanoi,elite,true,33.33,AS18403,FPT Telecom Company,1637.1,1784330179.6024888
+http,117.7.81.125,2026,Vietnam,VN,Nam Định,elite,true,44.99,AS7552,VIETTEL,2632.75,1784330176.8231366
+http,117.7.80.75,2114,Vietnam,VN,Nam Định,elite,true,48.68,AS7552,VIETTEL,4437.25,1784330176.564059
+http,117.7.80.199,2095,Vietnam,VN,Nam Định,elite,true,55.2,AS7552,VIETTEL,8230.86,1784330173.9989774
+http,171.237.205.83,19000,Vietnam,VN,Thái Bình,elite,true,72.97,AS7552,Viettel Corporation,3624.9,1784330172.4879243
+http,113.160.132.26,8080,Vietnam,VN,Hanoi,elite,true,97.96,AS45899,VietNam Post and Telecom Corporation,715.75,1784330170.961707
+http,117.7.81.125,2027,Vietnam,VN,Nam Định,elite,true,77.85,AS7552,VIETTEL,7838.44,1784330168.9690192
+http,118.71.44.153,2084,Vietnam,VN,Hanoi,elite,true,75.51,AS18403,Vietnam Internet Network Information Center,884.86,1784330166.4102468
+http,110.172.28.217,3128,Vietnam,VN,Quận Mười Một,transparent,true,29.87,AS135918,CONTABO,563.5,1784330160.5029128
+http,58.186.168.168,2111,Vietnam,VN,Hanoi,elite,true,80.79,AS18403,FPT Telecom Company,1492.68,1784330156.380977
+http,117.7.80.199,2027,Vietnam,VN,Nam Định,elite,true,49.1,AS7552,VIETTEL,4300.4,1784330155.4056997
+http,117.7.80.160,2027,Vietnam,VN,Nam Định,elite,true,46.57,AS7552,VIETTEL,12298.49,1784330146.6127539
+http,117.7.80.189,2026,Vietnam,VN,Nam Định,elite,true,42.55,AS7552,VIETTEL,5125.58,1784330143.82129
+http,117.7.80.126,2027,Vietnam,VN,Nam Định,elite,true,47.43,AS7552,VIETTEL,3554.83,1784330128.329546
+http,118.71.44.153,2080,Vietnam,VN,Hanoi,elite,true,75.44,AS18403,Vietnam Internet Network Information Center,658.38,1784330121.1385393
+http,103.15.222.192,10394,Vietnam,VN,Tây Mỗ,elite,true,21.24,AS149137,TAN Thanh AN International Trade Development Company Limited,4789.47,1784330119.5992372
+http,117.7.81.125,2084,Vietnam,VN,Nam Định,elite,true,69.88,AS7552,VIETTEL,1702.56,1784330100.5680573
+http,14.241.133.207,8080,Vietnam,VN,Tra Que Vegetable Village,transparent,true,12.07,AS45899,VNPT,3805.91,1784330087.3268516
+http,118.71.44.153,2030,Vietnam,VN,Hanoi,elite,true,72.11,AS18403,Vietnam Internet Network Information Center,4367.39,1784330086.3817673
+http,103.129.127.244,8088,Vietnam,VN,Ho Chi Minh City,elite,true,66.61,AS135918,THIENTUANSTECH,14919.11,1784330075.308173
+http,103.15.222.192,10312,Vietnam,VN,Tây Mỗ,elite,true,18.73,AS149137,TAN Thanh AN International Trade Development Company Limited,3549.83,1784330061.3278267
+http,58.186.168.168,2080,Vietnam,VN,Hanoi,elite,true,56.37,AS18403,FPT Telecom Company,1278.95,1784330057.6478746
+http,117.7.80.193,2026,Vietnam,VN,Nam Định,elite,true,45.07,AS7552,VIETTEL,2701.35,1784330054.5740836
+http,117.7.80.193,2114,Vietnam,VN,Nam Định,elite,true,48.49,AS7552,VIETTEL,2980.95,1784330026.4921908
+http,117.7.80.199,2084,Vietnam,VN,Nam Định,elite,true,53.28,AS7552,VIETTEL,1681.12,1784330002.8318248
+http,163.181.207.171,9999,Vietnam,VN,Hanoi,elite,true,31.25,AS24429,"Zhejiang Taobao Network Co., Ltd",454.53,1784330269.7576532
+http,42.96.19.211,1314,Vietnam,VN,Quận Một,elite,true,26.51,AS131423,Long Van System Solution,544.2,1784330216.6265135
+http,103.82.20.76,8080,Vietnam,VN,Dich Vong,elite,true,67.68,AS135905,INETACADEMY,900.33,1784330210.9829688
+http,160.30.112.147,3128,Vietnam,VN,Quận Ba,transparent,true,26.23,AS135918,MAYCHUMANG,595.78,1784330199.396746
+http,42.96.16.149,1309,Vietnam,VN,Quận Một,elite,true,56.8,AS131423,Long Van System Solution,527.53,1784330174.767801

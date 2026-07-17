@@ -8,10 +8,25 @@
     "city": "Minsk",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 38.76,
+    "uptime_percent": 38.86,
     "asn": "AS6697",
     "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-    "latency_ms": 3204.73,
-    "last_checked": 1784328530.6708522
+    "latency_ms": 2137.41,
+    "last_checked": 1784330218.1307628
+  },
+  {
+    "protocol": "http",
+    "ip": "178.172.217.166",
+    "port": 10849,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Urechcha",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 87.02,
+    "asn": "AS60591",
+    "isp": "Support Chain LLC",
+    "latency_ms": 6307.47,
+    "last_checked": 1784330193.3673267
   }
 ]

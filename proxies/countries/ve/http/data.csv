@@ -1,20 +1,24 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,201.71.2.61,999,Venezuela,VE,Santa Lucía,transparent,true,27.94,AS269920,Inversiones Rdn3 C.A.,6367.45,1784328544.075886
-http,38.51.209.80,999,Venezuela,VE,Maracaibo,transparent,true,23.17,AS269730,Tecnoven Services C.A,5951.57,1784328540.3519902
-http,38.51.236.169,999,Venezuela,VE,Cabimas,transparent,true,19.31,AS271907,Colnetwork C.A,3338.96,1784328533.9328406
-http,190.97.228.65,999,Venezuela,VE,Araure,transparent,false,9.95,AS263703,Viginet C.A,3007.49,1784328525.3758771
-http,190.97.232.182,999,Venezuela,VE,Barquisimeto,transparent,true,21.31,AS263703,Viginet C.A,2926.27,1784328519.312978
-http,38.41.0.87,999,Venezuela,VE,Caracas,transparent,true,25.4,AS269832,MDS TELECOM C.A.,784.12,1784328494.2918968
-http,141.136.63.126,8080,Venezuela,VE,La Grita,transparent,false,34.65,AS208888,FRONTERA,4788.55,1784328493.3718297
-http,38.41.27.150,11201,Venezuela,VE,Caracas,transparent,false,7.52,AS269832,MDS TELECOM C.A.,6470.08,1784328490.1163905
-http,190.94.212.198,999,Venezuela,VE,Caracas,transparent,false,7.59,AS8053,IFX Networks Venezuela C.A.,13079.19,1784328482.5430763
-http,190.97.228.67,999,Venezuela,VE,Araure,transparent,true,9.92,AS263703,Viginet C.A,7809.88,1784328466.7358816
-http,190.52.110.43,999,Venezuela,VE,Caracas,transparent,false,13.67,AS394684,Gold Data USA Inc,3636.45,1784328461.3280153
-http,200.8.19.122,8080,Venezuela,VE,Acarigua,transparent,false,8.0,AS21826,Corporación Telemic C.A.,7583.72,1784328453.8740726
-http,190.94.213.234,999,Venezuela,VE,Caracas,transparent,false,9.23,AS8053,IFX Networks Venezuela C.A.,530.55,1784328439.2309813
-http,190.97.239.19,999,Venezuela,VE,Timotes,transparent,false,21.53,AS263703,,3945.06,1784328434.5820014
-http,190.97.231.0,999,Venezuela,VE,Ruiz Pineda,transparent,false,8.93,AS263703,Viginet C.A,7609.95,1784328427.9147213
-http,38.76.138.129,999,Venezuela,VE,Caracas,transparent,false,44.45,AS263767,CORPORACIÓN GALA IT C.A,3206.87,1784328367.1442382
-http,38.9.184.177,999,Venezuela,VE,Ocumare,transparent,true,40.59,AS269741,Cogent Communications,508.51,1784328577.7579033
-http,45.186.209.66,999,Venezuela,VE,Caracas,transparent,true,15.37,AS263703,Viginet C.A,3503.81,1784328575.0012426
-http,200.36.152.6,999,Venezuela,VE,Maracaibo,transparent,true,33.59,AS273837,"NAVEGANTE NETWORK, C.A.",840.76,1784328551.4772863
+http,190.97.249.30,999,Venezuela,VE,Mérida,transparent,true,11.61,AS263703,Viginet C.A,3256.83,1784330196.0151227
+http,190.97.254.235,999,Venezuela,VE,San Cristóbal,transparent,false,18.53,AS263703,Viginet C.A,1506.93,1784330190.442572
+http,190.94.212.249,999,Venezuela,VE,Caracas,transparent,false,6.89,AS8053,IFX Networks Venezuela C.A.,5178.38,1784330187.4742353
+http,190.202.13.218,999,Venezuela,VE,Caracas,transparent,true,42.41,AS8048,"CANTV Servicios, Venezuela",9406.73,1784330181.1965382
+http,82.86.112.52,999,Venezuela,VE,Maracay,transparent,false,26.35,AS267809,360net C.A.,7693.07,1784330170.5018606
+http,190.94.213.234,999,Venezuela,VE,Caracas,transparent,false,9.24,AS8053,IFX Networks Venezuela C.A.,5912.88,1784330167.4504795
+http,190.94.212.64,999,Venezuela,VE,Caracas,transparent,true,11.17,AS8053,IFX Networks Venezuela C.A.,533.71,1784330163.4788997
+http,190.97.226.89,999,Venezuela,VE,Rubio,transparent,true,24.94,AS263703,Viginet C.A,558.91,1784330159.2551959
+http,190.97.228.67,999,Venezuela,VE,Araure,transparent,false,9.93,AS263703,Viginet C.A,4875.9,1784330138.9364052
+http,190.94.213.20,999,Venezuela,VE,Caracas,transparent,false,12.61,AS8053,IFX Networks Venezuela C.A.,644.49,1784330123.8785713
+http,190.97.224.99,999,Venezuela,VE,Alto Barinas,transparent,false,14.47,AS263703,Viginet C.A,1872.86,1784330120.527136
+http,190.94.212.228,999,Venezuela,VE,Caracas,transparent,false,6.84,AS8053,IFX Networks Venezuela C.A.,12648.44,1784330082.2917871
+http,190.52.110.43,999,Venezuela,VE,Caracas,transparent,false,13.67,AS394684,Gold Data USA Inc,3067.41,1784330040.477843
+http,201.71.2.61,999,Venezuela,VE,Santa Lucía,transparent,true,27.94,AS269920,Inversiones Rdn3 C.A.,4990.45,1784330026.3425696
+http,190.97.230.149,999,Venezuela,VE,Betijoque,transparent,false,9.54,AS263703,Viginet C.A,1537.5,1784330016.5561695
+http,190.89.29.110,999,Venezuela,VE,Caracas,transparent,true,38.99,AS264628,"CORPORACION FIBEX TELECOM, C.A.",2073.39,1784330007.8641539
+http,190.97.254.254,999,Venezuela,VE,San Cristóbal,transparent,false,10.85,AS263703,Viginet C.A,7593.8,1784330007.706518
+http,200.36.152.6,999,Venezuela,VE,Maracaibo,transparent,false,33.58,AS273837,"NAVEGANTE NETWORK, C.A.",643.76,1784330270.0734563
+http,38.76.136.194,8080,Venezuela,VE,Caracas,transparent,false,31.56,AS263767,CORPORACIÓN GALA IT C.A,7613.43,1784330237.4089036
+http,200.59.186.158,999,Venezuela,VE,Trujillo,transparent,false,12.15,AS264778,TotalCom Venezuela C.A.,7689.02,1784330220.5180674
+http,38.41.0.60,11201,Venezuela,VE,Caracas,transparent,true,7.53,AS269832,MDS TELECOM C.A.,2464.28,1784330197.6364686
+http,38.76.138.129,999,Venezuela,VE,Caracas,transparent,false,44.41,AS263767,CORPORACIÓN GALA IT C.A,1748.7,1784330178.2987988
+http,45.190.85.4,999,Venezuela,VE,Caracas,transparent,true,41.3,AS269891,TELECOM.CORPORATIVAS TELECORP,5039.35,1784330058.586034

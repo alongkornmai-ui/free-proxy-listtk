@@ -1,4 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,186.33.7.117,999,Guatemala,GT,San Rafael Petzal,transparent,true,29.63,AS52468,IFX Networks Argentina S.R.L,1477.92,1784328531.4334207
-http,38.199.88.1,999,Guatemala,GT,Guatemala City,transparent,true,18.98,AS274038,"INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD ANÓNIMA",3325.1,1784328530.774682
-http,45.5.118.217,999,Guatemala,GT,Guatemala City,transparent,true,22.64,AS52468,Ufinet Panama S.A.,568.91,1784328454.3163505
+http,181.119.111.59,999,Guatemala,GT,Guatemala City,transparent,true,18.39,AS52468,Ufinet Panama S.A.,1421.95,1784330197.5965352
+http,138.118.106.237,999,Guatemala,GT,Santa Catarina Pinula,transparent,true,5.41,AS263781,"ONNO NETWORKS, SOCIEDAD ANÓNIMA",3527.43,1784330118.6638002
+http,181.119.111.239,999,Guatemala,GT,Guatemala City,transparent,true,10.38,AS52468,Ufinet Panama S.A.,3021.3,1784330067.3265514
+http,186.151.75.150,999,Guatemala,GT,Guatemala City,transparent,true,55.45,AS14754,Telgua,7698.72,1784330027.8319504
+http,45.5.118.217,999,Guatemala,GT,Guatemala City,transparent,true,23.01,AS52468,Ufinet Panama S.A.,2651.84,1784330019.9818122
+http,201.216.147.244,999,Guatemala,GT,Guatemala City,transparent,true,32.49,AS14754,Telgua,8828.8,1784330262.7239168

@@ -1,62 +1,61 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks5,218.95.39.100,59999,China,CN,Nanchangshi,elite,true,85.97,AS139201,China Telecom,1498.08,1784328551.5151403
-socks5,218.95.39.55,59999,China,CN,Nanchangshi,elite,true,86.46,AS139201,China Telecom,1436.83,1784328551.487053
-socks5,218.95.39.51,59999,China,CN,Nanchangshi,elite,true,87.04,AS139201,China Telecom,1515.03,1784328551.4492319
-socks5,218.95.39.101,59999,China,CN,Nanchangshi,elite,true,85.8,AS139201,China Telecom,1341.4,1784328551.4044466
-socks5,120.220.197.196,59999,China,CN,Guangzhou,elite,true,85.74,AS9808,China Mobile communications corporation,2320.39,1784328550.2909133
-socks5,218.95.39.114,59999,China,CN,Nanchangshi,elite,true,86.36,AS139201,China Telecom,2522.0,1784328550.1755712
-socks5,114.104.204.191,10801,China,CN,Hefei,elite,true,32.73,AS4134,Chinanet,2676.34,1784328547.8877437
-socks5,171.213.209.63,10801,China,CN,Chengdu,elite,true,93.97,AS4134,Chinanet,1721.68,1784328539.8472204
-socks5,218.95.39.54,59999,China,CN,Nanchangshi,elite,true,86.16,AS139201,China Telecom,4891.29,1784328538.4123747
-socks5,218.95.39.105,59999,China,CN,Nanchangshi,elite,true,85.76,AS139201,China Telecom,9040.46,1784328536.113323
-socks5,183.146.16.158,59999,China,CN,Hangzhou,elite,true,83.19,AS136190,China Telecom,6111.53,1784328533.5059948
-socks5,218.95.39.102,59999,China,CN,Nanchangshi,elite,true,85.9,AS139201,China Telecom,1449.53,1784328532.5915403
-socks5,218.95.39.46,59999,China,CN,Nanchangshi,elite,true,87.08,AS139201,China Telecom,4712.49,1784328532.349441
-socks5,218.95.39.4,59999,China,CN,Nanchangshi,elite,true,86.12,AS139201,China Telecom,3477.57,1784328529.981396
-socks5,218.95.39.61,59999,China,CN,Nanchangshi,elite,true,86.25,AS139201,China Telecom,15571.04,1784328525.5468125
-socks5,218.95.39.113,59999,China,CN,Nanchangshi,elite,true,86.97,AS139201,China Telecom,8837.96,1784328525.2994921
-socks5,218.95.39.107,59999,China,CN,Nanchangshi,elite,true,86.66,AS139201,China Telecom,2861.77,1784328524.9612002
-socks5,218.95.39.42,59999,China,CN,Nanchangshi,elite,true,85.52,AS139201,China Telecom,7358.32,1784328524.7402477
-socks5,218.95.39.28,59999,China,CN,Nanchangshi,elite,true,86.97,AS139201,China Telecom,4852.22,1784328524.6152768
-socks5,120.220.197.194,59999,China,CN,Guangzhou,elite,true,85.99,AS9808,China Mobile communications corporation,12497.94,1784328523.301031
-socks5,59.36.210.211,13552,China,CN,Guangzhou,elite,true,94.04,AS4134,Chinanet,4605.6,1784328521.2659996
-socks5,218.95.39.8,59999,China,CN,Nanchangshi,elite,true,85.4,AS139201,China Telecom,8589.14,1784328519.1306064
-socks5,218.95.39.43,59999,China,CN,Nanchangshi,elite,true,85.41,AS139201,China Telecom,10811.37,1784328518.8756373
-socks5,218.95.39.67,59999,China,CN,Nanchangshi,elite,true,84.95,AS139201,China Telecom,6589.96,1784328515.3011107
-socks5,218.95.39.9,59999,China,CN,Nanchangshi,elite,true,85.6,AS139201,China Telecom,3630.72,1784328515.2940867
-socks5,117.175.168.195,1080,China,CN,Guangzhou,elite,true,78.38,AS9808,China Mobile communications corporation,1654.01,1784328513.2885246
-socks5,218.95.39.110,59999,China,CN,Nanchangshi,elite,true,86.42,AS139201,China Telecom,6605.73,1784328511.6068227
-socks5,183.146.16.152,59999,China,CN,Hangzhou,elite,true,85.48,AS136190,China Telecom,4296.6,1784328511.4167051
-socks5,223.254.141.102,6604,China,CN,Shenyang,elite,true,15.07,AS40004,"CONRADIT, LLC",6183.21,1784328505.7517312
-socks5,221.225.48.79,8989,China,CN,Suzhou,elite,true,5.09,AS140292,CHINANET jiangsu province network,4194.08,1784328505.2390876
-socks5,120.220.197.198,59999,China,CN,Guangzhou,elite,true,87.38,AS9808,China Mobile communications corporation,2594.99,1784328502.1339333
-socks5,120.220.197.199,59999,China,CN,Guangzhou,elite,true,87.02,AS9808,China Mobile communications corporation,2981.55,1784328500.7681699
-socks5,182.18.93.138,19450,China,CN,Zhangjiakou,elite,true,94.17,AS141771,China Telecom,6555.98,1784328499.610597
-socks5,218.95.39.111,59999,China,CN,Nanchangshi,elite,true,85.82,AS139201,China Telecom,4885.87,1784328498.1344051
-socks5,223.111.182.16,1515,China,CN,Nanjing,elite,true,41.46,AS56046,China Mobile communications corporation,3019.35,1784328496.3846517
-socks5,223.111.182.16,1100,China,CN,Nanjing,elite,true,35.39,AS56046,China Mobile communications corporation,4937.11,1784328494.2551923
-socks5,183.146.16.159,59999,China,CN,Hangzhou,elite,true,83.71,AS136190,China Telecom,3690.12,1784328492.9889941
-socks5,218.95.39.23,59999,China,CN,Nanchangshi,elite,true,86.4,AS139201,China Telecom,5978.87,1784328491.878168
-socks5,218.95.39.15,59999,China,CN,Nanchangshi,elite,true,84.88,AS139201,China Telecom,5212.33,1784328486.0554197
-socks5,218.95.39.109,59999,China,CN,Nanchangshi,elite,true,87.62,AS139201,China Telecom,11557.55,1784328485.1860597
-socks5,183.146.16.151,59999,China,CN,Hangzhou,elite,true,83.42,AS136190,China Telecom,9678.55,1784328479.8287137
-socks5,218.95.39.57,59999,China,CN,Nanchangshi,elite,true,85.82,AS139201,China Telecom,12504.03,1784328478.6135943
-socks5,218.95.39.60,59999,China,CN,Nanchangshi,elite,true,85.32,AS139201,China Telecom,6697.94,1784328473.7052116
-socks5,218.95.39.45,59999,China,CN,Nanchangshi,elite,true,72.06,AS139201,China Telecom,5843.83,1784328472.976717
-socks5,120.220.197.197,59999,China,CN,Guangzhou,elite,true,86.93,AS9808,China Mobile communications corporation,3682.12,1784328470.332868
-socks5,223.254.141.102,6650,China,CN,Shenyang,elite,true,15.18,AS40004,"CONRADIT, LLC",9309.46,1784328452.8402243
-socks5,223.111.182.16,1011,China,CN,Nanjing,elite,true,35.89,AS56046,China Mobile communications corporation,15148.91,1784328443.2767475
-socks5,218.95.39.108,59999,China,CN,Nanchangshi,elite,true,60.33,AS139201,China Telecom,2286.9,1784328438.752941
-socks5,218.95.39.126,59999,China,CN,Nanchangshi,elite,true,87.03,AS139201,China Telecom,3539.07,1784328438.0077415
-socks5,218.95.39.30,59999,China,CN,Nanchangshi,elite,true,86.3,AS139201,China Telecom,3230.12,1784328430.5593846
-socks5,218.95.39.27,59999,China,CN,Nanchangshi,elite,true,85.46,AS139201,China Telecom,2821.69,1784328424.1393824
-socks5,218.95.39.5,59999,China,CN,Nanchangshi,elite,true,86.04,AS139201,China Telecom,5291.99,1784328423.823084
-socks5,218.95.39.14,59999,China,CN,Nanchangshi,elite,true,67.3,AS139201,China Telecom,4199.79,1784328422.8061702
-socks5,120.220.197.200,59999,China,CN,Guangzhou,elite,true,85.89,AS9808,China Mobile communications corporation,2216.34,1784328407.0465615
-socks5,218.95.39.48,59999,China,CN,Nanchangshi,elite,true,86.56,AS139201,China Telecom,13911.68,1784328404.3054605
-socks5,221.176.85.225,1080,China,CN,Guangzhou,elite,true,19.83,AS9808,China Mobile communications corporation,2600.62,1784328400.8538842
-socks5,218.95.39.49,59999,China,CN,Nanchangshi,elite,true,92.81,AS139201,China Telecom,7207.34,1784328384.830726
-socks5,221.176.85.236,1080,China,CN,Guangzhou,elite,true,19.47,AS9808,China Mobile communications corporation,1600.71,1784328370.317784
-socks5,203.25.208.163,1100,China,CN,Guangzhou,elite,true,55.9,AS139220,China Telecom,1567.19,1784328581.0633116
-socks5,203.25.208.163,1515,China,CN,Guangzhou,elite,true,55.61,AS139220,China Telecom,1724.94,1784328551.9874392
-socks5,106.52.215.138,7890,China,CN,Guangzhou,elite,true,44.99,AS45090,Shenzhen Tencent Computer Systems Company Limited,3923.11,1784328541.5087745
+socks5,223.254.141.102,6611,China,CN,Shenyang,elite,true,18.24,AS40004,"CONRADIT, LLC",1724.47,1784330220.0057828
+socks5,218.95.39.48,59999,China,CN,Nanchangshi,elite,true,86.63,AS139201,China Telecom,6735.99,1784330213.6475496
+socks5,218.95.39.4,59999,China,CN,Nanchangshi,elite,true,86.14,AS139201,China Telecom,4239.13,1784330210.4650996
+socks5,218.95.39.28,59999,China,CN,Nanchangshi,elite,true,86.86,AS139201,China Telecom,9999.1,1784330209.3955956
+socks5,218.95.39.100,59999,China,CN,Nanchangshi,elite,true,86.11,AS139201,China Telecom,2972.91,1784330209.275612
+socks5,218.95.39.54,59999,China,CN,Nanchangshi,elite,true,86.27,AS139201,China Telecom,2864.02,1784330209.013083
+socks5,218.95.39.52,59999,China,CN,Nanchangshi,elite,true,86.21,AS139201,China Telecom,4472.44,1784330208.3681805
+socks5,120.220.197.200,59999,China,CN,Guangzhou,elite,true,86.04,AS9808,China Mobile communications corporation,4894.89,1784330207.9641514
+socks5,218.95.39.5,59999,China,CN,Nanchangshi,elite,true,86.12,AS139201,China Telecom,6818.87,1784330207.9571168
+socks5,218.95.39.9,59999,China,CN,Nanchangshi,elite,true,85.58,AS139201,China Telecom,6726.19,1784330206.4652436
+socks5,218.95.39.114,59999,China,CN,Nanchangshi,elite,true,86.4,AS139201,China Telecom,4929.44,1784330206.1003652
+socks5,218.95.39.57,59999,China,CN,Nanchangshi,elite,true,85.9,AS139201,China Telecom,12806.28,1784330205.1830971
+socks5,218.95.39.113,59999,China,CN,Nanchangshi,elite,true,87.06,AS139201,China Telecom,8242.53,1784330202.7835615
+socks5,223.254.141.102,6635,China,CN,Shenyang,elite,true,13.99,AS40004,"CONRADIT, LLC",7141.69,1784330200.5488877
+socks5,218.95.39.105,59999,China,CN,Nanchangshi,elite,true,85.83,AS139201,China Telecom,10435.34,1784330199.2532308
+socks5,218.95.39.8,59999,China,CN,Nanchangshi,elite,true,85.37,AS139201,China Telecom,2769.0,1784330197.6770678
+socks5,221.176.85.234,1080,China,CN,Guangzhou,elite,true,19.59,AS9808,China Mobile communications corporation,2258.84,1784330195.2172348
+socks5,218.95.39.101,59999,China,CN,Nanchangshi,elite,true,85.82,AS139201,China Telecom,14814.35,1784330192.8848822
+socks5,171.213.209.63,10801,China,CN,Chengdu,elite,true,95.3,AS4134,Chinanet,2218.55,1784330192.6833997
+socks5,182.18.93.138,19450,China,CN,Zhangjiakou,elite,true,94.13,AS141771,China Telecom,9022.58,1784330192.5497484
+socks5,218.95.39.40,59999,China,CN,Nanchangshi,elite,true,52.2,AS139201,China Telecom,11733.23,1784330192.075658
+socks5,59.36.210.211,13552,China,CN,Guangzhou,elite,true,94.08,AS4134,Chinanet,3562.1,1784330191.6653934
+socks5,218.95.39.102,59999,China,CN,Nanchangshi,elite,true,86.02,AS139201,China Telecom,1744.74,1784330191.3015506
+socks5,218.95.39.45,59999,China,CN,Nanchangshi,elite,true,71.94,AS139201,China Telecom,6760.99,1784330191.026017
+socks5,218.95.39.27,59999,China,CN,Nanchangshi,elite,true,85.48,AS139201,China Telecom,12672.3,1784330190.0810573
+socks5,218.95.39.107,59999,China,CN,Nanchangshi,elite,true,86.69,AS139201,China Telecom,10932.97,1784330187.8364494
+socks5,218.95.39.43,59999,China,CN,Nanchangshi,elite,true,85.56,AS139201,China Telecom,11878.84,1784330187.4509308
+socks5,117.175.168.195,1080,China,CN,Guangzhou,elite,true,78.39,AS9808,China Mobile communications corporation,1763.82,1784330186.5548744
+socks5,221.10.151.38,1080,China,CN,Chengdu,elite,true,6.15,AS4837,CNC Group CHINA169 Sichuan Province Network,2927.62,1784330186.2381136
+socks5,120.133.82.62,44064,China,CN,Chaowai,elite,true,2.15,AS133119,China Unicom IP network,13520.69,1784330186.2164788
+socks5,221.176.85.232,1080,China,CN,Guangzhou,elite,true,21.1,AS9808,China Mobile communications corporation,1564.97,1784330185.9498699
+socks5,218.95.39.23,59999,China,CN,Nanchangshi,elite,true,86.5,AS139201,China Telecom,3351.28,1784330184.6081514
+socks5,221.10.57.128,5138,China,CN,Chengdu,elite,true,52.07,AS4837,CNC Group CHINA169 Sichuan Province Network,3399.93,1784330184.4333255
+socks5,218.95.39.111,59999,China,CN,Nanchangshi,elite,true,85.93,AS139201,China Telecom,16032.23,1784330181.888442
+socks5,218.95.39.51,59999,China,CN,Nanchangshi,elite,true,87.13,AS139201,China Telecom,9440.39,1784330180.5327091
+socks5,223.254.141.102,6615,China,CN,Shenyang,elite,true,17.03,AS40004,"CONRADIT, LLC",4644.65,1784330179.966834
+socks5,218.95.39.104,59999,China,CN,Nanchangshi,elite,true,93.23,AS139201,China Telecom,4530.72,1784330179.0027113
+socks5,223.254.141.102,6621,China,CN,Shenyang,elite,true,15.18,AS40004,"CONRADIT, LLC",2622.55,1784330178.8503494
+socks5,218.95.39.60,59999,China,CN,Nanchangshi,elite,true,85.31,AS139201,China Telecom,5239.89,1784330178.1908495
+socks5,120.220.197.196,59999,China,CN,Guangzhou,elite,true,85.77,AS9808,China Mobile communications corporation,2604.76,1784330176.9002903
+socks5,218.95.39.49,59999,China,CN,Nanchangshi,elite,true,92.79,AS139201,China Telecom,9624.79,1784330176.698231
+socks5,218.95.39.15,59999,China,CN,Nanchangshi,elite,true,84.87,AS139201,China Telecom,10857.9,1784330175.4931812
+socks5,218.95.39.55,59999,China,CN,Nanchangshi,elite,true,86.51,AS139201,China Telecom,3229.41,1784330170.3934278
+socks5,114.104.204.191,10801,China,CN,Hefei,elite,true,32.86,AS4134,Chinanet,2573.71,1784330169.355061
+socks5,218.95.39.126,59999,China,CN,Nanchangshi,elite,true,87.04,AS139201,China Telecom,1933.87,1784330169.3124256
+socks5,183.146.16.151,59999,China,CN,Hangzhou,elite,true,83.43,AS136190,China Telecom,6053.34,1784330163.5985427
+socks5,221.225.48.114,8989,China,CN,Suzhou,elite,true,8.14,AS140292,CHINANET jiangsu province network,2215.11,1784330161.4685476
+socks5,218.95.39.46,59999,China,CN,Nanchangshi,elite,true,87.16,AS139201,China Telecom,6884.26,1784330158.8963428
+socks5,218.95.39.61,59999,China,CN,Nanchangshi,elite,true,86.28,AS139201,China Telecom,10539.26,1784330157.6478817
+socks5,218.95.39.58,59999,China,CN,Nanchangshi,elite,true,85.62,AS139201,China Telecom,5179.77,1784330152.6589746
+socks5,223.254.141.102,6637,China,CN,Shenyang,elite,true,16.93,AS40004,"CONRADIT, LLC",3656.28,1784330152.46584
+socks5,120.220.197.194,59999,China,CN,Guangzhou,elite,true,86.04,AS9808,China Mobile communications corporation,10631.76,1784330151.5500882
+socks5,218.95.39.30,59999,China,CN,Nanchangshi,elite,true,86.4,AS139201,China Telecom,1898.72,1784330147.3720984
+socks5,218.95.39.67,59999,China,CN,Nanchangshi,elite,true,84.93,AS139201,China Telecom,5648.25,1784330137.3390331
+socks5,120.220.197.198,59999,China,CN,Guangzhou,elite,true,87.42,AS9808,China Mobile communications corporation,13540.84,1784330130.802009
+socks5,223.254.141.102,6646,China,CN,Shenyang,elite,true,15.68,AS40004,"CONRADIT, LLC",4315.22,1784330124.3433042
+socks5,183.146.16.152,59999,China,CN,Hangzhou,elite,true,85.5,AS136190,China Telecom,4378.27,1784330122.37307
+socks5,183.146.16.159,59999,China,CN,Hangzhou,elite,true,83.69,AS136190,China Telecom,5495.17,1784330114.4241574
+socks5,120.220.197.197,59999,China,CN,Guangzhou,elite,true,86.93,AS9808,China Mobile communications corporation,10751.03,1784330094.7085176
+socks5,183.146.16.158,59999,China,CN,Hangzhou,elite,true,83.33,AS136190,China Telecom,1483.11,1784330242.668516

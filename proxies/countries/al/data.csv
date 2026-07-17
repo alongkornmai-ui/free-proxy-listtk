@@ -1,26 +1,28 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks5,78.159.131.139,1082,Albania,AL,Elbasan,elite,true,66.7,AS215540,Global Connectivity Solutions LLP,2156.03,1784328549.997547
-socks4,78.159.131.139,1082,Albania,AL,Elbasan,elite,true,73.91,AS215540,Global Connectivity Solutions LLP,1097.8,1784328549.205169
-socks4,78.159.131.112,1081,Albania,AL,Elbasan,elite,true,79.8,AS215540,Global Connectivity Solutions LLP,1085.79,1784328547.6101139
-http,78.159.131.131,1081,Albania,AL,Elbasan,elite,true,78.06,AS215540,Global Connectivity Solutions LLP,4185.29,1784328541.8995225
-socks4,78.159.131.131,1082,Albania,AL,Elbasan,elite,true,77.27,AS215540,Global Connectivity Solutions LLP,11237.78,1784328536.3158271
-socks5,78.159.131.131,1082,Albania,AL,Elbasan,elite,true,70.64,AS215540,Global Connectivity Solutions LLP,4120.9,1784328535.75381
-socks4,78.159.131.139,1081,Albania,AL,Elbasan,elite,true,78.36,AS215540,Global Connectivity Solutions LLP,7350.85,1784328531.273469
-socks4,78.159.131.131,1081,Albania,AL,Elbasan,elite,true,81.33,AS215540,Global Connectivity Solutions LLP,2147.2,1784328529.9827368
-http,84.22.48.28,8080,Albania,AL,Tirana,transparent,false,9.26,AS33983,Artmotion Sh.P.K.,6291.21,1784328527.3345747
-socks5,78.159.131.112,1082,Albania,AL,Elbasan,elite,true,69.77,AS215540,Global Connectivity Solutions LLP,10288.22,1784328523.3708756
-socks4,78.159.131.112,1082,Albania,AL,Elbasan,elite,true,74.8,AS215540,Global Connectivity Solutions LLP,7207.89,1784328522.3573127
-socks5,78.159.131.131,1081,Albania,AL,Elbasan,elite,true,76.05,AS215540,Global Connectivity Solutions LLP,4196.4,1784328501.633115
-socks5,78.159.131.112,1081,Albania,AL,Elbasan,elite,true,75.3,AS215540,Global Connectivity Solutions LLP,4153.06,1784328486.8727372
-http,78.159.131.112,1081,Albania,AL,Elbasan,elite,false,75.71,AS215540,Global Connectivity Solutions LLP,74.25,1784328468.4135964
-http,78.159.131.139,1082,Albania,AL,Elbasan,elite,true,67.84,AS215540,Global Connectivity Solutions LLP,10320.66,1784328465.3433666
-http,185.89.156.2,44224,Albania,AL,Elbasan,elite,false,9.95,AS198279,ATU,2477.1,1784328453.4958556
-http,78.159.131.131,1082,Albania,AL,Elbasan,elite,true,72.95,AS215540,Global Connectivity Solutions LLP,1074.12,1784328446.9998956
-http,78.159.131.139,1081,Albania,AL,Elbasan,elite,true,74.87,AS215540,Global Connectivity Solutions LLP,3190.56,1784328442.538521
-socks5,78.159.131.139,1081,Albania,AL,Elbasan,elite,true,74.51,AS215540,Global Connectivity Solutions LLP,1130.57,1784328436.7235568
-http,188.164.218.209,8080,Albania,AL,Tirana,transparent,true,28.17,AS21183,Vodafone Albania Sh.A.,3935.99,1784328436.1177447
-http,78.159.131.112,1082,Albania,AL,Elbasan,elite,true,68.07,AS215540,Global Connectivity Solutions LLP,3279.5,1784328425.1548953
-socks5,147.45.221.115,1082,Albania,AL,Elbasan,elite,true,80.88,AS215540,Global Connectivity Solutions LLP,118.12,1784328598.8832028
-socks4,147.45.221.115,1082,Albania,AL,Elbasan,elite,true,84.72,AS215540,Global Connectivity Solutions LLP,77.19,1784328590.5119529
-socks4,147.45.221.115,1081,Albania,AL,Elbasan,elite,true,84.7,AS215540,Global Connectivity Solutions LLP,48.39,1784328586.9546812
-socks5,147.45.221.115,1081,Albania,AL,Elbasan,elite,true,81.64,AS215540,Global Connectivity Solutions LLP,2125.87,1784328584.2941878
+socks4,78.159.131.131,1082,Albania,AL,Elbasan,elite,true,77.3,AS215540,Global Connectivity Solutions LLP,1078.65,1784330219.6776788
+socks4,78.159.131.112,1082,Albania,AL,Elbasan,elite,true,74.88,AS215540,Global Connectivity Solutions LLP,3143.72,1784330219.3332493
+socks5,78.159.131.131,1081,Albania,AL,Elbasan,elite,true,76.1,AS215540,Global Connectivity Solutions LLP,3178.83,1784330218.7161503
+socks4,78.159.131.139,1081,Albania,AL,Elbasan,elite,true,78.36,AS215540,Global Connectivity Solutions LLP,4142.61,1784330216.3252642
+socks4,78.159.131.139,1082,Albania,AL,Elbasan,elite,true,73.95,AS215540,Global Connectivity Solutions LLP,7236.79,1784330210.0991488
+socks5,78.159.131.112,1082,Albania,AL,Elbasan,elite,true,70.04,AS215540,Global Connectivity Solutions LLP,99.55,1784330209.896436
+socks4,78.159.131.112,1081,Albania,AL,Elbasan,elite,true,79.82,AS215540,Global Connectivity Solutions LLP,7180.95,1784330209.6766167
+socks5,78.159.131.131,1082,Albania,AL,Elbasan,elite,true,70.74,AS215540,Global Connectivity Solutions LLP,6189.21,1784330195.440037
+socks5,78.159.131.112,1081,Albania,AL,Elbasan,elite,true,75.39,AS215540,Global Connectivity Solutions LLP,8367.8,1784330194.4088142
+http,77.242.21.133,8080,Albania,AL,Tirana,transparent,false,9.22,AS35047,Business Custommers,2926.27,1784330193.5405607
+http,79.106.33.26,8079,Albania,AL,Tirana,transparent,false,8.01,AS42313,ONE ALBANIA SH.A.,2044.06,1784330155.9983923
+http,78.159.131.139,1082,Albania,AL,Elbasan,elite,true,67.86,AS215540,Global Connectivity Solutions LLP,8062.01,1784330148.2758586
+http,78.159.131.139,1081,Albania,AL,Elbasan,elite,true,74.9,AS215540,Global Connectivity Solutions LLP,7490.68,1784330125.8729045
+http,78.159.131.131,1081,Albania,AL,Elbasan,elite,false,78.06,AS215540,Global Connectivity Solutions LLP,11041.02,1784330117.3140962
+http,78.159.131.112,1081,Albania,AL,Elbasan,elite,true,75.75,AS215540,Global Connectivity Solutions LLP,3115.32,1784330111.0188658
+http,185.89.156.2,44224,Albania,AL,Elbasan,elite,false,9.95,AS198279,ATU,9933.37,1784330106.3783915
+http,78.159.131.131,1082,Albania,AL,Elbasan,elite,true,73.02,AS215540,Global Connectivity Solutions LLP,9160.66,1784330105.4176917
+http,78.159.131.112,1082,Albania,AL,Elbasan,elite,true,68.18,AS215540,Global Connectivity Solutions LLP,1239.64,1784330097.924265
+socks4,147.45.221.115,1082,Albania,AL,Elbasan,elite,true,84.66,AS215540,Global Connectivity Solutions LLP,1089.44,1784330275.1293402
+socks4,185.190.90.2,4145,Albania,AL,Rrashbull,elite,true,14.59,AS212637,Lightnet Sh.p.k.,7411.14,1784330264.697404
+socks4,147.45.221.115,1081,Albania,AL,Elbasan,elite,true,84.68,AS215540,Global Connectivity Solutions LLP,57.77,1784330254.5401804
+socks5,147.45.221.115,1081,Albania,AL,Elbasan,elite,true,81.74,AS215540,Global Connectivity Solutions LLP,1080.57,1784330243.6135125
+http,66.186.199.33,8080,Albania,AL,Tirana,transparent,false,24.67,AS21183,Vodafone Albania Sh.A.,9822.46,1784330241.5479312
+http,147.45.221.115,1081,Albania,AL,Elbasan,elite,true,81.99,AS215540,Global Connectivity Solutions LLP,7178.64,1784330236.5838482
+http,147.45.221.115,1082,Albania,AL,Elbasan,elite,true,81.79,AS215540,Global Connectivity Solutions LLP,56.79,1784330226.4774308
+socks5,147.45.221.115,1082,Albania,AL,Elbasan,elite,true,80.93,AS215540,Global Connectivity Solutions LLP,4149.63,1784330217.393467
+http,185.196.182.22,8080,Albania,AL,Krume,transparent,true,23.68,AS206088,shqiponjaisp.al LLC,1171.96,1784330140.762743

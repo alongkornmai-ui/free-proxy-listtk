@@ -1,17 +1,47 @@
 [
   {
     "protocol": "socks4",
-    "ip": "177.234.247.221",
+    "ip": "177.234.247.18",
     "port": 1080,
     "country": "Ecuador",
     "country_code": "EC",
     "city": "Santo Domingo de los Colorados",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 10.61,
+    "uptime_percent": 10.67,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 911.65,
-    "last_checked": 1784328534.3570745
+    "latency_ms": 912.96,
+    "last_checked": 1784330191.8511062
+  },
+  {
+    "protocol": "socks4",
+    "ip": "177.234.247.218",
+    "port": 1080,
+    "country": "Ecuador",
+    "country_code": "EC",
+    "city": "Santo Domingo de los Colorados",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.85,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 919.86,
+    "last_checked": 1784330189.3583782
+  },
+  {
+    "protocol": "socks4",
+    "ip": "160.20.165.242",
+    "port": 8080,
+    "country": "Ecuador",
+    "country_code": "EC",
+    "city": "Guayaquil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.07,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 8033.9,
+    "last_checked": 1784330259.3979044
   }
 ]

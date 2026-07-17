@@ -1,42 +1,49 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,85.208.139.126,1081,Germany,DE,Frankfurt am Main,elite,true,77.06,AS215540,Global Connectivity Solutions LLP,1026.97,1784328548.8221061
-http,85.192.63.222,80,Germany,DE,Frankfurt am Main,transparent,true,41.28,AS210644,Aeza International LTD,28.32,1784328544.285929
-http,85.214.107.177,80,Germany,DE,Berlin,elite,false,31.74,AS6724,Strato AG,4656.82,1784328540.9835398
-http,54.37.74.255,3128,Germany,DE,Saarbrücken,transparent,true,37.55,AS16276,OVH SAS,9565.05,1784328538.4491098
-http,141.98.153.86,80,Germany,DE,Karlsruhe,elite,false,86.5,AS51167,Contabo GmbH,28.42,1784328537.4699905
-http,116.202.108.111,3128,Germany,DE,Falkenstein,transparent,true,100.0,AS24940,Hetzner Online GmbH,873.17,1784328529.4950433
-http,194.59.204.87,9080,Germany,DE,Nuremberg,elite,true,19.55,AS197540,netcup GmbH,38.67,1784328525.3238735
-http,139.28.241.247,1082,Germany,DE,Frankfurt am Main,elite,false,77.78,AS215540,Global Connectivity Solutions LLP,1094.9,1784328519.3531218
-http,64.188.57.128,3128,Germany,DE,Frankfurt am Main,transparent,false,36.59,AS210976,"Timeweb, LLP",14079.46,1784328504.7166188
-http,185.231.59.189,8080,Germany,DE,Frankfurt am Main,transparent,false,27.58,AS212552,BitCommand LLC,6215.34,1784328496.7392933
-http,178.215.236.82,3128,Germany,DE,Frankfurt am Main,elite,true,29.99,AS215439,Play2go International Limited,4512.15,1784328493.427135
-http,89.167.124.218,8888,Germany,DE,Gunzenhausen,elite,true,93.99,AS24940,Hetzner Online GmbH,382.41,1784328482.96867
-http,47.91.65.23,3128,Germany,DE,Frankfurt am Main,elite,true,74.51,AS45102,Alibaba.com LLC,10.37,1784328461.3097236
-http,79.76.121.87,3128,Germany,DE,Frankfurt am Main,transparent,false,28.63,AS31898,Oracle Corporation,16352.02,1784328460.6676908
-http,139.28.241.247,1081,Germany,DE,Frankfurt am Main,elite,false,76.91,AS215540,Global Connectivity Solutions LLP,1051.7,1784328454.4956594
-http,144.31.197.46,8080,Germany,DE,Frankfurt am Main,transparent,true,34.42,AS213520,Senko Digital LLC,5.61,1784328452.7800333
-http,144.31.215.191,3128,Germany,DE,Frankfurt am Main,elite,false,11.76,AS198550,Node Host Limited,15542.33,1784328450.5758464
-http,62.60.216.244,3128,Germany,DE,Frankfurt am Main,elite,false,64.14,AS203273,NetCrafters OU,10692.38,1784328440.7073827
-http,138.124.10.104,443,Germany,DE,Frankfurt Am Main,elite,true,25.44,AS41745,Baykov Ilya Sergeevich,7163.63,1784328438.9294627
-http,82.22.184.158,3128,Germany,DE,Frankfurt am Main,transparent,false,27.24,AS215703,Freakhosting LTD,15400.64,1784328431.6045613
-http,37.220.83.34,3128,Germany,DE,Frankfurt am Main,transparent,true,32.79,AS210976,"Timeweb, LLP",21502.15,1784328404.5280693
-http,194.58.33.7,3128,Germany,DE,Frankfurt am Main,elite,true,66.32,AS216127,International Hosting Company Limited,14348.26,1784328403.9996378
-http,178.104.91.17,80,Germany,DE,Nuremberg,elite,false,56.75,AS24940,Hetzner Online GmbH,14332.08,1784328389.412158
-http,147.45.66.115,1081,Germany,DE,Frankfurt am Main,elite,true,67.62,AS215540,Global Connectivity Solutions LLP,2243.56,1784328593.9951053
-http,159.195.49.27,8888,Germany,DE,Nuremberg,elite,true,92.49,AS197540,netcup GmbH,36.58,1784328592.359369
-http,159.195.43.169,8080,Germany,DE,Nuremberg,transparent,true,45.29,AS197540,netcup GmbH,8706.13,1784328586.5338798
-http,206.81.31.215,80,Germany,DE,Frankfurt am Main,elite,true,17.27,AS14061,"DigitalOcean, LLC",6268.53,1784328582.291812
-http,92.5.8.178,3128,Germany,DE,Frankfurt am Main,transparent,false,25.97,AS31898,Oracle Corporation,4755.62,1784328579.5038736
-http,147.45.66.115,1082,Germany,DE,Frankfurt am Main,elite,false,65.08,AS215540,Global Connectivity Solutions LLP,1245.01,1784328576.3824592
-http,150.241.116.167,443,Germany,DE,Frankfurt am Main,elite,true,94.74,AS215590,DpkgSoft International Limited,284.26,1784328574.766185
-http,167.235.231.149,8888,Germany,DE,Falkenstein,anonymous,false,30.02,AS24940,Hetzner Online GmbH,63.63,1784328574.6321359
-http,147.45.178.104,1082,Germany,DE,Frankfurt am Main,elite,true,69.58,AS215540,Global Connectivity Solutions LLP,7216.57,1784328573.4484823
-http,95.140.154.211,8080,Germany,DE,Frankfurt am Main,elite,true,79.22,AS210976,Mamaev,65.86,1784328570.90807
-http,148.251.87.79,16379,Germany,DE,Falkenstein,elite,true,65.47,AS24940,Hetzner Online GmbH,11816.35,1784328561.7558036
-http,148.251.86.68,16379,Germany,DE,Falkenstein,elite,true,28.82,AS24940,Hetzner Online GmbH,15510.48,1784328560.2993126
-http,148.251.86.76,16379,Germany,DE,Falkenstein,elite,true,26.05,AS24940,Hetzner Online GmbH,6684.28,1784328554.3830738
-http,213.165.43.234,3128,Germany,DE,Frankfurt am Main,transparent,true,40.21,AS210644,Aeza International LTD,15328.7,1784328547.2961135
-http,91.98.86.26,8888,Germany,DE,Falkenstein,elite,true,99.69,AS24940,Hetzner Online GmbH,176.38,1784328490.4961257
-http,147.45.66.117,1081,Germany,DE,Frankfurt am Main,elite,true,63.69,AS215540,Global Connectivity Solutions LLP,9311.5,1784328483.6803193
-http,165.227.169.229,3080,Germany,DE,Frankfurt am Main,transparent,false,14.15,AS14061,"DigitalOcean, LLC",13947.97,1784328453.0654716
-http,209.38.183.26,3128,Germany,DE,Frankfurt am Main,transparent,true,14.79,AS14061,"DigitalOcean, LLC",13049.38,1784328542.4088168
+http,144.31.73.173,3128,Germany,DE,Frankfurt am Main,elite,true,68.04,AS213877,U1 DIGITAL SERVICES LTD,8.55,1784330213.996996
+http,194.180.188.100,8080,Germany,DE,Frankfurt am Main,elite,false,23.38,AS57043,Hostkey B.V.,9593.52,1784330196.289626
+http,47.91.65.23,3128,Germany,DE,Frankfurt am Main,elite,true,74.51,AS45102,Alibaba.com LLC,62.75,1784330193.6642525
+http,139.28.241.247,1082,Germany,DE,Frankfurt am Main,elite,true,77.77,AS215540,Global Connectivity Solutions LLP,6862.95,1784330191.8020148
+http,85.192.63.222,80,Germany,DE,Frankfurt am Main,transparent,true,41.43,AS210644,Aeza International LTD,34.42,1784330188.4489686
+http,185.231.59.189,8080,Germany,DE,Frankfurt am Main,transparent,true,27.58,AS212552,BitCommand LLC,3064.25,1784330188.272971
+http,85.208.139.126,1082,Germany,DE,Frankfurt am Main,elite,true,79.03,AS215540,Global Connectivity Solutions LLP,56.32,1784330187.975841
+http,141.98.153.86,80,Germany,DE,Karlsruhe,elite,false,86.5,AS51167,Contabo GmbH,79.63,1784330186.724152
+http,85.214.107.177,80,Germany,DE,Berlin,elite,false,31.74,AS6724,Strato AG,113.89,1784330170.565485
+http,89.167.124.218,8888,Germany,DE,Gunzenhausen,elite,true,94.0,AS24940,Hetzner Online GmbH,1961.77,1784330164.4071279
+http,141.95.53.104,9898,Germany,DE,Limburg an der Lahn,elite,true,33.44,AS16276,OVH SAS,594.11,1784330163.552755
+http,54.37.73.95,8080,Germany,DE,Saarbrücken,transparent,false,8.94,AS16276,OVH SAS,13297.77,1784330163.5493734
+http,80.74.54.148,3128,Germany,DE,Grefrath,anonymous,false,84.39,AS60294,Deutsche Glasfaser Wholesale GmbH,4360.09,1784330163.1874628
+http,143.20.37.77,3128,Germany,DE,Frankfurt am Main,elite,true,28.79,AS215703,Freakhosting LTD,6405.78,1784330144.7543309
+http,217.160.162.25,8888,Germany,DE,Berlin,transparent,true,10.74,AS8560,IONOS SE,46.1,1784330140.6469793
+http,2.59.132.39,3128,Germany,DE,Frankfurt am Main,elite,true,31.6,AS58212,dataforest GmbH,6051.03,1784330136.6483405
+http,82.22.184.158,3128,Germany,DE,Frankfurt am Main,transparent,true,27.25,AS215703,Freakhosting LTD,6.92,1784330136.3440366
+http,64.188.57.128,3128,Germany,DE,Frankfurt am Main,transparent,true,36.6,AS210976,"Timeweb, LLP",48.42,1784330132.3277855
+http,54.37.74.255,3128,Germany,DE,Saarbrücken,transparent,true,37.71,AS16276,OVH SAS,13613.59,1784330132.3257625
+http,89.168.67.102,3128,Germany,DE,Frankfurt am Main,elite,false,22.97,AS31898,Oracle Corporation,8445.34,1784330131.6693883
+http,84.247.171.137,3128,Germany,DE,Düsseldorf,transparent,true,15.1,AS51167,Contabo GmbH,2166.42,1784330131.3045368
+http,139.28.241.247,1081,Germany,DE,Frankfurt am Main,elite,true,77.0,AS215540,Global Connectivity Solutions LLP,5747.62,1784330128.4704115
+http,85.208.139.126,1081,Germany,DE,Frankfurt am Main,elite,false,77.07,AS215540,Global Connectivity Solutions LLP,1434.74,1784330115.9357386
+http,116.202.108.111,3128,Germany,DE,Falkenstein,transparent,true,100.0,AS24940,Hetzner Online GmbH,1644.65,1784330105.328814
+http,188.34.156.126,24575,Germany,DE,Falkenstein,transparent,true,36.55,AS24940,Hetzner Online GmbH,665.6,1784330031.9005249
+http,37.220.83.34,3128,Germany,DE,Frankfurt am Main,transparent,true,32.98,AS210976,"Timeweb, LLP",6120.53,1784330026.3925126
+http,72.56.114.56,8888,Germany,DE,Frankfurt am Main,elite,false,41.35,AS210976,"Timeweb, LLP",7526.31,1784329983.8514516
+http,144.31.215.191,3128,Germany,DE,Frankfurt am Main,elite,true,11.79,AS198550,Node Host Limited,5445.07,1784329980.005674
+http,91.98.86.26,8888,Germany,DE,Falkenstein,elite,true,99.69,AS24940,Hetzner Online GmbH,169.55,1784330272.7030666
+http,147.45.66.115,1081,Germany,DE,Frankfurt am Main,elite,true,67.67,AS215540,Global Connectivity Solutions LLP,1194.52,1784330254.8504128
+http,148.251.86.68,16379,Germany,DE,Falkenstein,elite,true,28.83,AS24940,Hetzner Online GmbH,5402.63,1784330252.973125
+http,147.45.66.117,1082,Germany,DE,Frankfurt am Main,elite,true,62.92,AS215540,Global Connectivity Solutions LLP,7414.98,1784330252.7943192
+http,147.45.66.117,1081,Germany,DE,Frankfurt am Main,elite,false,63.87,AS215540,Global Connectivity Solutions LLP,223.61,1784330252.6571915
+http,147.45.178.104,1081,Germany,DE,Frankfurt am Main,elite,false,69.73,AS215540,Global Connectivity Solutions LLP,14219.95,1784330243.4931693
+http,150.241.116.167,443,Germany,DE,Frankfurt am Main,elite,true,94.74,AS215590,DpkgSoft International Limited,42.07,1784330237.9777193
+http,147.45.66.116,1081,Germany,DE,Frankfurt am Main,elite,true,76.83,AS215540,Global Connectivity Solutions LLP,1235.65,1784330237.8602679
+http,45.135.165.102,443,Germany,DE,Frankfurt am Main,elite,true,14.12,AS48207,GLB Bulut Teknolojisi Limited Sirketi,1455.03,1784330236.400523
+http,150.241.64.211,8080,Germany,DE,Frankfurt am Main,elite,false,12.2,AS213520,Senko Digital LLC,14144.1,1784330231.7726588
+http,95.140.154.211,8080,Germany,DE,Frankfurt am Main,elite,true,79.27,AS210976,Mamaev,54.94,1784330231.4605813
+http,148.251.87.79,16379,Germany,DE,Falkenstein,elite,true,65.47,AS24940,Hetzner Online GmbH,10271.0,1784330230.3945487
+http,91.26.188.170,8080,Germany,DE,Cochem,transparent,false,38.6,AS3320,Deutsche Telekom AG,2086.41,1784330207.3982928
+http,147.45.66.115,1082,Germany,DE,Frankfurt am Main,elite,false,65.24,AS215540,Global Connectivity Solutions LLP,4251.45,1784330204.8622763
+http,165.227.169.229,3080,Germany,DE,Frankfurt am Main,transparent,true,14.16,AS14061,"DigitalOcean, LLC",7672.03,1784330191.3389754
+http,164.90.213.227,3128,Germany,DE,Frankfurt am Main,transparent,false,13.99,AS14061,"DigitalOcean, LLC",14978.61,1784330178.0279553
+http,206.81.30.62,3128,Germany,DE,Frankfurt am Main,elite,true,41.54,AS14061,"DigitalOcean, LLC",1505.29,1784330157.7626743
+http,206.81.31.215,80,Germany,DE,Frankfurt am Main,elite,true,17.27,AS14061,"DigitalOcean, LLC",3588.48,1784330149.4946973
+http,159.195.49.27,8888,Germany,DE,Nuremberg,elite,true,92.5,AS197540,netcup GmbH,38.47,1784330127.268624
+http,212.227.182.100,110,Germany,DE,Essen,transparent,true,28.24,AS8560,IONOS SE,12553.28,1784330198.4884353

@@ -1,13 +1,13 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,86.21.235.43,995,United Kingdom,GB,Bracknell,transparent,false,50.4,AS5089,Virgin Media Limited,16537.35,1784328521.3159308
-http,94.72.109.169,8080,United Kingdom,GB,Portsmouth,transparent,false,20.53,AS51167,Contabo GmbH,14871.52,1784328509.196079
-http,81.168.119.85,443,United Kingdom,GB,Maidenhead,elite,false,80.52,AS20860,Iomart Cloud Services Limited,4095.78,1784328504.3425193
-http,141.147.70.238,3128,United Kingdom,GB,London,transparent,true,85.78,AS31898,Oracle Corporation,7163.98,1784328502.5266578
-http,130.49.187.61,1081,United Kingdom,GB,London,elite,true,70.79,AS215540,Global Connectivity Solutions LLP,480.18,1784328432.7729607
-http,130.49.187.63,1082,United Kingdom,GB,London,elite,false,74.14,AS215540,Global Connectivity Solutions LLP,8053.01,1784328429.0183487
-http,104.194.148.188,3128,United Kingdom,GB,London,transparent,true,86.51,AS198983,FranTech Solutions,69.29,1784328603.6052349
-http,212.58.132.5,8888,United Kingdom,GB,London,transparent,true,82.45,AS8757,"NSFOCUS, Inc.",1100.69,1784328590.2663627
-http,104.194.146.9,80,United Kingdom,GB,London,elite,true,74.15,AS198983,FranTech Solutions,65.24,1784328570.4513507
-http,212.229.87.179,8888,United Kingdom,GB,Spilsby,elite,true,52.5,AS5378,Vodafone Broadband Dynamic,1224.09,1784328565.343856
-http,145.241.249.192,8080,United Kingdom,GB,London,elite,true,7.08,AS31898,Oracle Corporation,11953.77,1784328561.3582327
-http,104.194.148.204,80,United Kingdom,GB,London,elite,true,76.38,AS198983,FranTech Solutions,7204.22,1784328559.5209382
+http,141.147.70.238,3128,United Kingdom,GB,London,transparent,true,85.8,AS31898,Oracle Corporation,82.34,1784330208.5583007
+http,130.49.187.61,1081,United Kingdom,GB,London,elite,false,70.76,AS215540,Global Connectivity Solutions LLP,317.7,1784330187.7710826
+http,86.21.235.43,995,United Kingdom,GB,Bracknell,transparent,false,50.43,AS5089,Virgin Media Limited,10638.93,1784330181.4656096
+http,57.128.159.156,21,United Kingdom,GB,Erith,elite,true,24.82,AS16276,OVH SAS,13222.27,1784330149.5811017
+http,130.49.187.63,1082,United Kingdom,GB,London,elite,false,74.12,AS215540,Global Connectivity Solutions LLP,3087.89,1784330082.4410183
+http,198.244.254.77,3128,United Kingdom,GB,London,elite,true,11.67,AS16276,OVH SAS,7447.44,1784330022.4863365
+http,104.194.148.188,3128,United Kingdom,GB,London,transparent,true,86.52,AS198983,FranTech Solutions,71.37,1784330271.7835307
+http,212.58.132.5,8888,United Kingdom,GB,London,transparent,true,82.46,AS8757,"NSFOCUS, Inc.",1172.56,1784330263.9305596
+http,104.194.148.204,80,United Kingdom,GB,London,elite,true,76.4,AS198983,FranTech Solutions,188.45,1784330242.2773645
+http,94.72.109.169,8080,United Kingdom,GB,Portsmouth,transparent,false,20.53,AS51167,Contabo GmbH,12578.94,1784330233.4238408
+http,104.194.146.9,80,United Kingdom,GB,London,elite,true,74.16,AS198983,FranTech Solutions,68.16,1784330169.2981515
+http,130.49.187.61,1082,United Kingdom,GB,London,elite,false,69.21,AS215540,Global Connectivity Solutions LLP,7134.05,1784330073.5761373

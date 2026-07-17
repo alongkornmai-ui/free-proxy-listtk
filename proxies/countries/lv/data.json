@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "http",
+    "ip": "89.36.161.56",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.21,
+    "asn": "AS56630",
+    "isp": "Melbikomas UAB",
+    "latency_ms": 12104.36,
+    "last_checked": 1784330195.5761387
+  },
+  {
+    "protocol": "http",
+    "ip": "45.130.212.97",
+    "port": 8119,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.75,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 2867.7,
+    "last_checked": 1784330267.322993
+  },
+  {
     "protocol": "socks5",
     "ip": "195.135.255.98",
     "port": 1080,
@@ -8,11 +38,26 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 76.74,
+    "uptime_percent": 76.69,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 4249.51,
-    "last_checked": 1784328517.6242752
+    "latency_ms": 1201.89,
+    "last_checked": 1784330265.5300677
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.130.212.97",
+    "port": 8119,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.09,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 2576.32,
+    "last_checked": 1784330262.6525893
   },
   {
     "protocol": "http",
@@ -23,11 +68,11 @@
     "city": "Riga",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 29.32,
+    "uptime_percent": 29.41,
     "asn": "AS44575",
     "isp": "SIA \"MWTV\"",
-    "latency_ms": 12586.64,
-    "last_checked": 1784328569.9601002
+    "latency_ms": 154.11,
+    "last_checked": 1784330244.5966232
   },
   {
     "protocol": "http",
@@ -38,11 +83,11 @@
     "city": "Riga",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 27.64,
+    "uptime_percent": 27.75,
     "asn": "AS9002",
     "isp": "RETN Limited",
-    "latency_ms": 17197.48,
-    "last_checked": 1784328537.9526398
+    "latency_ms": 11720.85,
+    "last_checked": 1784330223.3640132
   },
   {
     "protocol": "http",
@@ -53,10 +98,10 @@
     "city": "Riga",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 94.31,
+    "uptime_percent": 94.32,
     "asn": "AS41745",
     "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 3374.9,
-    "last_checked": 1784328493.8858385
+    "latency_ms": 1122.89,
+    "last_checked": 1784330203.4540026
   }
 ]

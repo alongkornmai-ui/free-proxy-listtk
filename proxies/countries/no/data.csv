@@ -1,3 +1,2 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks5,84.52.227.36,9050,Norway,NO,Trondheim,elite,true,48.64,AS34087,NTE Bredband,13888.27,1784328474.4713073
-http,131.163.89.148,3128,Norway,NO,Lorenskog,elite,true,42.1,AS8075,Microsoft Corporation,9824.98,1784328559.272625
+http,131.163.89.148,3128,Norway,NO,Lorenskog,elite,true,42.11,AS8075,Microsoft Corporation,4763.67,1784330257.4449084

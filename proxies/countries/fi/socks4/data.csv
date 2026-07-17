@@ -1,14 +1,12 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,65.21.61.221,8080,Finland,FI,Helsinki,elite,true,40.73,AS24940,Hetzner Online GmbH,220.86,1784328552.5294054
-socks4,92.118.234.124,1080,Finland,FI,Helsinki,elite,true,88.08,AS209847,WorkTitans B.V.,1174.24,1784328548.6778986
-socks4,37.27.245.106,1080,Finland,FI,Helsinki,elite,true,87.56,AS24940,Hetzner Online GmbH,4808.77,1784328546.6779015
-socks4,185.230.190.195,1080,Finland,FI,Helsinki,elite,true,88.69,AS212706,Livi Hosting LTD,5429.3,1784328538.1066267
-socks4,65.21.137.237,9050,Finland,FI,Helsinki,elite,true,33.19,AS24940,Hetzner Online GmbH,12900.31,1784328533.921227
-socks4,109.107.182.15,10808,Finland,FI,Helsinki,elite,true,48.63,AS216024,Aleksei Fedorov PR Krusevac,5237.51,1784328511.4892488
-socks4,95.216.117.50,9050,Finland,FI,Helsinki,elite,true,36.06,AS24940,Hetzner Online GmbH,2195.95,1784328601.6855998
-socks4,93.123.30.53,1080,Finland,FI,Helsinki,elite,true,46.42,AS41745,Baykov Ilya Sergeevich,7318.25,1784328593.3893664
-socks4,95.216.170.155,9093,Finland,FI,Helsinki,elite,true,52.39,AS24940,Hetzner Online GmbH,11025.98,1784328581.4132288
-socks4,95.216.170.155,9081,Finland,FI,Helsinki,elite,true,81.82,AS24940,Hetzner Online GmbH,17968.84,1784328578.3936994
-socks4,95.216.170.155,9091,Finland,FI,Helsinki,elite,true,68.92,AS24940,Hetzner Online GmbH,11503.8,1784328575.1028163
-socks4,95.216.170.155,9098,Finland,FI,Helsinki,elite,true,30.09,AS24940,Hetzner Online GmbH,9442.48,1784328568.6563406
-socks4,2.26.66.216,1080,Finland,FI,Helsinki,elite,true,29.67,AS210546,Chsl ONE LTD,10048.13,1784328546.5940588
+socks4,65.21.61.221,8080,Finland,FI,Helsinki,elite,true,40.83,AS24940,Hetzner Online GmbH,205.53,1784330222.4964383
+socks4,185.230.190.195,1080,Finland,FI,Helsinki,elite,true,88.69,AS212706,Livi Hosting LTD,1351.94,1784330214.8524172
+socks4,132.243.23.194,8888,Finland,FI,Helsinki,elite,true,42.72,AS204339,First Server Limited,2208.44,1784330213.0498502
+socks4,92.118.234.124,1080,Finland,FI,Helsinki,elite,true,88.09,AS209847,WorkTitans B.V.,1893.0,1784330205.4365299
+socks4,37.27.245.106,1080,Finland,FI,Helsinki,elite,true,87.53,AS24940,Hetzner Online GmbH,12849.56,1784330203.6173928
+socks4,46.62.246.93,9050,Finland,FI,Helsinki,elite,true,29.52,AS24940,Hetzner Online GmbH,9360.48,1784330189.3423922
+socks4,2.26.66.216,1080,Finland,FI,Helsinki,elite,true,29.7,AS210546,Chsl ONE LTD,5355.94,1784330270.9088743
+socks4,95.216.170.155,9091,Finland,FI,Helsinki,elite,true,68.9,AS24940,Hetzner Online GmbH,12414.47,1784330262.23674
+socks4,95.217.167.252,11116,Finland,FI,Helsinki,elite,true,32.72,AS24940,Hetzner Online GmbH,907.24,1784330260.911837
+socks4,95.216.170.155,9093,Finland,FI,Helsinki,elite,true,52.45,AS24940,Hetzner Online GmbH,11278.52,1784330253.8577878
+socks4,95.216.170.155,9081,Finland,FI,Helsinki,elite,true,77.6,AS24940,Hetzner Online GmbH,18788.95,1784330222.874175

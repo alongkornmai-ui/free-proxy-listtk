@@ -8,11 +8,11 @@
     "city": "Popovo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.0,
+    "uptime_percent": 86.88,
     "asn": "AS57634",
     "isp": "SKAT-Popopvo",
-    "latency_ms": 1534.17,
-    "last_checked": 1784328451.512939
+    "latency_ms": 1399.37,
+    "last_checked": 1784330172.0705307
   },
   {
     "protocol": "http",
@@ -23,10 +23,25 @@
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 12.76,
+    "uptime_percent": 12.77,
     "asn": "AS29580",
     "isp": "Mobiltel BNG",
-    "latency_ms": 3678.61,
-    "last_checked": 1784328449.7138295
+    "latency_ms": 9173.33,
+    "last_checked": 1784330113.7928915
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 14.61,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 7580.49,
+    "last_checked": 1784330215.3906987
   }
 ]

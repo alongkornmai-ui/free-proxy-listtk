@@ -1,5 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks5,171.25.158.95,1080,Sweden,SE,Vaxjo,elite,true,99.04,AS35100,Patrik Lagerman,245.94,1784328549.1530726
-socks5,188.93.140.146,1080,Sweden,SE,Stockholm,elite,true,55.89,AS63473,"HostHatch, LLC",1286.75,1784328522.2790122
-socks5,193.148.58.181,1080,Sweden,SE,Stockholm,elite,true,24.62,AS41745,Baykov Ilya Sergeevich,9444.26,1784328520.9027874
-socks5,89.22.238.103,38871,Sweden,SE,Stockholm,elite,true,24.95,AS210644,xorek.cloud International LTD,2932.24,1784328510.873306
+socks5,79.76.59.115,1080,Sweden,SE,Stockholm,elite,true,64.73,AS31898,Oracle Corporation,161.19,1784330217.0180762
+socks5,171.25.158.95,1080,Sweden,SE,Vaxjo,elite,true,99.05,AS35100,Patrik Lagerman,579.82,1784330206.9995775
+socks5,188.93.140.146,1080,Sweden,SE,Stockholm,elite,true,55.91,AS63473,"HostHatch, LLC",7271.23,1784330180.5260983
+socks5,138.124.102.98,1082,Sweden,SE,Stockholm,elite,true,36.42,AS210644,Aeza International LTD,9924.39,1784330176.459807
+socks5,62.60.230.196,1080,Sweden,SE,Stockholm,elite,true,23.15,AS210644,Aeza International LTD,1190.14,1784330253.1386817
+socks5,147.45.72.212,44816,Sweden,SE,Stockholm,elite,true,32.63,AS210644,Aeza International LTD,9089.83,1784330225.686668

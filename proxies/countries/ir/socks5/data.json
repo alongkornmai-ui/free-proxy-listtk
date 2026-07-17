@@ -8,10 +8,10 @@
     "city": "Tabriz",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 62.82,
+    "uptime_percent": 62.42,
     "asn": "AS42337",
     "isp": "Respina Networks & Beyond PJSC",
-    "latency_ms": 3967.37,
-    "last_checked": 1784328541.0911572
+    "latency_ms": 1404.57,
+    "last_checked": 1784330211.300075
   }
 ]

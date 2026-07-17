@@ -8,10 +8,10 @@
     "city": "Bishkek",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 14.7,
+    "uptime_percent": 14.71,
     "asn": "AS197119",
     "isp": "KRENA - Kyrgyz research and education network association",
-    "latency_ms": 615.52,
-    "last_checked": 1784328474.9781165
+    "latency_ms": 3732.64,
+    "last_checked": 1784330166.7971141
   }
 ]

@@ -8,11 +8,11 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 89.47,
+    "uptime_percent": 89.48,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 141.86,
-    "last_checked": 1784328525.5450034
+    "latency_ms": 1577.18,
+    "last_checked": 1784330200.3901103
   },
   {
     "protocol": "socks5",
@@ -23,10 +23,10 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 82.1,
+    "uptime_percent": 82.19,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 178.21,
-    "last_checked": 1784328507.527704
+    "latency_ms": 155.37,
+    "last_checked": 1784330180.2974236
   }
 ]

@@ -1,3 +1,8 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,45.249.78.177,5678,India,IN,Mātsavaram,elite,true,9.65,AS18229,Tejasri Communications,3903.31,1784328546.6268442
-socks4,27.121.101.221,5678,India,IN,Nadiād,elite,true,13.61,AS45916,Gujarat Telelik Pvt Ltd,1802.13,1784328532.5374157
+socks4,45.249.79.190,3629,India,IN,Vijayawada,elite,true,7.8,AS18229,Tejasri Communications,8029.48,1784330210.9532871
+socks4,45.249.78.177,5678,India,IN,Mātsavaram,elite,true,9.65,AS18229,Tejasri Communications,7933.14,1784330204.6912973
+socks4,103.26.10.23,2080,India,IN,Mumbai,elite,true,28.66,AS44259,LEARNSOCIAL.COM INDIA PRIVATE LIMITED,10067.81,1784330264.9477005
+socks4,159.65.158.30,8888,India,IN,Bengaluru,elite,true,24.35,AS14061,"DigitalOcean, LLC",10452.94,1784330262.3535452
+socks4,103.55.106.150,1080,India,IN,Sītāmarhi,elite,true,47.55,AS133989,SBR Telecom Pvt. Ltd,8022.69,1784330258.0541105
+socks4,202.179.83.169,51951,India,IN,Mumbai,elite,true,49.32,AS138296,Ankhnet,1666.68,1784330254.905044
+socks4,150.129.170.77,5678,India,IN,Nadiād,elite,true,13.72,AS45916,GTPL SK Network Pvt Ltd,756.48,1784330235.6734521

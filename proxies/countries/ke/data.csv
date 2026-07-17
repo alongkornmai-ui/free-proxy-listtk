@@ -1,10 +1,8 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,197.155.73.230,1080,Kenya,KE,Nairobi,elite,true,63.25,AS30844,Liquid Telecommunications Ltd,2001.82,1784328542.358086
-http,102.211.146.31,8080,Kenya,KE,Nairobi,transparent,false,22.27,AS328490,Unwired Communications Limited,6720.32,1784328530.4975703
-http,102.0.18.120,8080,Kenya,KE,Nairobi,transparent,true,8.42,AS36926,Airtel KE Mobile & Fixed Internet,9291.96,1784328502.1514196
-http,102.213.179.210,8080,Kenya,KE,Nairobi,transparent,false,31.05,AS329261,NEXT THING NETWORKS Limited,4070.97,1784328467.1799822
-http,102.209.18.248,8080,Kenya,KE,Nairobi,transparent,false,30.23,AS329437,Vennet Solutions Limited,3493.7,1784328449.6477783
-http,185.240.48.133,3128,Kenya,KE,Nairobi,elite,false,24.41,AS329272,Servercore Africa Ltd,20104.55,1784328425.4790933
-http,102.211.145.161,8081,Kenya,KE,Nairobi,transparent,false,13.38,AS328490,Unwired Communications Ltd,984.39,1784328360.1059537
-http,41.72.199.106,8089,Kenya,KE,Nairobi,transparent,false,28.63,AS30844,Maintainer Liquid Telecommunications Operations Limited,1420.57,1784328582.5813968
-http,41.79.9.229,8080,Kenya,KE,Imara Daima Estate,transparent,true,28.75,AS37305,Frontier Optical Networks Ltd,7993.57,1784328551.9570525
+http,102.0.25.184,8080,Kenya,KE,Nairobi,transparent,false,21.99,AS36926,Airtel KE Mobile & Fixed Internet,2057.75,1784330205.7907116
+socks4,197.155.73.230,1080,Kenya,KE,Nairobi,elite,true,63.2,AS30844,Liquid Telecommunications Ltd,2009.6,1784330183.6133301
+http,102.211.146.31,8080,Kenya,KE,Nairobi,transparent,false,22.33,AS328490,Unwired Communications Limited,6181.08,1784330176.6111689
+http,102.211.145.31,8080,Kenya,KE,Nairobi,transparent,false,25.59,AS328490,Unwired Communications Ltd,4321.45,1784330069.4724994
+http,185.240.48.133,3128,Kenya,KE,Nairobi,elite,false,24.56,AS329272,Servercore Africa Ltd,8812.79,1784330003.4499288
+socks4,105.27.127.70,1080,Kenya,KE,Nairobi,elite,true,67.39,AS37100,SEACOM Limited,8071.34,1784330261.8316956
+http,41.79.9.229,8080,Kenya,KE,Imara Daima Estate,transparent,false,28.75,AS37305,Frontier Optical Networks Ltd,9834.36,1784330012.2965105

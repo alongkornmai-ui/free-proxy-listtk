@@ -1,6 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,116.212.149.218,8080,Cambodia,KH,Phnom Penh,transparent,false,10.61,AS38235,MekongNet,1622.68,1784328455.372761
-http,103.17.215.9,8089,Cambodia,KH,Phnom Penh,elite,true,26.53,AS24492,WiCAM Corporation Ltd,1572.88,1784328450.9185705
-http,119.15.84.74,8080,Cambodia,KH,Phnom Penh,transparent,false,27.11,AS24492,WiCAM Corporation Ltd,526.68,1784328437.0279427
-http,103.9.190.130,8080,Cambodia,KH,Phnom Penh,transparent,true,19.52,AS38901,"EZECOM CO., LTD.",5097.05,1784328566.9438474
-http,203.171.252.7,8080,Cambodia,KH,Phnom Penh,transparent,false,12.31,AS38235,MEKONGNET,8374.09,1784328462.7037709
+http,36.37.251.137,8080,Cambodia,KH,Phnom Penh,transparent,true,12.72,AS38623,"VIETTEL (CAMBODIA) PTE., LTD",9078.59,1784330205.3740504
+http,175.100.35.103,8080,Cambodia,KH,Phnom Penh,transparent,true,12.42,AS38623,"VIETTEL (CAMBODIA) PTE., LTD",5533.37,1784330153.486552
+http,49.156.44.166,8080,Cambodia,KH,Phnom Penh,transparent,false,24.08,AS24492,WiCAM Corporation,3883.2,1784330111.903464
+http,110.74.195.34,25,Cambodia,KH,Phnom Penh,elite,true,18.39,AS38901,"EZECOM CO., LTD.",2672.16,1784330091.2760556
+http,203.171.252.7,8080,Cambodia,KH,Phnom Penh,transparent,false,12.31,AS38235,MEKONGNET,666.65,1784330109.563801

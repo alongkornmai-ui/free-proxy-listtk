@@ -1,98 +1,102 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,184.181.217.220,4145,United States,US,Pensacola,elite,true,44.0,AS22773,Cox Communications Inc.,889.72,1784328552.2306263
-socks4,178.130.47.21,1081,United States,US,Phoenix,elite,true,79.2,AS215540,Global Connectivity Solutions LLP,1600.18,1784328551.7668085
-socks4,199.66.183.226,4145,United States,US,Jonesboro,elite,true,99.99,AS20081,NET2ATLANTA.COM LLC,792.58,1784328551.403363
-socks4,23.133.196.13,9000,United States,US,Kalispell,elite,true,46.44,AS399861,Mobite Network LLC,1777.68,1784328551.3903265
-socks4,184.182.240.12,4145,United States,US,Macon,elite,true,99.75,AS22773,Cox Communications Inc.,896.85,1784328551.221163
-socks4,72.37.217.3,4145,United States,US,Syracuse,elite,true,26.72,AS46562,PacketExchange,833.71,1784328550.9525847
-socks4,72.195.34.59,4145,United States,US,Irvine,elite,true,55.02,AS22773,Cox Communications Inc.,903.63,1784328550.708792
-socks4,66.42.224.229,41679,United States,US,Cincinnati,elite,true,53.46,AS6181,Cincinnati Bell Telephone Company LLC,853.38,1784328550.67062
-socks4,178.130.47.43,1082,United States,US,Phoenix,elite,true,75.3,AS215540,Global Connectivity Solutions LLP,1588.55,1784328549.181096
-socks4,170.106.177.188,9050,United States,US,Santa Clara,elite,true,41.44,AS132203,Tencent Cloud Computing (Beijing) Co,3790.37,1784328548.961232
-socks4,89.185.80.251,1082,United States,US,Phoenix,elite,true,74.71,AS215540,Global Connectivity Solutions LLP,5707.87,1784328548.065648
-socks4,68.1.210.189,4145,United States,US,San Diego,elite,true,31.28,AS22773,Cox Communications Inc.,908.06,1784328547.5069687
-socks4,72.49.49.11,31034,United States,US,Cincinnati,elite,true,53.11,AS6181,Fuse Internet Access,824.95,1784328546.970982
-socks4,192.252.215.5,16137,United States,US,Atlanta,elite,true,27.01,AS46562,Performive LLC,805.86,1784328546.329666
-socks4,216.68.128.121,4145,United States,US,Cincinnati,elite,true,99.81,AS6181,Cincinnati Bell Telephone Company LLC,830.34,1784328545.6810336
-socks4,178.130.47.21,1082,United States,US,Phoenix,elite,true,78.79,AS215540,Global Connectivity Solutions LLP,2626.27,1784328544.6710377
-socks4,142.93.21.46,61616,United States,US,Santa Clara,elite,true,58.5,AS14061,"DigitalOcean, LLC",8806.42,1784328544.3533456
-socks4,142.54.231.38,4145,United States,US,Los Angeles,elite,true,29.93,AS46562,Performive LLC,843.73,1784328543.918281
-socks4,89.185.80.69,1081,United States,US,Phoenix,elite,true,75.05,AS215540,Global Connectivity Solutions LLP,2636.44,1784328543.8852336
-socks4,70.35.196.194,1081,United States,US,Sulphur Springs,elite,true,37.91,AS8560,IONOS SE,9117.14,1784328542.753509
-socks4,184.170.249.65,4145,United States,US,Atlanta,elite,true,28.54,AS46562,Performive LLC,815.92,1784328542.7508209
-socks4,178.130.47.50,1081,United States,US,Phoenix,elite,true,66.88,AS215540,Global Connectivity Solutions LLP,8789.24,1784328539.8146565
-socks4,184.170.245.148,4145,United States,US,Atlanta,elite,true,47.83,AS46562,Performive LLC,805.23,1784328539.334835
-socks4,178.130.47.43,1081,United States,US,Phoenix,elite,true,75.44,AS215540,Global Connectivity Solutions LLP,6679.45,1784328538.6051586
-socks4,184.181.217.201,4145,United States,US,Pensacola,elite,true,46.07,AS22773,Cox Communications Inc.,903.71,1784328537.3413348
-socks4,142.54.237.38,4145,United States,US,Los Angeles,elite,true,50.74,AS46562,Performive LLC,833.04,1784328536.423046
-socks4,192.111.137.35,4145,United States,US,Atlanta,elite,true,28.53,AS46562,Total Server Solutions L.L.C.,810.51,1784328536.3348005
-socks4,72.195.34.41,4145,United States,US,Irvine,elite,true,54.98,AS22773,Cox Communications Inc.,3916.59,1784328535.4411616
-socks4,69.61.200.104,36181,United States,US,Cincinnati,elite,true,51.95,AS6181,Fuse Internet Access,849.12,1784328535.4315903
-socks4,174.64.199.82,4145,United States,US,Pensacola,elite,true,31.63,AS22773,Cox Communications Inc.,8111.09,1784328534.4015343
-socks4,47.88.94.79,1080,United States,US,Minkler,elite,true,70.61,AS45102,"Alibaba (US) Technology Co., Ltd.",13422.2,1784328534.2675693
-socks4,47.252.18.37,8118,United States,US,Charlottesville,elite,true,0.85,AS45102,Alibaba Cloud LLC,3186.17,1784328532.9545224
-socks4,199.58.184.97,4145,United States,US,Atlanta,elite,true,28.4,AS46562,Performive LLC,791.02,1784328531.8273637
-socks4,178.130.47.23,1082,United States,US,Phoenix,elite,true,77.91,AS215540,Global Connectivity Solutions LLP,2628.31,1784328530.2378776
-socks4,72.36.32.222,9050,United States,US,Pine Bluffs,elite,true,25.75,AS30110,Advanced Communications Technology,14518.42,1784328528.9678245
-socks4,47.251.127.154,1080,United States,US,Minkler,elite,true,88.93,AS45102,Alibaba Cloud LLC,9223.99,1784328528.8841388
-socks4,70.166.167.55,57745,United States,US,Rogers,elite,true,35.13,AS22773,Cox Communications Inc.,1934.22,1784328528.2790458
-socks4,142.93.203.8,1080,United States,US,North Bergen,elite,true,87.55,AS14061,"DigitalOcean, LLC",3535.98,1784328528.263458
-socks4,178.130.47.41,1082,United States,US,Phoenix,elite,true,75.1,AS215540,Global Connectivity Solutions LLP,582.29,1784328527.9417791
-socks4,89.185.80.251,1081,United States,US,Phoenix,elite,true,75.06,AS215540,Global Connectivity Solutions LLP,5723.59,1784328527.508168
-socks4,192.111.137.34,18765,United States,US,Atlanta,elite,true,27.08,AS46562,Total Server Solutions L.L.C.,802.86,1784328526.822709
-socks4,184.178.172.14,4145,United States,US,Roanoke,elite,true,41.94,AS22773,Cox Communications Inc.,1952.15,1784328526.7215707
-socks4,92.118.112.25,1081,United States,US,Atlanta,elite,true,68.23,AS215540,Global Connectivity Solutions LLP,1454.03,1784328526.2417517
-socks4,47.252.18.37,9999,United States,US,Charlottesville,elite,true,0.76,AS45102,Alibaba Cloud LLC,10425.43,1784328525.350816
-socks4,70.35.196.194,1090,United States,US,Sulphur Springs,elite,true,40.81,AS8560,IONOS SE,15850.56,1784328524.927007
-socks4,43.130.38.45,51029,United States,US,Santa Clara,elite,true,55.93,AS132203,Shenzhen Tencent Computer Systems Company Limited,14496.15,1784328524.5085979
-socks4,89.185.80.250,1081,United States,US,Phoenix,elite,true,77.27,AS215540,Global Connectivity Solutions LLP,3585.49,1784328524.2053783
-socks4,23.133.196.9,9000,United States,US,Kalispell,elite,true,48.95,AS399861,Mobite Network LLC,9208.46,1784328520.0573177
-socks4,89.185.80.69,1082,United States,US,Phoenix,elite,true,74.59,AS215540,Global Connectivity Solutions LLP,8722.1,1784328519.5289671
-socks4,45.61.129.165,8443,United States,US,Las Vegas,elite,true,54.18,AS14956,RouterHosting LLC,14302.45,1784328516.3696482
-socks4,43.153.71.188,9050,United States,US,Santa Clara,elite,true,33.3,AS132203,Shenzhen Tencent Computer Systems Company Limited,4970.53,1784328516.2098224
-socks4,174.64.199.79,4145,United States,US,Pensacola,elite,true,31.85,AS22773,Cox Communications Inc.,8172.76,1784328513.6232498
-socks4,192.111.139.163,19404,United States,US,Atlanta,elite,true,28.94,AS46562,Performive LLC,825.17,1784328510.842137
-socks4,72.207.113.97,4145,United States,US,Pensacola,elite,true,55.05,AS22773,Cox Communications Inc.,8226.68,1784328504.3785198
-socks4,174.75.211.193,4145,United States,US,Pensacola,elite,true,55.04,AS22773,Cox Communications Inc.,8047.93,1784328501.809779
-socks4,67.201.35.145,4145,United States,US,El Segundo,elite,true,50.28,AS46562,PacketExchange,821.17,1784328603.8483782
-socks4,184.181.217.210,4145,United States,US,Pensacola,elite,true,42.11,AS22773,Cox Communications Inc.,965.21,1784328603.485491
-socks4,67.201.39.14,4145,United States,US,El Segundo,elite,true,50.4,AS46562,PacketExchange,814.7,1784328602.907396
-socks4,147.45.60.139,1081,United States,US,Atlanta,elite,true,82.53,AS215540,Global Connectivity Solutions LLP,2434.41,1784328600.4485128
-socks4,92.118.112.32,1082,United States,US,Atlanta,elite,true,67.75,AS215540,Global Connectivity Solutions LLP,2477.85,1784328599.4119391
-socks4,184.170.251.30,11288,United States,US,Atlanta,elite,true,47.94,AS46562,Performive LLC,792.38,1784328598.423621
-socks4,43.135.135.136,9050,United States,US,Santa Clara,elite,true,33.35,AS132203,Shenzhen Tencent Computer Systems Company Limited,4487.47,1784328598.4011734
-socks4,184.182.240.211,4145,United States,US,Macon,elite,true,99.89,AS22773,Cox Communications Inc.,877.78,1784328597.4276493
-socks4,147.45.60.139,1082,United States,US,Atlanta,elite,true,84.45,AS215540,Global Connectivity Solutions LLP,2471.28,1784328596.9560003
-socks4,147.45.60.241,1081,United States,US,Atlanta,elite,true,73.85,AS215540,Global Connectivity Solutions LLP,1418.15,1784328596.4237533
-socks4,98.182.147.97,4145,United States,US,Las Vegas,elite,true,60.28,AS22773,Cox Communications Inc.,3967.2,1784328595.4539342
-socks4,184.181.217.194,4145,United States,US,Pensacola,elite,true,42.79,AS22773,Cox Communications Inc.,1944.75,1784328595.4504755
-socks4,104.200.152.30,4145,United States,US,Los Angeles,elite,true,28.71,AS46562,Performive LLC,826.77,1784328594.4236078
-socks4,98.190.239.3,4145,United States,US,Tulsa,elite,true,60.31,AS22773,Cox Communications Inc,1941.79,1784328594.27228
-socks4,98.188.47.150,4145,United States,US,Pensacola,elite,true,36.38,AS22773,Cox Communications Inc.,8134.74,1784328593.7853074
-socks4,92.118.112.25,1082,United States,US,Atlanta,elite,true,68.59,AS215540,Global Connectivity Solutions LLP,7590.46,1784328592.8732383
-socks4,184.178.172.25,15291,United States,US,Roanoke,elite,true,41.01,AS22773,Cox Communications Inc.,1905.96,1784328592.449493
-socks4,147.45.60.110,1081,United States,US,Atlanta,elite,true,82.03,AS215540,Global Connectivity Solutions LLP,2446.66,1784328592.1610632
-socks4,98.191.0.47,4145,United States,US,Roanoke,elite,true,60.35,AS22773,Cox Communications Inc.,1945.46,1784328591.738075
-socks4,89.185.80.78,1082,United States,US,Phoenix,elite,true,77.42,AS215540,Global Connectivity Solutions LLP,9880.73,1784328591.4814022
-socks4,96.30.197.251,1080,United States,US,Atlanta,elite,true,39.42,AS20473,The Constant Company,9013.54,1784328590.4493866
-socks4,147.45.60.124,1082,United States,US,Atlanta,elite,true,81.78,AS215540,Global Connectivity Solutions LLP,7474.35,1784328590.121289
-socks4,147.45.60.250,1082,United States,US,Atlanta,elite,true,70.94,AS215540,Global Connectivity Solutions LLP,7566.89,1784328590.0134163
-socks4,147.45.60.124,1081,United States,US,Atlanta,elite,true,81.77,AS215540,Global Connectivity Solutions LLP,14611.56,1784328585.6767426
-socks4,92.118.112.32,1081,United States,US,Atlanta,elite,true,67.87,AS215540,Global Connectivity Solutions LLP,12634.79,1784328584.4587815
-socks4,43.135.172.174,9050,United States,US,Santa Clara,elite,true,31.06,AS132203,Shenzhen Tencent Computer Systems Company Limited,7973.03,1784328584.4446435
-socks4,147.45.60.136,1082,United States,US,Atlanta,elite,true,84.46,AS215540,Global Connectivity Solutions LLP,10868.87,1784328584.2833636
-socks4,107.175.215.29,8443,United States,US,Los Angeles,elite,true,96.42,AS36352,HostPapa,4841.29,1784328582.3235116
-socks4,147.45.60.249,1081,United States,US,Atlanta,elite,true,69.63,AS215540,Global Connectivity Solutions LLP,7483.76,1784328579.3454928
-socks4,147.45.60.110,1082,United States,US,Atlanta,elite,true,82.44,AS215540,Global Connectivity Solutions LLP,8622.02,1784328579.0055099
-socks4,147.45.60.246,1082,United States,US,Atlanta,elite,true,72.12,AS215540,Global Connectivity Solutions LLP,416.07,1784328575.880888
-socks4,147.45.60.252,1082,United States,US,Atlanta,elite,true,70.42,AS215540,Global Connectivity Solutions LLP,403.04,1784328575.656826
-socks4,147.45.60.241,1082,United States,US,Atlanta,elite,true,71.33,AS215540,Global Connectivity Solutions LLP,8504.57,1784328574.7457325
-socks4,147.45.60.252,1081,United States,US,Atlanta,elite,true,72.01,AS215540,Global Connectivity Solutions LLP,551.54,1784328573.4311125
-socks4,98.170.57.249,4145,United States,US,Atlanta,elite,true,32.05,AS22773,Cox Communications Inc.,1939.88,1784328573.3056378
-socks4,107.173.153.119,2080,United States,US,Santa Clara,elite,true,40.65,AS36352,HostPapa,6800.58,1784328568.3860168
-socks4,38.18.220.72,1080,United States,US,West Yellowstone,elite,true,64.96,AS32444,Anthem Broadband,1894.83,1784328566.773903
-socks4,208.87.128.239,9150,United States,US,New York,elite,true,41.54,AS29802,"HIVELOCITY, Inc.",16036.78,1784328563.7726743
-socks4,162.243.8.187,1080,United States,US,Secaucus,elite,true,40.26,AS14061,"DigitalOcean, LLC",12352.79,1784328556.5093532
-socks4,98.178.72.21,10919,United States,US,Tulsa,elite,true,34.94,AS22773,Cox Communications Inc.,1903.9,1784328555.4331112
-socks4,64.225.42.129,2002,United States,US,Santa Clara,elite,true,9.68,AS14061,"DigitalOcean, LLC",17022.03,1784328550.9652314
-socks4,209.38.74.191,1080,United States,US,Santa Clara,elite,true,99.71,AS14061,"DigitalOcean, LLC",4635.65,1784328592.1545138
+socks4,69.61.200.104,36181,United States,US,Cincinnati,elite,true,51.96,AS6181,Fuse Internet Access,1197.19,1784330221.8671649
+socks4,178.130.47.43,1082,United States,US,Phoenix,elite,true,75.35,AS215540,Global Connectivity Solutions LLP,593.64,1784330221.3000894
+socks4,184.170.249.65,4145,United States,US,Atlanta,elite,true,28.54,AS46562,Performive LLC,802.33,1784330219.6791058
+socks4,23.133.196.7,9000,United States,US,Kalispell,elite,true,40.3,AS399861,Mobite Network LLC,2978.21,1784330218.5733173
+socks4,216.68.128.121,4145,United States,US,Cincinnati,elite,true,99.81,AS6181,Cincinnati Bell Telephone Company LLC,1165.35,1784330218.0045629
+socks4,142.54.237.38,4145,United States,US,Los Angeles,elite,true,50.74,AS46562,Performive LLC,915.78,1784330216.783781
+socks4,184.178.172.25,15291,United States,US,Roanoke,elite,true,41.02,AS22773,Cox Communications Inc.,905.94,1784330216.710949
+socks4,178.130.47.41,1081,United States,US,Phoenix,elite,true,74.93,AS215540,Global Connectivity Solutions LLP,3619.29,1784330216.6254494
+socks4,199.58.184.97,4145,United States,US,Atlanta,elite,true,28.4,AS46562,Performive LLC,857.68,1784330216.3665578
+socks4,72.207.113.97,4145,United States,US,Pensacola,elite,true,55.05,AS22773,Cox Communications Inc.,3937.96,1784330215.5973284
+socks4,192.111.137.35,4145,United States,US,Atlanta,elite,true,28.53,AS46562,Total Server Solutions L.L.C.,805.85,1784330215.4122922
+socks4,174.75.211.193,4145,United States,US,Pensacola,elite,true,55.04,AS22773,Cox Communications Inc.,8241.55,1784330214.823801
+socks4,24.249.199.12,4145,United States,US,Spring Valley,elite,true,31.23,AS22773,Cox Communications Inc.,1948.4,1784330214.5308325
+socks4,72.49.49.11,31034,United States,US,Cincinnati,elite,true,53.11,AS6181,Fuse Internet Access,2266.37,1784330213.942238
+socks4,47.252.18.37,8081,United States,US,Charlottesville,elite,true,0.88,AS45102,Alibaba Cloud LLC,4193.33,1784330211.916808
+socks4,47.252.18.37,3128,United States,US,Henrico,elite,true,1.07,AS45102,Alibaba Cloud LLC,4202.81,1784330211.588973
+socks4,47.252.18.37,9898,United States,US,Charlottesville,elite,true,0.98,AS45102,Alibaba Cloud LLC,4205.45,1784330211.3959038
+socks4,72.207.109.5,4145,United States,US,Pensacola,elite,true,60.07,AS22773,Cox Communications Inc.,8190.99,1784330211.193524
+socks4,192.111.137.37,18762,United States,US,Atlanta,elite,true,29.6,AS46562,Total Server Solutions L.L.C.,832.77,1784330210.6989787
+socks4,70.35.196.194,1085,United States,US,Sulphur Springs,elite,true,38.78,AS8560,IONOS SE,7064.19,1784330210.4211807
+socks4,47.252.18.37,808,United States,US,Charlottesville,elite,true,0.95,AS45102,Alibaba Cloud LLC,6228.67,1784330210.0134494
+socks4,178.130.47.42,1081,United States,US,Phoenix,elite,true,67.95,AS215540,Global Connectivity Solutions LLP,572.39,1784330209.6629527
+socks4,68.71.243.14,4145,United States,US,Beverly Hills,elite,true,50.27,AS46562,Performive LLC,818.83,1784330209.6327918
+socks4,144.31.104.86,1080,United States,US,Orem,elite,true,27.1,AS213877,U1 DIGITAL SERVICES LTD,916.58,1784330209.40537
+socks4,50.18.7.20,10001,United States,US,San Jose,elite,true,65.08,AS16509,"Amazon.com, Inc.",7351.27,1784330208.5475955
+socks4,142.54.239.1,4145,United States,US,Los Angeles,elite,true,27.71,AS46562,Performive LLC,912.74,1784330208.4746368
+socks4,178.130.47.43,1081,United States,US,Phoenix,elite,true,75.51,AS215540,Global Connectivity Solutions LLP,11063.14,1784330207.4574013
+socks4,178.130.47.42,1082,United States,US,Phoenix,elite,true,67.31,AS215540,Global Connectivity Solutions LLP,7788.4,1784330207.1220977
+socks4,47.252.18.37,8118,United States,US,Charlottesville,elite,true,0.85,AS45102,Alibaba Cloud LLC,10488.43,1784330206.2632668
+socks4,47.252.18.37,8083,United States,US,Henrico,elite,true,0.86,AS45102,Alibaba Cloud LLC,10297.48,1784330205.9419897
+socks4,70.35.196.194,1082,United States,US,Sulphur Springs,elite,true,38.01,AS8560,IONOS SE,9593.79,1784330205.180564
+socks4,72.207.33.64,4145,United States,US,Chula Vista,elite,true,60.14,AS22773,Cox Communications Inc.,8134.12,1784330204.8253548
+socks4,47.85.37.60,1080,United States,US,Henrico,elite,true,60.11,AS45102,Alibaba.com LLC,6667.18,1784330204.684169
+socks4,142.54.226.214,4145,United States,US,Beverly Hills,elite,true,28.35,AS46562,Performive LLC,840.54,1784330204.174757
+socks4,184.182.240.211,4145,United States,US,Macon,elite,true,99.89,AS22773,Cox Communications Inc.,878.56,1784330200.5652716
+socks4,178.130.47.21,1081,United States,US,Phoenix,elite,true,79.21,AS215540,Global Connectivity Solutions LLP,4651.12,1784330200.0515828
+socks4,72.195.34.59,4145,United States,US,Irvine,elite,true,55.02,AS22773,Cox Communications Inc.,8030.71,1784330199.814259
+socks4,170.106.142.217,9050,United States,US,Santa Clara,elite,true,36.42,AS132203,Tencent Cloud Computing (Beijing) Co,1944.6,1784330198.6892154
+socks4,23.133.196.13,9000,United States,US,Kalispell,elite,true,46.44,AS399861,Mobite Network LLC,4072.51,1784330198.6812816
+socks4,178.130.47.23,1082,United States,US,Phoenix,elite,true,77.93,AS215540,Global Connectivity Solutions LLP,5077.1,1784330197.4852512
+socks4,92.118.112.25,1081,United States,US,Atlanta,elite,true,68.24,AS215540,Global Connectivity Solutions LLP,12872.26,1784330196.815198
+socks4,178.130.47.50,1082,United States,US,Phoenix,elite,true,66.64,AS215540,Global Connectivity Solutions LLP,577.73,1784330194.9827013
+socks4,142.93.203.8,1080,United States,US,North Bergen,elite,true,87.61,AS14061,"DigitalOcean, LLC",17602.72,1784330192.297816
+socks4,89.185.80.251,1082,United States,US,Phoenix,elite,true,74.72,AS215540,Global Connectivity Solutions LLP,2017.3,1784330190.7363396
+socks4,24.249.199.4,4145,United States,US,Spring Valley,elite,true,30.7,AS22773,Cox Communications Inc.,912.88,1784330188.8691788
+socks4,178.130.47.50,1081,United States,US,Phoenix,elite,true,66.89,AS215540,Global Connectivity Solutions LLP,1595.18,1784330187.0460968
+socks4,68.1.210.189,4145,United States,US,San Diego,elite,true,31.28,AS22773,Cox Communications Inc.,943.96,1784330185.6494102
+socks4,68.71.247.130,4145,United States,US,Los Angeles,elite,true,27.82,AS46562,Total Server Solutions L.L.C.,807.68,1784330183.4768517
+socks4,186.241.90.120,7890,United States,US,Boulder,elite,true,89.87,AS400619,Arosscloud Inc.,5060.91,1784330182.8115811
+socks4,70.35.196.194,1084,United States,US,Sulphur Springs,elite,true,44.47,AS8560,IONOS SE,21172.13,1784330182.5293267
+socks4,89.185.80.250,1081,United States,US,Phoenix,elite,true,77.25,AS215540,Global Connectivity Solutions LLP,12503.41,1784330181.629301
+socks4,178.130.47.23,1081,United States,US,Phoenix,elite,true,78.67,AS215540,Global Connectivity Solutions LLP,3597.29,1784330180.959031
+socks4,89.185.80.251,1081,United States,US,Phoenix,elite,true,75.06,AS215540,Global Connectivity Solutions LLP,3645.72,1784330179.5758603
+socks4,174.64.199.79,4145,United States,US,Pensacola,elite,true,31.85,AS22773,Cox Communications Inc.,1943.7,1784330175.8402002
+socks4,170.106.177.188,9050,United States,US,Santa Clara,elite,true,41.41,AS132203,Tencent Cloud Computing (Beijing) Co,1846.11,1784330159.3365483
+socks4,98.178.72.21,10919,United States,US,Tulsa,elite,true,34.94,AS22773,Cox Communications Inc.,967.85,1784330275.5182607
+socks4,147.45.60.124,1081,United States,US,Atlanta,elite,true,81.84,AS215540,Global Connectivity Solutions LLP,405.67,1784330275.3093126
+socks4,199.102.104.70,4145,United States,US,Beverly Hills,elite,true,27.71,AS46562,Performive LLC,856.08,1784330274.7474425
+socks4,147.45.60.241,1081,United States,US,Atlanta,elite,true,73.87,AS215540,Global Connectivity Solutions LLP,1430.09,1784330273.6271882
+socks4,147.45.60.246,1082,United States,US,Atlanta,elite,true,72.14,AS215540,Global Connectivity Solutions LLP,3508.13,1784330273.1613789
+socks4,98.190.239.3,4145,United States,US,Tulsa,elite,true,60.31,AS22773,Cox Communications Inc,943.64,1784330272.7524483
+socks4,64.225.42.129,2002,United States,US,Santa Clara,elite,true,9.73,AS14061,"DigitalOcean, LLC",1150.41,1784330272.7259169
+socks4,184.182.240.12,4145,United States,US,Macon,elite,true,99.75,AS22773,Cox Communications Inc.,1455.64,1784330272.5030587
+socks4,67.201.39.14,4145,United States,US,El Segundo,elite,true,50.4,AS46562,PacketExchange,834.6,1784330272.4910805
+socks4,147.45.60.110,1082,United States,US,Atlanta,elite,true,82.53,AS215540,Global Connectivity Solutions LLP,1416.14,1784330272.4875433
+socks4,184.181.217.210,4145,United States,US,Pensacola,elite,true,42.11,AS22773,Cox Communications Inc.,1985.65,1784330272.0872512
+socks4,147.45.60.252,1082,United States,US,Atlanta,elite,true,70.46,AS215540,Global Connectivity Solutions LLP,398.51,1784330271.3826628
+socks4,147.45.60.250,1081,United States,US,Atlanta,elite,true,71.68,AS215540,Global Connectivity Solutions LLP,413.9,1784330270.7683275
+socks4,184.181.217.201,4145,United States,US,Pensacola,elite,true,46.08,AS22773,Cox Communications Inc.,1919.69,1784330269.6183362
+socks4,107.173.8.4,9000,United States,US,Buffalo,elite,true,37.67,AS399861,Ipxo LLC,4206.21,1784330268.5362105
+socks4,147.45.60.252,1081,United States,US,Atlanta,elite,true,72.02,AS215540,Global Connectivity Solutions LLP,1418.44,1784330268.1748796
+socks4,184.181.217.194,4145,United States,US,Pensacola,elite,true,42.79,AS22773,Cox Communications Inc.,920.91,1784330267.6641881
+socks4,147.45.60.110,1081,United States,US,Atlanta,elite,true,82.12,AS215540,Global Connectivity Solutions LLP,3450.79,1784330265.7121656
+socks4,38.18.220.72,1080,United States,US,West Yellowstone,elite,true,64.94,AS32444,Anthem Broadband,841.1,1784330264.190406
+socks4,147.45.60.124,1082,United States,US,Atlanta,elite,true,81.82,AS215540,Global Connectivity Solutions LLP,3449.77,1784330263.6457062
+socks4,98.191.0.47,4145,United States,US,Roanoke,elite,true,60.35,AS22773,Cox Communications Inc.,1959.47,1784330262.637581
+socks4,147.45.60.250,1082,United States,US,Atlanta,elite,true,70.95,AS215540,Global Connectivity Solutions LLP,411.12,1784330262.5486932
+socks4,96.30.197.251,1080,United States,US,Atlanta,elite,true,39.98,AS20473,The Constant Company,7993.7,1784330262.0774002
+socks4,43.135.135.136,9050,United States,US,Santa Clara,elite,true,33.35,AS132203,Shenzhen Tencent Computer Systems Company Limited,11495.37,1784330261.747788
+socks4,147.45.60.249,1082,United States,US,Atlanta,elite,true,69.53,AS215540,Global Connectivity Solutions LLP,411.05,1784330258.8821795
+socks4,43.130.38.45,51029,United States,US,Santa Clara,elite,true,55.94,AS132203,Shenzhen Tencent Computer Systems Company Limited,3487.38,1784330258.7398477
+socks4,107.173.84.29,40001,United States,US,Santa Clara,elite,true,42.22,AS36352,ColoCrossing,1761.75,1784330258.514237
+socks4,89.185.80.78,1081,United States,US,Phoenix,elite,true,79.14,AS215540,Global Connectivity Solutions LLP,596.2,1784330257.9368799
+socks4,147.45.60.139,1082,United States,US,Atlanta,elite,true,84.46,AS215540,Global Connectivity Solutions LLP,399.75,1784330257.7580323
+socks4,184.181.217.220,4145,United States,US,Pensacola,elite,true,44.0,AS22773,Cox Communications Inc.,3999.06,1784330256.7181635
+socks4,98.170.57.249,4145,United States,US,Atlanta,elite,true,32.05,AS22773,Cox Communications Inc.,917.8,1784330254.052145
+socks4,38.255.17.112,40001,United States,US,Los Angeles,elite,true,12.99,AS46783,Easy Link LLC,9224.32,1784330253.845479
+socks4,162.243.8.187,1080,United States,US,Secaucus,elite,true,40.28,AS14061,"DigitalOcean, LLC",11025.82,1784330253.4292655
+socks4,66.42.224.229,41679,United States,US,Cincinnati,elite,true,53.47,AS6181,Cincinnati Bell Telephone Company LLC,1102.86,1784330252.9481564
+socks4,147.45.60.136,1081,United States,US,Atlanta,elite,true,83.55,AS215540,Global Connectivity Solutions LLP,4475.34,1784330252.4003534
+socks4,107.175.215.29,8443,United States,US,Los Angeles,elite,true,96.46,AS36352,HostPapa,782.93,1784330251.0153491
+socks4,206.220.175.2,4145,United States,US,Los Angeles,elite,true,28.67,AS46562,Performive LLC,962.58,1784330250.811538
+socks4,89.185.80.69,1082,United States,US,Phoenix,elite,true,74.61,AS215540,Global Connectivity Solutions LLP,3661.76,1784330250.21797
+socks4,147.45.60.241,1082,United States,US,Atlanta,elite,true,71.38,AS215540,Global Connectivity Solutions LLP,1407.86,1784330249.3316293
+socks4,184.178.172.14,4145,United States,US,Roanoke,elite,true,41.95,AS22773,Cox Communications Inc.,959.92,1784330248.1514182
+socks4,147.45.60.246,1081,United States,US,Atlanta,elite,true,72.21,AS215540,Global Connectivity Solutions LLP,7474.91,1784330246.9573011
+socks4,147.45.60.139,1081,United States,US,Atlanta,elite,true,82.61,AS215540,Global Connectivity Solutions LLP,2441.01,1784330243.7555666
+socks4,89.185.80.250,1082,United States,US,Phoenix,elite,true,75.85,AS215540,Global Connectivity Solutions LLP,5726.75,1784330238.9612057
+socks4,43.110.40.117,8888,United States,US,Minkler,elite,true,60.11,AS45102,"Alibaba (US) Technology Co., Ltd.",9008.38,1784330230.2180948
+socks4,209.38.74.191,1080,United States,US,Santa Clara,elite,true,99.53,AS14061,"DigitalOcean, LLC",1508.95,1784330272.0907664
+socks4,208.87.128.239,9150,United States,US,New York,elite,true,41.53,AS29802,"HIVELOCITY, Inc.",10466.66,1784330232.7560194

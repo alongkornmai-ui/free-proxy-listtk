@@ -1,38 +1,48 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,117.7.80.160,1119,Vietnam,VN,Nam Định,elite,true,49.31,AS7552,VIETTEL,2081.72,1784328551.9817195
-socks4,117.7.80.126,1097,Vietnam,VN,Nam Định,elite,true,37.78,AS7552,VIETTEL,933.03,1784328551.8092809
-socks4,117.7.80.160,1084,Vietnam,VN,Nam Định,elite,true,37.33,AS7552,VIETTEL,2569.53,1784328550.3302102
-socks4,103.221.228.50,5678,Vietnam,VN,Hai Bà Trưng,elite,true,25.44,AS63747,BUUDIENCP16,4273.73,1784328548.493431
-socks4,117.7.80.184,1111,Vietnam,VN,Nam Định,elite,true,34.64,AS7552,VIETTEL,3043.97,1784328547.8851385
-socks4,118.71.44.153,1054,Vietnam,VN,Hanoi,elite,true,76.53,AS18403,Vietnam Internet Network Information Center,2171.53,1784328547.4694717
-socks4,117.7.80.193,1084,Vietnam,VN,Nam Định,elite,true,59.89,AS7552,VIETTEL,1458.75,1784328547.3853228
-socks4,58.186.168.168,1119,Vietnam,VN,Hanoi,elite,true,38.61,AS18403,FPT Telecom Company,1909.0,1784328546.0162585
-socks4,58.186.168.168,1080,Vietnam,VN,Hanoi,elite,true,47.95,AS18403,FPT Telecom Company,2816.35,1784328545.281182
-socks4,117.7.80.193,1111,Vietnam,VN,Nam Định,elite,true,46.15,AS7552,VIETTEL,8173.46,1784328541.8764856
-socks4,117.7.80.246,1119,Vietnam,VN,Nam Định,elite,true,47.1,AS7552,VIETTEL,3132.22,1784328541.4302812
-socks4,117.7.80.126,1119,Vietnam,VN,Nam Định,elite,true,49.56,AS7552,VIETTEL,2760.58,1784328540.3934753
-socks4,118.71.44.153,1088,Vietnam,VN,Hanoi,elite,true,53.47,AS18403,Vietnam Internet Network Information Center,990.86,1784328540.2774951
-socks4,117.7.80.184,1088,Vietnam,VN,Nam Định,elite,true,53.34,AS7552,VIETTEL,1928.76,1784328535.4713986
-socks4,117.7.80.160,1047,Vietnam,VN,Nam Định,elite,true,40.32,AS7552,VIETTEL,1902.74,1784328534.8164787
-socks4,117.7.80.126,1084,Vietnam,VN,Nam Định,elite,true,60.91,AS7552,VIETTEL,984.58,1784328534.492704
-socks4,118.71.44.153,1119,Vietnam,VN,Hanoi,elite,true,64.46,AS18403,Vietnam Internet Network Information Center,1789.16,1784328533.4419808
-socks4,117.7.81.125,1088,Vietnam,VN,Nam Định,elite,true,54.21,AS7552,VIETTEL,8084.06,1784328532.9975564
-socks4,117.7.80.246,1047,Vietnam,VN,Nam Định,elite,true,48.05,AS7552,VIETTEL,2893.23,1784328530.488368
-socks4,58.186.168.168,1109,Vietnam,VN,Hanoi,elite,true,49.05,AS18403,FPT Telecom Company,8382.53,1784328529.741816
-socks4,117.7.80.199,1119,Vietnam,VN,Nam Định,elite,true,42.84,AS7552,VIETTEL,8547.88,1784328527.5523317
-socks4,117.7.80.199,1084,Vietnam,VN,Nam Định,elite,true,43.42,AS7552,VIETTEL,2443.51,1784328526.7862477
-socks4,117.7.80.184,1039,Vietnam,VN,Nam Định,elite,true,75.2,AS7552,VIETTEL,2034.13,1784328524.608051
-socks4,117.7.80.193,1031,Vietnam,VN,Nam Định,elite,true,60.08,AS7552,VIETTEL,957.2,1784328510.3585756
-socks4,58.186.168.168,1084,Vietnam,VN,Hanoi,elite,true,50.94,AS18403,FPT Telecom Company,8193.12,1784328510.244961
-socks4,117.7.80.75,1084,Vietnam,VN,Nam Định,elite,true,49.46,AS7552,VIETTEL,1323.43,1784328507.1932843
-socks4,117.7.80.160,1082,Vietnam,VN,Nam Định,elite,true,40.59,AS7552,VIETTEL,2136.5,1784328499.7154593
-socks4,113.161.6.170,1080,Vietnam,VN,Ho Chi Minh City,elite,true,56.36,AS45899,VietNam Post and Telecom Corporation,2339.2,1784328498.9413896
-socks4,117.7.80.189,1057,Vietnam,VN,Nam Định,elite,true,38.24,AS7552,VIETTEL,1658.52,1784328498.2949445
-socks4,58.186.168.168,1041,Vietnam,VN,Hanoi,elite,true,53.28,AS18403,FPT Telecom Company,11023.18,1784328496.8692214
-socks4,117.7.81.125,1057,Vietnam,VN,Nam Định,elite,true,37.79,AS7552,VIETTEL,1967.41,1784328494.493165
-socks4,117.7.80.246,1057,Vietnam,VN,Nam Định,elite,true,33.62,AS7552,VIETTEL,2656.01,1784328493.7970552
-socks4,117.7.80.199,1057,Vietnam,VN,Nam Định,elite,true,34.29,AS7552,VIETTEL,1422.29,1784328491.8706884
-socks4,58.186.168.168,1057,Vietnam,VN,Hanoi,elite,true,70.8,AS18403,FPT Telecom Company,1768.01,1784328464.9017732
-socks4,160.187.1.225,9050,Vietnam,VN,Tây Hồ,elite,true,30.65,AS152992,Online Data Company Limited,12425.85,1784328587.9972875
-socks4,160.250.54.9,9000,Vietnam,VN,Quận Một,elite,true,47.02,AS153320,Sandclock Service Trading Company Limited,2623.37,1784328587.3580756
-socks4,160.250.54.5,9000,Vietnam,VN,Quận Một,elite,true,46.9,AS153320,Sandclock Service Trading Company Limited,4218.11,1784328569.9545534
+socks4,117.7.80.193,1093,Vietnam,VN,Nam Định,elite,true,86.62,AS7552,VIETTEL,1931.14,1784330221.1861527
+socks4,103.179.172.167,18888,Vietnam,VN,Dich Vong,elite,true,41.24,AS135905,Vietnam Posts and Telecommunications Group,2402.56,1784330220.6715899
+socks4,117.7.80.193,1057,Vietnam,VN,Nam Định,elite,true,33.71,AS7552,VIETTEL,2306.41,1784330220.5899663
+socks4,117.7.81.125,1038,Vietnam,VN,Nam Định,elite,true,74.47,AS7552,VIETTEL,936.24,1784330219.1997128
+socks4,58.186.168.168,1049,Vietnam,VN,Hanoi,elite,true,84.18,AS18403,FPT Telecom Company,1009.15,1784330218.4538898
+socks4,58.186.168.168,1056,Vietnam,VN,Hanoi,elite,true,84.2,AS18403,FPT Telecom Company,1612.21,1784330216.8705878
+socks4,117.7.80.75,1106,Vietnam,VN,Nam Định,elite,true,28.53,AS7552,VIETTEL,5000.56,1784330215.438633
+socks4,118.71.44.153,1095,Vietnam,VN,Hanoi,elite,true,85.29,AS18403,Vietnam Internet Network Information Center,952.42,1784330213.5425606
+socks4,113.166.93.239,5678,Vietnam,VN,Duong Dong,elite,true,65.99,AS45899,VietNam Post and Telecom Corporation,1382.25,1784330213.1101673
+socks4,58.186.168.168,1097,Vietnam,VN,Hanoi,elite,true,51.12,AS18403,FPT Telecom Company,964.57,1784330213.0973425
+socks4,117.7.80.160,1041,Vietnam,VN,Nam Định,elite,true,66.75,AS7552,VIETTEL,1491.12,1784330212.7070901
+socks4,116.104.162.93,1080,Vietnam,VN,Hanoi,elite,true,27.43,AS7552,Viettel Group,893.19,1784330212.6971729
+socks4,118.71.44.153,1054,Vietnam,VN,Hanoi,elite,true,73.21,AS18403,Vietnam Internet Network Information Center,9458.17,1784330212.5643375
+socks4,117.7.81.125,1097,Vietnam,VN,Nam Định,elite,true,71.34,AS7552,VIETTEL,1072.98,1784330212.4348383
+socks4,117.7.80.126,1057,Vietnam,VN,Nam Định,elite,true,35.92,AS7552,VIETTEL,3815.6,1784330211.956715
+socks4,117.7.80.126,1097,Vietnam,VN,Nam Định,elite,true,38.13,AS7552,VIETTEL,1078.24,1784330211.673277
+socks4,117.7.81.125,1106,Vietnam,VN,Nam Định,elite,true,76.33,AS7552,VIETTEL,8317.06,1784330210.255732
+socks4,117.7.80.246,1057,Vietnam,VN,Nam Định,elite,true,33.95,AS7552,VIETTEL,2961.08,1784330209.3168747
+socks4,117.7.80.246,1106,Vietnam,VN,Nam Định,elite,true,49.05,AS7552,VIETTEL,1905.94,1784330208.5559192
+socks4,58.186.168.168,1041,Vietnam,VN,Hanoi,elite,true,62.72,AS18403,FPT Telecom Company,1519.39,1784330207.9305758
+socks4,117.7.81.125,1057,Vietnam,VN,Nam Định,elite,true,37.65,AS7552,VIETTEL,4993.85,1784330207.3841121
+socks4,103.166.184.104,9191,Vietnam,VN,Thanh Khê,elite,true,28.57,AS135905,CLOUDFLY,4224.59,1784330204.3703232
+socks4,117.7.80.126,1108,Vietnam,VN,Nam Định,elite,true,63.54,AS7552,VIETTEL,929.19,1784330203.49641
+socks4,117.7.80.184,1097,Vietnam,VN,Nam Định,elite,true,32.37,AS7552,VIETTEL,4144.67,1784330203.337654
+socks4,117.7.80.184,1039,Vietnam,VN,Nam Định,elite,true,74.82,AS7552,VIETTEL,2527.96,1784330202.117902
+socks4,118.70.131.249,1080,Vietnam,VN,Hanoi,elite,true,7.12,AS18403,Vietnam Internet Network Information Center,4113.79,1784330201.8455174
+socks4,117.7.80.199,1057,Vietnam,VN,Nam Định,elite,true,34.38,AS7552,VIETTEL,6708.15,1784330200.6636539
+socks4,118.71.44.153,1105,Vietnam,VN,Hanoi,elite,true,41.4,AS18403,Vietnam Internet Network Information Center,14139.09,1784330195.8351102
+socks4,58.186.168.168,1057,Vietnam,VN,Hanoi,elite,true,70.57,AS18403,FPT Telecom Company,9682.29,1784330191.3083742
+socks4,117.7.80.126,1047,Vietnam,VN,Nam Định,elite,true,50.45,AS7552,VIETTEL,2480.82,1784330189.9355092
+socks4,117.7.80.193,1088,Vietnam,VN,Nam Định,elite,true,61.66,AS7552,VIETTEL,1122.48,1784330180.4725535
+socks4,14.241.182.44,5678,Vietnam,VN,Ho Chi Minh City,elite,true,46.99,AS45899,VNPT,2406.33,1784330172.693391
+socks4,117.7.80.126,1119,Vietnam,VN,Nam Định,elite,true,49.39,AS7552,VIETTEL,1520.47,1784330168.7254753
+socks4,118.71.44.153,1119,Vietnam,VN,Hanoi,elite,true,64.29,AS18403,Vietnam Internet Network Information Center,2128.32,1784330166.3916175
+socks4,116.97.117.27,4153,Vietnam,VN,Hải Dương,elite,true,49.71,AS7552,Viettel Group,8504.65,1784330164.3848577
+socks4,117.7.80.189,1084,Vietnam,VN,Nam Định,elite,true,40.58,AS7552,VIETTEL,3478.07,1784330164.3353674
+socks4,117.7.80.184,1088,Vietnam,VN,Nam Định,elite,true,53.16,AS7552,VIETTEL,2536.88,1784330163.9847891
+socks4,118.71.44.153,1111,Vietnam,VN,Hanoi,elite,true,70.43,AS18403,Vietnam Internet Network Information Center,2635.35,1784330160.5718713
+socks4,117.7.80.126,1109,Vietnam,VN,Nam Định,elite,true,41.35,AS7552,VIETTEL,1104.48,1784330158.8043342
+socks4,117.7.80.126,1088,Vietnam,VN,Nam Định,elite,true,54.42,AS7552,VIETTEL,5138.62,1784330158.784471
+socks4,117.7.80.199,1119,Vietnam,VN,Nam Định,elite,true,42.75,AS7552,VIETTEL,2330.23,1784330153.558915
+socks4,118.71.44.153,1096,Vietnam,VN,Hanoi,elite,true,38.16,AS18403,Vietnam Internet Network Information Center,18917.11,1784330153.2577672
+socks4,183.80.130.10,4145,Vietnam,VN,Hanoi,elite,true,11.11,AS18403,Vietnam Internet Network Information Center,928.34,1784330275.6172345
+socks4,118.71.44.153,1083,Vietnam,VN,Hanoi,elite,true,83.08,AS18403,Vietnam Internet Network Information Center,1589.52,1784330271.428882
+socks4,160.250.54.5,9000,Vietnam,VN,Quận Một,elite,true,46.9,AS153320,Sandclock Service Trading Company Limited,9240.45,1784330253.0054505
+socks4,118.71.44.153,1088,Vietnam,VN,Hanoi,elite,true,53.25,AS18403,Vietnam Internet Network Information Center,1594.17,1784330250.277095
+socks4,103.221.228.50,5678,Vietnam,VN,Hai Bà Trưng,elite,true,25.44,AS63747,BUUDIENCP16,8543.88,1784330237.781291

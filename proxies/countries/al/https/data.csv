@@ -1,7 +1,9 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,78.159.131.131,1081,Albania,AL,Elbasan,elite,true,78.06,AS215540,Global Connectivity Solutions LLP,4185.29,1784328541.8995225
-http,78.159.131.139,1082,Albania,AL,Elbasan,elite,true,67.84,AS215540,Global Connectivity Solutions LLP,10320.66,1784328465.3433666
-http,78.159.131.131,1082,Albania,AL,Elbasan,elite,true,72.95,AS215540,Global Connectivity Solutions LLP,1074.12,1784328446.9998956
-http,78.159.131.139,1081,Albania,AL,Elbasan,elite,true,74.87,AS215540,Global Connectivity Solutions LLP,3190.56,1784328442.538521
-http,188.164.218.209,8080,Albania,AL,Tirana,transparent,true,28.17,AS21183,Vodafone Albania Sh.A.,3935.99,1784328436.1177447
-http,78.159.131.112,1082,Albania,AL,Elbasan,elite,true,68.07,AS215540,Global Connectivity Solutions LLP,3279.5,1784328425.1548953
+http,78.159.131.139,1082,Albania,AL,Elbasan,elite,true,67.86,AS215540,Global Connectivity Solutions LLP,8062.01,1784330148.2758586
+http,78.159.131.139,1081,Albania,AL,Elbasan,elite,true,74.9,AS215540,Global Connectivity Solutions LLP,7490.68,1784330125.8729045
+http,78.159.131.112,1081,Albania,AL,Elbasan,elite,true,75.75,AS215540,Global Connectivity Solutions LLP,3115.32,1784330111.0188658
+http,78.159.131.131,1082,Albania,AL,Elbasan,elite,true,73.02,AS215540,Global Connectivity Solutions LLP,9160.66,1784330105.4176917
+http,78.159.131.112,1082,Albania,AL,Elbasan,elite,true,68.18,AS215540,Global Connectivity Solutions LLP,1239.64,1784330097.924265
+http,147.45.221.115,1081,Albania,AL,Elbasan,elite,true,81.99,AS215540,Global Connectivity Solutions LLP,7178.64,1784330236.5838482
+http,147.45.221.115,1082,Albania,AL,Elbasan,elite,true,81.79,AS215540,Global Connectivity Solutions LLP,56.79,1784330226.4774308
+http,185.196.182.22,8080,Albania,AL,Krume,transparent,true,23.68,AS206088,shqiponjaisp.al LLC,1171.96,1784330140.762743

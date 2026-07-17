@@ -1,17 +1,47 @@
 [
   {
     "protocol": "socks4",
-    "ip": "62.60.230.196",
+    "ip": "138.124.26.19",
     "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 25.3,
+    "uptime_percent": 83.16,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 1342.53,
-    "last_checked": 1784328531.6813123
+    "latency_ms": 117.8,
+    "last_checked": 1784330208.4227538
+  },
+  {
+    "protocol": "socks4",
+    "ip": "79.76.59.115",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 68.25,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 125.1,
+    "last_checked": 1784330202.5157838
+  },
+  {
+    "protocol": "socks4",
+    "ip": "147.45.72.212",
+    "port": 44816,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.51,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 4845.22,
+    "last_checked": 1784330262.217401
   }
 ]

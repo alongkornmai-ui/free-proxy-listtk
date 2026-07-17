@@ -1,35 +1,39 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks5,130.49.218.166,1081,France,FR,Paris,elite,true,71.58,AS215540,Global Connectivity Solutions LLP,5224.56,1784328541.4023652
-socks5,38.242.158.117,9050,France,FR,Lauterbourg,elite,true,26.21,AS51167,Contabo GmbH,12374.82,1784328538.5992591
-socks5,185.185.80.58,1088,France,FR,Lauterbourg,elite,true,99.77,AS51167,Contabo GmbH,166.23,1784328535.593565
-socks5,62.133.62.184,1081,France,FR,Paris,elite,true,64.76,AS215540,Global Connectivity Solutions LLP,10625.4,1784328526.454287
-socks5,62.133.62.12,1082,France,FR,Paris,elite,true,65.1,AS215540,Global Connectivity Solutions LLP,3184.72,1784328523.6735864
-socks5,31.220.81.59,9050,France,FR,Lauterbourg,elite,true,28.95,AS51167,OWS,6583.61,1784328523.3983583
-socks5,62.133.62.187,1081,France,FR,Paris,elite,true,66.33,AS215540,Global Connectivity Solutions LLP,4149.07,1784328522.3323193
-socks5,91.209.71.84,9117,France,FR,Paris,elite,true,36.25,AS212815,Dyjix SAS,15128.96,1784328515.660111
-socks5,45.95.233.237,1081,France,FR,Paris,elite,true,64.99,AS215540,Global Connectivity Solutions LLP,4601.77,1784328514.7672002
-socks5,37.44.238.2,57167,France,FR,Paris,elite,true,37.36,AS34534,FBW NETWORKS SAS,13967.04,1784328514.4710498
-socks5,13.140.164.179,3658,France,FR,Lauterbourg,elite,true,52.08,AS51167,Contabo GmbH,364.94,1784328498.9037278
-socks5,38.242.156.163,9050,France,FR,Lauterbourg,elite,true,22.89,AS51167,Contabo GmbH,14928.34,1784328494.1146288
-socks5,91.209.71.84,9087,France,FR,Paris,elite,true,32.44,AS212815,Dyjix SAS,14103.93,1784328486.576282
-socks5,37.44.238.2,53471,France,FR,Paris,elite,true,41.35,AS34534,FBW NETWORKS SAS,5992.21,1784328482.655553
-socks5,62.133.62.12,1081,France,FR,Paris,elite,true,64.38,AS215540,Global Connectivity Solutions LLP,1098.14,1784328463.42584
-socks5,109.199.96.116,9050,France,FR,Lauterbourg,elite,true,27.15,AS51167,Contabo GmbH,1144.61,1784328446.4471025
-socks5,5.189.153.6,10201,France,FR,Lauterbourg,elite,true,12.54,AS51167,Contabo GmbH,18328.05,1784328443.3256972
-socks5,62.133.62.207,1081,France,FR,Paris,elite,true,67.4,AS215540,Global Connectivity Solutions LLP,1283.43,1784328419.62233
-socks5,62.133.62.3,1082,France,FR,Paris,elite,true,66.86,AS215540,Global Connectivity Solutions LLP,2110.13,1784328414.5150506
-socks5,62.133.62.231,1081,France,FR,Paris,elite,true,65.91,AS215540,Global Connectivity Solutions LLP,10459.71,1784328405.9239993
-socks5,62.133.62.207,1082,France,FR,Paris,elite,true,67.32,AS215540,Global Connectivity Solutions LLP,10286.57,1784328392.8095238
-socks5,5.189.153.6,10080,France,FR,Lauterbourg,elite,true,11.29,AS51167,Contabo GmbH,17770.36,1784328389.7046692
-socks5,144.91.83.39,9050,France,FR,Lauterbourg,elite,true,36.08,AS51167,Contabo GmbH,11843.04,1784328386.8044837
-socks5,62.133.62.17,1081,France,FR,Paris,elite,true,65.23,AS215540,Global Connectivity Solutions LLP,7206.72,1784328378.2520514
-socks5,92.205.186.129,1080,France,FR,Strasbourg,elite,true,80.97,AS21499,Host Europe GmbH,9258.19,1784328583.355845
-socks5,62.133.62.184,1082,France,FR,Paris,elite,true,65.2,AS215540,Global Connectivity Solutions LLP,8105.88,1784328582.3266568
-socks5,13.140.164.179,3729,France,FR,Lauterbourg,elite,true,63.89,AS51167,Contabo GmbH,868.59,1784328574.125538
-socks5,130.49.218.165,1081,France,FR,Paris,elite,true,67.3,AS215540,Global Connectivity Solutions LLP,7505.03,1784328569.3280692
-socks5,130.49.218.165,1082,France,FR,Paris,elite,true,69.44,AS215540,Global Connectivity Solutions LLP,4267.08,1784328556.6934826
-socks5,161.97.95.124,9050,France,FR,Lauterbourg,elite,true,30.82,AS51167,Contabo GmbH,13607.85,1784328530.775152
-socks5,130.49.218.166,1082,France,FR,Paris,elite,true,70.66,AS215540,Global Connectivity Solutions LLP,12575.78,1784328513.703959
-socks5,91.209.71.84,9080,France,FR,Paris,elite,true,46.4,AS212815,Dyjix SAS,6974.75,1784328496.309149
-socks5,91.209.71.84,9093,France,FR,Paris,elite,true,35.22,AS212815,Dyjix SAS,15528.12,1784328485.3941836
-socks5,207.180.205.36,1080,France,FR,Lauterbourg,elite,true,100.0,AS51167,Contabo GmbH,4445.99,1784328527.7573402
+socks5,62.133.62.12,1081,France,FR,Paris,elite,true,64.39,AS215540,Global Connectivity Solutions LLP,2145.9,1784330215.3947833
+socks5,31.220.81.59,9050,France,FR,Lauterbourg,elite,true,28.96,AS51167,OWS,5543.27,1784330207.0192525
+socks5,62.133.62.231,1082,France,FR,Paris,elite,true,66.15,AS215540,Global Connectivity Solutions LLP,1205.01,1784330194.338769
+socks5,62.133.62.184,1081,France,FR,Paris,elite,true,64.77,AS215540,Global Connectivity Solutions LLP,125.39,1784330192.7484598
+socks5,45.95.233.237,1081,France,FR,Paris,elite,true,65.0,AS215540,Global Connectivity Solutions LLP,11285.96,1784330190.9496686
+socks5,45.95.233.237,1082,France,FR,Paris,elite,true,65.27,AS215540,Global Connectivity Solutions LLP,8231.63,1784330189.9161012
+socks5,62.133.62.207,1081,France,FR,Paris,elite,true,67.42,AS215540,Global Connectivity Solutions LLP,3126.4,1784330188.2990522
+socks5,13.140.164.179,3658,France,FR,Lauterbourg,elite,true,51.22,AS51167,Contabo GmbH,4073.95,1784330188.1032894
+socks5,109.199.107.68,1080,France,FR,Lauterbourg,elite,true,65.96,AS51167,Contabo GmbH,10775.13,1784330180.039183
+socks5,5.189.153.6,10105,France,FR,Lauterbourg,elite,true,5.31,AS51167,Contabo GmbH,9388.72,1784330178.6904294
+socks5,37.44.238.2,57167,France,FR,Paris,elite,true,37.35,AS34534,FBW NETWORKS SAS,6088.97,1784330167.4996333
+socks5,91.209.71.84,9117,France,FR,Paris,elite,true,36.7,AS212815,Dyjix SAS,13349.21,1784330167.1296713
+socks5,62.133.62.17,1082,France,FR,Paris,elite,true,64.5,AS215540,Global Connectivity Solutions LLP,120.19,1784330166.99735
+socks5,5.189.153.6,10240,France,FR,Lauterbourg,elite,true,11.08,AS51167,Contabo GmbH,28828.97,1784330165.953763
+socks5,37.44.238.2,52611,France,FR,Paris,elite,true,41.19,AS34534,FBW NETWORKS SAS,8898.59,1784330156.3856564
+socks5,91.209.71.84,9109,France,FR,Paris,elite,true,42.7,AS212815,Dyjix SAS,12094.82,1784330155.3641686
+socks5,37.44.238.2,53471,France,FR,Paris,elite,true,41.36,AS34534,FBW NETWORKS SAS,7819.7,1784330146.9074132
+socks5,38.242.156.163,9050,France,FR,Lauterbourg,elite,true,22.88,AS51167,Contabo GmbH,9420.05,1784330127.7250445
+socks5,37.44.238.2,60796,France,FR,Paris,elite,true,40.93,AS34534,FBW NETWORKS SAS,13182.75,1784330098.8286014
+socks5,130.49.218.166,1082,France,FR,Paris,elite,true,70.84,AS215540,Global Connectivity Solutions LLP,3101.19,1784330267.4789128
+socks5,92.205.186.129,1080,France,FR,Strasbourg,elite,true,80.97,AS21499,Host Europe GmbH,2051.42,1784330262.7595034
+socks5,130.49.218.165,1082,France,FR,Paris,elite,true,69.55,AS215540,Global Connectivity Solutions LLP,172.56,1784330262.2333744
+socks5,185.185.80.58,1088,France,FR,Lauterbourg,elite,true,99.77,AS51167,Contabo GmbH,391.03,1784330260.3913894
+socks5,62.133.62.3,1082,France,FR,Paris,elite,true,66.88,AS215540,Global Connectivity Solutions LLP,7270.72,1784330258.9387386
+socks5,130.49.218.165,1081,France,FR,Paris,elite,true,67.33,AS215540,Global Connectivity Solutions LLP,8079.65,1784330245.9002895
+socks5,62.133.62.231,1081,France,FR,Paris,elite,true,65.92,AS215540,Global Connectivity Solutions LLP,9361.03,1784330239.2237554
+socks5,62.133.62.249,1081,France,FR,Paris,elite,true,65.48,AS215540,Global Connectivity Solutions LLP,1126.85,1784330227.4652407
+socks5,161.97.153.238,9050,France,FR,Lauterbourg,elite,true,31.12,AS51167,Contabo GmbH,11027.74,1784330226.1361787
+socks5,62.133.62.184,1082,France,FR,Paris,elite,true,65.22,AS215540,Global Connectivity Solutions LLP,1066.63,1784330219.784199
+socks5,130.49.218.166,1081,France,FR,Paris,elite,true,71.67,AS215540,Global Connectivity Solutions LLP,3185.9,1784330215.3239508
+socks5,62.133.62.3,1081,France,FR,Paris,elite,true,66.95,AS215540,Global Connectivity Solutions LLP,1115.84,1784330215.2046225
+socks5,62.133.62.187,1082,France,FR,Paris,elite,true,66.58,AS215540,Global Connectivity Solutions LLP,59.46,1784330210.5207133
+socks5,62.133.62.207,1082,France,FR,Paris,elite,true,67.35,AS215540,Global Connectivity Solutions LLP,18416.84,1784330203.5171711
+socks5,62.133.62.12,1082,France,FR,Paris,elite,true,65.11,AS215540,Global Connectivity Solutions LLP,3133.6,1784330195.2626522
+socks5,62.133.62.249,1082,France,FR,Paris,elite,true,65.57,AS215540,Global Connectivity Solutions LLP,3808.36,1784330188.3035643
+socks5,13.140.164.179,3729,France,FR,Lauterbourg,elite,true,61.42,AS51167,Contabo GmbH,3846.36,1784330176.5258355
+socks5,161.97.104.161,9050,France,FR,Lauterbourg,elite,true,31.9,AS51167,Contabo GmbH,16634.56,1784330173.4011257
+socks5,207.180.205.36,1080,France,FR,Lauterbourg,elite,true,100.0,AS51167,Contabo GmbH,13641.03,1784330219.5030339

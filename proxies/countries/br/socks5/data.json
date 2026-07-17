@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks5",
-    "ip": "186.26.95.249",
-    "port": 61445,
-    "country": "Brazil",
-    "country_code": "BR",
-    "city": "São João de Meriti",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 60.08,
-    "asn": "AS270938",
-    "isp": "SAT TELECOM E CONSULTORIA EM TI Ltda",
-    "latency_ms": 2345.41,
-    "last_checked": 1784328501.6715474
-  },
-  {
-    "protocol": "socks5",
     "ip": "177.52.25.34",
     "port": 1080,
     "country": "Brazil",
@@ -23,41 +8,41 @@
     "city": "Itápolis",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 57.3,
+    "uptime_percent": 57.31,
     "asn": "AS262282",
     "isp": "Maria Luciana Machado E CIA Ltda-me",
-    "latency_ms": 2547.71,
-    "last_checked": 1784328424.4205284
+    "latency_ms": 2537.89,
+    "last_checked": 1784330211.529661
   },
   {
     "protocol": "socks5",
     "ip": "147.15.17.132",
-    "port": 1085,
+    "port": 1094,
     "country": "Brazil",
     "country_code": "BR",
     "city": "São Paulo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 79.8,
+    "uptime_percent": 95.0,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 1314.31,
-    "last_checked": 1784328591.361367
+    "latency_ms": 2210.68,
+    "last_checked": 1784330270.3770428
   },
   {
     "protocol": "socks5",
     "ip": "147.15.17.132",
-    "port": 1092,
+    "port": 1082,
     "country": "Brazil",
     "country_code": "BR",
     "city": "São Paulo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 77.38,
+    "uptime_percent": 82.29,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 3237.63,
-    "last_checked": 1784328580.4351346
+    "latency_ms": 5297.96,
+    "last_checked": 1784330260.8126218
   },
   {
     "protocol": "socks5",
@@ -68,26 +53,26 @@
     "city": "São Paulo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.63,
+    "uptime_percent": 81.68,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 9463.43,
-    "last_checked": 1784328554.1854734
+    "latency_ms": 3218.26,
+    "last_checked": 1784330235.5621252
   },
   {
     "protocol": "socks5",
     "ip": "147.15.17.132",
-    "port": 1088,
+    "port": 1092,
     "country": "Brazil",
     "country_code": "BR",
     "city": "São Paulo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.43,
+    "uptime_percent": 77.44,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 1172.56,
-    "last_checked": 1784328546.8319657
+    "latency_ms": 1145.73,
+    "last_checked": 1784330204.7589507
   },
   {
     "protocol": "socks5",
@@ -98,10 +83,10 @@
     "city": "São Paulo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 77.61,
+    "uptime_percent": 77.63,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 2910.98,
-    "last_checked": 1784328518.5664835
+    "latency_ms": 3220.34,
+    "last_checked": 1784330198.633593
   }
 ]

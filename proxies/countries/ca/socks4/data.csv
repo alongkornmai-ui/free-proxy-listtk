@@ -1,2 +1,2 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,51.222.12.245,10084,Canada,CA,Beauharnois,elite,true,80.26,AS16276,OVH SAS,480.01,1784328552.5795069
+socks4,51.222.12.245,10084,Canada,CA,Beauharnois,elite,true,80.3,AS16276,OVH SAS,501.69,1784330211.6069787

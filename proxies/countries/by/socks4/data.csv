@@ -1,2 +1,2 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,86.57.178.182,4153,Belarus,BY,Minsk,elite,true,38.76,AS6697,Republican Unitary Telecommunication Enterprise Beltelecom,3204.73,1784328530.6708522
+socks4,86.57.178.182,4153,Belarus,BY,Minsk,elite,true,38.86,AS6697,Republican Unitary Telecommunication Enterprise Beltelecom,2137.41,1784330218.1307628

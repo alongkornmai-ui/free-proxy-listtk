@@ -1,4 +1,8 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,109.224.12.170,52015,Iraq,IQ,Baghdad,elite,true,15.74,AS203214,Hulum,396.29,1784328550.4254198
-socks4,188.72.16.74,1080,Iraq,IQ,Sulaymaniyah,elite,true,54.04,AS49571,CELLNET - Garden City,1442.63,1784328525.8278155
-http,185.135.69.34,80,Iraq,IQ,Al Mansour,elite,false,97.08,AS205889,Giganet Telecom,135.33,1784328580.4551735
+socks4,109.224.12.170,52015,Iraq,IQ,Baghdad,elite,true,15.74,AS203214,Hulum,350.92,1784330221.593611
+socks4,109.224.22.34,51372,Iraq,IQ,Baghdad,elite,true,8.59,AS203214,Hulum,1451.23,1784330200.553256
+http,37.239.47.74,8080,Iraq,IQ,Baghdad,transparent,true,6.7,AS203214,BROADBAND-SUBSCRIBERS,1612.41,1784330193.8192039
+http,45.81.147.121,8080,Iraq,IQ,Baghdad,transparent,true,9.42,AS208859,Fact LTD,1284.69,1784330147.6878908
+http,185.135.69.34,80,Iraq,IQ,Al Mansour,elite,false,97.08,AS205889,Giganet Telecom,135.08,1784330203.3445036
+http,185.166.24.191,1976,Iraq,IQ,Erbil,transparent,true,12.22,AS207097,Online Company Ltd,450.25,1784330179.7840803
+http,185.166.24.191,1981,Iraq,IQ,Erbil,transparent,false,11.8,AS207097,Online Company Ltd,6572.23,1784330122.5822322

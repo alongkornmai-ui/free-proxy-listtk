@@ -1,2 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,103.79.16.44,50009,Pakistan,PK,Karachi,transparent,true,49.85,AS131275,Logon Broadband Pvt Ltd,851.35,1784328595.4250267
+http,72.255.29.169,1975,Pakistan,PK,Bahawalpur,transparent,true,21.36,AS9541,Cyber Internet Services Pakistan,1768.21,1784330157.6094983
+http,202.83.174.147,443,Pakistan,PK,Islamabad,transparent,true,43.68,AS23888,National Telecom Corporation,4105.66,1784330246.9077885
+http,103.79.16.44,50009,Pakistan,PK,Karachi,transparent,true,50.21,AS131275,Logon Broadband Pvt Ltd,7776.82,1784330147.4905958
+http,154.208.58.89,8080,Pakistan,PK,Lahore,elite,true,10.52,AS150750,IN CABLE INTERNET PRIVATE LIMITED,3617.78,1784330083.7118936

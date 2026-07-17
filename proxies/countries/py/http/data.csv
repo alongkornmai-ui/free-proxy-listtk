@@ -1,3 +1,9 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,24.152.40.49,8080,Paraguay,PY,Coronel Oviedo,transparent,false,14.0,AS269976,TV MAX CABLE S.A.,14639.73,1784328482.9884677
-http,170.245.133.49,999,Paraguay,PY,Carapeguá,transparent,false,28.01,AS270096,"MACHADO BAEZ, NERY JAVIER",3633.4,1784328421.659909
+http,170.245.132.82,9000,Paraguay,PY,Carapeguá,transparent,false,15.21,AS270096,"MACHADO BAEZ, NERY JAVIER",3032.35,1784330186.6760666
+http,190.52.165.120,8080,Paraguay,PY,San Lorenzo,transparent,false,11.81,AS27866,CO.PA.CO.,7554.57,1784330178.1800992
+http,181.233.100.101,8080,Paraguay,PY,San Estanislao,transparent,false,19.99,AS272099,Wirschke Monges Ricardo Daniel,1766.94,1784330166.9648647
+http,24.152.40.49,8080,Paraguay,PY,Coronel Oviedo,transparent,false,14.0,AS269976,TV MAX CABLE S.A.,4884.59,1784330165.8833241
+http,181.94.197.37,8080,Paraguay,PY,Fernando de la Mora,elite,false,12.74,AS27895,Núcleo S.A.,17883.28,1784330153.2590792
+http,190.110.226.122,80,Paraguay,PY,Asunción,elite,false,67.36,AS28103,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A),7357.03,1784330147.8861704
+http,37.230.58.20,999,Paraguay,PY,Ciudad del Este,transparent,false,9.79,AS270052,Aranda Cardozo Lider Ramon,1751.25,1784330141.641867
+http,170.245.132.81,999,Paraguay,PY,Carapeguá,transparent,true,24.92,AS270096,"MACHADO BAEZ, NERY JAVIER",7908.94,1784330089.696328

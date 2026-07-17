@@ -1,2 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,34.81.160.132,80,Taiwan,TW,Taipei,elite,false,33.48,AS396982,Google LLC,701.66,1784328543.5662234
+http,122.117.203.252,3128,Taiwan,TW,Kaohsiung,transparent,true,17.24,AS3462,"Chunghwa Telecom Co., Ltd.",857.17,1784330167.2913837
+http,59.124.62.9,3128,Taiwan,TW,Bade District,transparent,false,14.7,AS3462,"Chunghwa Telecom Co., Ltd.",7920.08,1784330065.2921312
+http,34.81.160.132,80,Taiwan,TW,Taipei,elite,false,33.48,AS396982,Google LLC,659.4,1784330042.225561
+http,211.22.151.163,60808,Taiwan,TW,Taoyuan,elite,false,3.1,AS3462,"Chunghwa Telecom Co., Ltd.",2245.72,1784330242.5558395
+http,210.61.216.63,60808,Taiwan,TW,Xinzhuang District,elite,false,5.35,AS3462,"Chunghwa Telecom Co., Ltd.",9138.62,1784330137.7540367

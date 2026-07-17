@@ -1,2 +1,2 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,5.83.244.250,8080,Ireland,IE,Roscommon,transparent,true,3.73,AS57791,EURONA-BRISKNET,1149.52,1784328432.359847
+http,94.102.193.91,8080,Ireland,IE,Wexford,transparent,false,17.56,AS47942,Regional Broadband Ireland Ltd,3201.55,1784330222.847859

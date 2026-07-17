@@ -1,2 +1,3 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,197.155.73.230,1080,Kenya,KE,Nairobi,elite,true,63.25,AS30844,Liquid Telecommunications Ltd,2001.82,1784328542.358086
+socks4,197.155.73.230,1080,Kenya,KE,Nairobi,elite,true,63.2,AS30844,Liquid Telecommunications Ltd,2009.6,1784330183.6133301
+socks4,105.27.127.70,1080,Kenya,KE,Nairobi,elite,true,67.39,AS37100,SEACOM Limited,8071.34,1784330261.8316956

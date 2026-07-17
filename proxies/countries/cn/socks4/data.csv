@@ -1,10 +1,12 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,117.175.168.195,1080,China,CN,Guangzhou,elite,true,81.93,AS9808,China Mobile communications corporation,1354.52,1784328550.010367
-socks4,182.18.93.138,19450,China,CN,Zhangjiakou,elite,true,96.73,AS141771,China Telecom,3633.11,1784328544.5429223
-socks4,223.254.141.102,6646,China,CN,Shenyang,elite,true,25.06,AS40004,"CONRADIT, LLC",8677.78,1784328540.3611712
-socks4,58.18.39.58,10800,China,CN,Hohhot,elite,true,19.45,AS4837,CNC Group CHINA169 Neimeng Province Network,2375.0,1784328534.047621
-socks4,223.254.141.102,6615,China,CN,Shenyang,elite,true,26.39,AS40004,"CONRADIT, LLC",14855.02,1784328529.8321826
-socks4,223.254.141.102,6635,China,CN,Shenyang,elite,true,21.5,AS40004,"CONRADIT, LLC",6061.18,1784328519.9075735
-socks4,223.254.141.102,6601,China,CN,Shenyang,elite,true,25.02,AS40004,"CONRADIT, LLC",6380.52,1784328501.5257113
-socks4,223.254.141.102,6618,China,CN,Shenyang,elite,true,23.52,AS40004,"CONRADIT, LLC",6009.65,1784328488.9252188
-socks4,106.52.215.138,7890,China,CN,Guangzhou,elite,true,46.83,AS45090,Shenzhen Tencent Computer Systems Company Limited,2757.58,1784328576.7391183
+socks4,115.239.244.142,8310,China,CN,Hangzhou,elite,true,38.62,AS4134,Chinanet,5035.61,1784330217.6755376
+socks4,117.175.168.195,1080,China,CN,Guangzhou,elite,true,81.94,AS9808,China Mobile communications corporation,1507.4,1784330216.2655406
+socks4,223.254.141.102,6611,China,CN,Shenyang,elite,true,27.09,AS40004,"CONRADIT, LLC",4410.3,1784330215.754288
+socks4,222.212.85.149,5678,China,CN,Chengdu,elite,true,17.9,AS4134,Chinanet,4444.3,1784330205.3157418
+socks4,58.18.39.58,10800,China,CN,Hohhot,elite,true,19.45,AS4837,CNC Group CHINA169 Neimeng Province Network,8733.99,1784330201.9414902
+socks4,180.158.166.144,4145,China,CN,Shanghai,elite,true,40.57,AS4812,China Telecom (Group),4253.02,1784330199.7427282
+socks4,223.254.141.102,6642,China,CN,Shenyang,elite,true,23.23,AS40004,"CONRADIT, LLC",14527.64,1784330197.1373587
+socks4,182.18.93.138,19450,China,CN,Zhangjiakou,elite,true,96.72,AS141771,China Telecom,5829.16,1784330193.5450068
+socks4,61.191.119.134,10800,China,CN,Hefei,elite,true,20.04,AS4134,Chinanet,1262.09,1784330193.2774465
+socks4,223.254.141.102,6637,China,CN,Shenyang,elite,true,21.86,AS40004,"CONRADIT, LLC",8420.76,1784330183.699598
+socks4,58.33.109.114,4145,China,CN,Shanghai,elite,true,14.83,AS4812,China Telecom (Group),8350.33,1784330172.6893182

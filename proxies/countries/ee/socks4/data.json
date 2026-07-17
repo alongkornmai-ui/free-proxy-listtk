@@ -1,18 +1,18 @@
 [
   {
     "protocol": "socks4",
-    "ip": "5.181.23.213",
-    "port": 8443,
+    "ip": "5.45.125.201",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Tallinn",
+    "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 49.45,
-    "asn": "",
-    "isp": "WorkTitans B.V",
-    "latency_ms": 4042.31,
-    "last_checked": 1784328540.1994016
+    "uptime_percent": 67.15,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 3269.37,
+    "last_checked": 1784330210.3788977
   },
   {
     "protocol": "socks4",
@@ -23,25 +23,10 @@
     "city": "Parksepa",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.4,
+    "uptime_percent": 61.43,
     "asn": "AS202652",
     "isp": "SkyLive Telecom ldt",
-    "latency_ms": 3307.58,
-    "last_checked": 1784328539.591197
-  },
-  {
-    "protocol": "socks4",
-    "ip": "91.235.234.226",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.35,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 12314.3,
-    "last_checked": 1784328552.081176
+    "latency_ms": 1381.48,
+    "last_checked": 1784330256.914506
   }
 ]

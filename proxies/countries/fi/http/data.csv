@@ -1,17 +1,20 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,65.109.191.98,3080,Finland,FI,Helsinki,elite,true,98.34,AS24940,Hetzner Online GmbH,217.47,1784328541.25963
-http,109.120.184.202,1080,Finland,FI,Helsinki,elite,true,87.57,AS210644,Aeza International LTD,141.62,1784328523.433141
-http,46.62.189.77,8888,Finland,FI,Helsinki,elite,true,99.6,AS24940,Hetzner Online GmbH,179.33,1784328522.2780912
-http,144.31.249.57,8080,Finland,FI,Helsinki,transparent,false,25.54,AS207957,SERV.HOST GROUP LTD,2852.3,1784328505.3802822
-http,193.35.17.153,8888,Finland,FI,Helsinki,elite,true,55.96,AS215439,Play2go International Limited,137.32,1784328497.7340074
-http,185.230.190.195,3128,Finland,FI,Helsinki,elite,false,68.43,AS212706,Livi Hosting LTD,6863.22,1784328475.8518932
-http,92.118.234.124,1080,Finland,FI,Helsinki,elite,true,81.77,AS209847,WorkTitans B.V.,1692.23,1784328472.3254652
-http,132.243.23.194,8888,Finland,FI,Helsinki,elite,true,28.14,AS204339,First Server Limited,999.55,1784328431.4226925
-http,2.26.66.216,3128,Finland,FI,Helsinki,elite,false,18.61,AS210546,Chsl ONE LTD,6527.94,1784328403.2999308
-http,65.108.203.36,18080,Finland,FI,Helsinki,elite,false,9.36,AS24940,Hetzner Online GmbH,9353.28,1784328378.8821518
-http,83.219.97.48,8080,Finland,FI,Helsinki,elite,true,51.92,AS209693,OC NETWORKS LIMITED,5348.94,1784328363.9305894
-http,135.87.39.23,443,Finland,FI,Helsinki,elite,true,99.87,AS8983,Nokia Solutions and Networks Oy,119.67,1784328582.3172674
-http,135.87.39.23,80,Finland,FI,Helsinki,elite,true,99.8,AS8983,Nokia Solutions and Networks Oy,120.17,1784328571.1341476
-http,135.181.113.216,16379,Finland,FI,Helsinki,elite,true,28.07,AS24940,Hetzner Online GmbH,8728.25,1784328559.8165174
-http,94.156.180.137,3128,Finland,FI,Helsinki,transparent,true,67.04,AS207957,SERV.HOST GROUP LTD,15641.46,1784328535.1166532
-http,65.108.203.35,18080,Finland,FI,Helsinki,elite,false,9.01,AS24940,Hetzner Online GmbH,25160.17,1784328451.9659324
+http,178.17.61.129,3128,Finland,FI,Helsinki,elite,true,25.04,AS213887,WAIcore Ltd,7065.0,1784330200.6654701
+http,109.120.184.202,1080,Finland,FI,Helsinki,elite,true,87.58,AS210644,Aeza International LTD,150.08,1784330167.293864
+http,46.62.189.77,8888,Finland,FI,Helsinki,elite,true,99.6,AS24940,Hetzner Online GmbH,178.57,1784330154.468935
+http,31.57.27.86,8081,Finland,FI,Helsinki,elite,true,16.72,AS56971,CGI GLOBAL LIMITED,12040.7,1784330119.4786737
+http,144.31.52.77,3128,Finland,FI,Helsinki,transparent,true,20.63,AS215590,DpkgSoft International Limited,11229.95,1784330114.906033
+http,78.17.15.154,443,Finland,FI,Helsinki,anonymous,true,12.27,AS57043,Hostkey B.V.,6585.71,1784330091.8416557
+http,185.230.190.195,3128,Finland,FI,Helsinki,elite,true,68.43,AS212706,Livi Hosting LTD,1508.23,1784330037.561178
+http,65.108.159.129,3128,Finland,FI,Helsinki,elite,true,1.21,AS24940,Hetzner Online GmbH,165.54,1784330265.4780066
+http,92.118.234.124,1080,Finland,FI,Helsinki,elite,true,81.78,AS209847,WorkTitans B.V.,2874.17,1784330259.796056
+http,204.168.225.55,8888,Finland,FI,Helsinki,elite,false,35.58,AS24940,Hetzner Online GmbH,176.04,1784330256.859385
+http,65.109.87.121,18080,Finland,FI,Helsinki,elite,false,22.76,AS24940,Hetzner Online GmbH,5013.69,1784330256.6118567
+http,135.87.39.23,80,Finland,FI,Helsinki,elite,true,99.8,AS8983,Nokia Solutions and Networks Oy,121.87,1784330254.2513547
+http,135.181.113.216,16379,Finland,FI,Helsinki,elite,true,28.08,AS24940,Hetzner Online GmbH,8231.55,1784330250.052407
+http,94.156.180.137,3128,Finland,FI,Helsinki,transparent,true,67.02,AS207957,SERV.HOST GROUP LTD,118.46,1784330241.913435
+http,65.108.203.36,18080,Finland,FI,Helsinki,elite,false,9.36,AS24940,Hetzner Online GmbH,8295.84,1784330220.9273055
+http,135.87.39.23,443,Finland,FI,Helsinki,elite,true,99.87,AS8983,Nokia Solutions and Networks Oy,113.46,1784330213.8291595
+http,62.60.237.112,3128,Finland,FI,Helsinki,transparent,true,33.07,AS210644,Aeza International LTD,174.7,1784330205.2997787
+http,93.123.30.53,3128,Finland,FI,Helsinki,elite,false,32.89,AS41745,Baykov Ilya Sergeevich,3260.07,1784330203.844779
+http,65.109.191.98,3080,Finland,FI,Helsinki,elite,true,98.34,AS24940,Hetzner Online GmbH,170.31,1784330194.9400942

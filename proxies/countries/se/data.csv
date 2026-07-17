@@ -1,13 +1,19 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks5,171.25.158.95,1080,Sweden,SE,Vaxjo,elite,true,99.04,AS35100,Patrik Lagerman,245.94,1784328549.1530726
-http,194.14.207.87,80,Sweden,SE,Stockholm,elite,false,71.96,AS206170,Yelles AB,650.22,1784328537.9743454
-socks4,62.60.230.196,1080,Sweden,SE,Stockholm,elite,true,25.3,AS210644,Aeza International LTD,1342.53,1784328531.6813123
-socks5,188.93.140.146,1080,Sweden,SE,Stockholm,elite,true,55.89,AS63473,"HostHatch, LLC",1286.75,1784328522.2790122
-socks5,193.148.58.181,1080,Sweden,SE,Stockholm,elite,true,24.62,AS41745,Baykov Ilya Sergeevich,9444.26,1784328520.9027874
-http,77.221.149.98,3128,Sweden,SE,Stockholm,transparent,true,31.73,AS210644,Aeza International LTD,15359.84,1784328520.8888826
-http,194.14.207.87,8001,Sweden,SE,Stockholm,elite,false,84.98,AS206170,Yelles AB,1711.64,1784328515.756765
-socks5,89.22.238.103,38871,Sweden,SE,Stockholm,elite,true,24.95,AS210644,xorek.cloud International LTD,2932.24,1784328510.873306
-http,109.120.155.157,3128,Sweden,SE,Stockholm,elite,false,18.72,AS210644,Aeza International LTD,9974.36,1784328503.809029
-http,2.26.124.123,3128,Sweden,SE,Stockholm,transparent,true,35.2,AS198550,Node Host Limited,1174.69,1784328444.6632376
-http,185.100.157.20,8000,Sweden,SE,Stockholm,elite,false,53.86,AS205775,Neon Core Network LLC,5208.57,1784328566.5608633
-http,91.186.217.84,3128,Sweden,SE,Stockholm,transparent,false,20.75,AS203273,NetCrafters OU,15832.71,1784328431.0570037
+socks5,79.76.59.115,1080,Sweden,SE,Stockholm,elite,true,64.73,AS31898,Oracle Corporation,161.19,1784330217.0180762
+http,138.124.102.98,8082,Sweden,SE,Stockholm,elite,true,44.46,AS210644,Aeza International LTD,2653.29,1784330212.499959
+socks4,138.124.26.19,1080,Sweden,SE,Stockholm,elite,true,83.16,AS210644,Aeza International LTD,117.8,1784330208.4227538
+socks5,171.25.158.95,1080,Sweden,SE,Vaxjo,elite,true,99.05,AS35100,Patrik Lagerman,579.82,1784330206.9995775
+socks4,79.76.59.115,1080,Sweden,SE,Stockholm,elite,true,68.25,AS31898,Oracle Corporation,125.1,1784330202.5157838
+http,77.221.149.98,3128,Sweden,SE,Stockholm,transparent,true,31.8,AS210644,Aeza International LTD,15117.6,1784330184.774318
+http,194.14.207.87,80,Sweden,SE,Stockholm,elite,false,71.97,AS206170,Yelles AB,8452.94,1784330181.2759936
+socks5,188.93.140.146,1080,Sweden,SE,Stockholm,elite,true,55.91,AS63473,"HostHatch, LLC",7271.23,1784330180.5260983
+socks5,138.124.102.98,1082,Sweden,SE,Stockholm,elite,true,36.42,AS210644,Aeza International LTD,9924.39,1784330176.459807
+http,109.120.155.157,3128,Sweden,SE,Stockholm,elite,true,18.76,AS210644,Aeza International LTD,4190.11,1784330106.5755568
+http,193.148.58.181,3128,Sweden,SE,Stockholm,elite,false,11.79,AS41745,Baykov Ilya Sergeevich,17481.55,1784330037.7589245
+http,194.154.31.227,3128,Sweden,SE,Falkenberg,transparent,true,28.43,AS48040,Fornex Hosting S.L.,19239.94,1784330015.8746643
+socks4,147.45.72.212,44816,Sweden,SE,Stockholm,elite,true,35.51,AS210644,Aeza International LTD,4845.22,1784330262.217401
+http,2.26.124.123,3128,Sweden,SE,Stockholm,transparent,true,35.22,AS198550,Node Host Limited,4151.58,1784330253.3173115
+socks5,62.60.230.196,1080,Sweden,SE,Stockholm,elite,true,23.15,AS210644,Aeza International LTD,1190.14,1784330253.1386817
+http,185.100.157.20,8000,Sweden,SE,Stockholm,elite,false,53.96,AS205775,Neon Core Network LLC,8636.87,1784330247.3593702
+http,91.186.217.84,3128,Sweden,SE,Stockholm,transparent,false,20.76,AS203273,NetCrafters OU,15524.92,1784330239.6443033
+socks5,147.45.72.212,44816,Sweden,SE,Stockholm,elite,true,32.63,AS210644,Aeza International LTD,9089.83,1784330225.686668

@@ -1,14 +1,14 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,186.33.7.117,999,Guatemala,GT,San Rafael Petzal,transparent,true,29.63,AS52468,IFX Networks Argentina S.R.L,1477.92,1784328531.4334207
-http,38.199.88.1,999,Guatemala,GT,Guatemala City,transparent,true,18.98,AS274038,"INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD ANÓNIMA",3325.1,1784328530.774682
-http,186.151.75.150,999,Guatemala,GT,Guatemala City,transparent,false,55.06,AS14754,Telgua,8105.39,1784328526.7119071
-http,138.118.104.122,999,Guatemala,GT,Salamá,transparent,false,22.5,AS263781,"ONNO NETWORKS, SOCIEDAD ANÓNIMA",3244.91,1784328495.2720325
-http,45.5.118.217,999,Guatemala,GT,Guatemala City,transparent,true,22.64,AS52468,Ufinet Panama S.A.,568.91,1784328454.3163505
-http,201.216.147.249,999,Guatemala,GT,Guatemala City,transparent,false,34.1,AS14754,Telgua,4378.24,1784328426.8382583
-http,45.5.119.17,999,Guatemala,GT,Guatemala City,transparent,false,26.72,AS52468,Ufinet Panama S.A.,2538.5,1784328425.8798525
-http,181.119.105.157,999,Guatemala,GT,Guatemala City,transparent,false,24.67,AS52468,Ufinet Panama S.A.,7544.7,1784328409.3295877
-http,190.61.101.72,8080,Guatemala,GT,Guatemala City,transparent,false,20.39,AS52468,UFINET Guatemala S. A,1434.77,1784328370.2827652
-http,148.230.17.251,999,Guatemala,GT,Guatemala City,transparent,false,7.81,AS26617,Navega.com S.A.,1681.37,1784328573.8757927
-http,167.250.222.233,999,Guatemala,GT,San Marcos,transparent,false,6.91,AS52468,Ufinet Panama S.A.,1466.69,1784328571.9368968
-http,148.230.17.250,999,Guatemala,GT,Guatemala City,transparent,false,7.39,AS26617,Navega.com S.A.,12267.1,1784328552.4013474
-http,148.230.17.254,999,Guatemala,GT,Guatemala City,transparent,false,7.51,AS26617,Navega.com S.A.,18281.83,1784328529.9239
+http,181.119.212.6,999,Guatemala,GT,Guatemala City,transparent,false,35.54,AS52468,Ufinet Panama S.A.,417.6,1784330200.1058915
+http,181.119.111.59,999,Guatemala,GT,Guatemala City,transparent,true,18.39,AS52468,Ufinet Panama S.A.,1421.95,1784330197.5965352
+http,200.12.48.242,999,Guatemala,GT,San José del Golfo,transparent,false,28.84,AS26617,Navega.com S.A.,1171.25,1784330159.8453448
+http,201.216.147.253,999,Guatemala,GT,Guatemala City,transparent,false,32.41,AS14754,Telgua,2125.84,1784330149.3141189
+http,186.33.3.209,999,Guatemala,GT,Guatemala City,transparent,false,32.42,AS52468,Ufinet Panama S.A.,1419.98,1784330129.466451
+http,186.33.0.11,999,Guatemala,GT,Guatemala City,transparent,false,31.5,AS52468,Ufinet Panama S.A.,853.88,1784330126.7125373
+http,138.118.106.237,999,Guatemala,GT,Santa Catarina Pinula,transparent,true,5.41,AS263781,"ONNO NETWORKS, SOCIEDAD ANÓNIMA",3527.43,1784330118.6638002
+http,138.118.104.122,999,Guatemala,GT,Salamá,transparent,false,22.5,AS263781,"ONNO NETWORKS, SOCIEDAD ANÓNIMA",7987.46,1784330082.6049201
+http,181.119.111.239,999,Guatemala,GT,Guatemala City,transparent,true,10.38,AS52468,Ufinet Panama S.A.,3021.3,1784330067.3265514
+http,186.151.75.150,999,Guatemala,GT,Guatemala City,transparent,true,55.45,AS14754,Telgua,7698.72,1784330027.8319504
+http,45.5.118.217,999,Guatemala,GT,Guatemala City,transparent,true,23.01,AS52468,Ufinet Panama S.A.,2651.84,1784330019.9818122
+http,201.216.147.244,999,Guatemala,GT,Guatemala City,transparent,true,32.49,AS14754,Telgua,8828.8,1784330262.7239168
+http,38.199.88.1,999,Guatemala,GT,Guatemala City,transparent,false,18.99,AS274038,"INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD ANÓNIMA",11019.95,1784330244.8079603

@@ -11,22 +11,22 @@
     "uptime_percent": 15.74,
     "asn": "AS203214",
     "isp": "Hulum",
-    "latency_ms": 396.29,
-    "last_checked": 1784328550.4254198
+    "latency_ms": 350.92,
+    "last_checked": 1784330221.593611
   },
   {
     "protocol": "socks4",
-    "ip": "188.72.16.74",
-    "port": 1080,
+    "ip": "109.224.22.34",
+    "port": 51372,
     "country": "Iraq",
     "country_code": "IQ",
-    "city": "Sulaymaniyah",
+    "city": "Baghdad",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 54.04,
-    "asn": "AS49571",
-    "isp": "CELLNET - Garden City",
-    "latency_ms": 1442.63,
-    "last_checked": 1784328525.8278155
+    "uptime_percent": 8.59,
+    "asn": "AS203214",
+    "isp": "Hulum",
+    "latency_ms": 1451.23,
+    "last_checked": 1784330200.553256
   }
 ]

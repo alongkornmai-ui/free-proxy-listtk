@@ -8,10 +8,25 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 76.74,
+    "uptime_percent": 76.69,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 4249.51,
-    "last_checked": 1784328517.6242752
+    "latency_ms": 1201.89,
+    "last_checked": 1784330265.5300677
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.130.212.97",
+    "port": 8119,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.09,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 2576.32,
+    "last_checked": 1784330262.6525893
   }
 ]

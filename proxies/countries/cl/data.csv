@@ -1,12 +1,17 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,190.54.100.74,5678,Chile,CL,Santiago,elite,true,21.03,AS6429,Telmex Chile Internet S.A.,8108.27,1784328540.434424
-http,38.7.195.51,999,Chile,CL,Santiago,transparent,true,28.56,AS263702,Grupo ZGH SpA,2653.81,1784328520.8915927
-socks4,190.13.147.241,5678,Chile,CL,Osorno,elite,true,51.84,AS14117,Telefonica del Sur S.A,8435.34,1784328507.4602082
-http,38.7.195.49,999,Chile,CL,Santiago,transparent,true,36.23,AS263702,Grupo ZGH SpA,4468.99,1784328493.2725422
-http,38.7.195.53,999,Chile,CL,Santiago,transparent,false,36.8,AS263702,Grupo ZGH SpA,4440.24,1784328490.3489938
-http,38.7.195.13,999,Chile,CL,Santiago,transparent,false,4.86,AS263702,Grupo ZGH SpA,8204.08,1784328430.504072
-http,190.211.4.132,999,Chile,CL,Chillan,transparent,false,41.17,AS14117,Telefonica del Sur S.A.,12767.02,1784328422.7309692
-http,45.162.132.129,999,Chile,CL,Puente Alto,transparent,false,7.7,AS271843,Lara Ingenieria EN Tecnologia Y Telecomunicaciones Limitada,10958.11,1784328421.4278567
-http,38.7.223.130,999,Chile,CL,Santiago,transparent,false,16.46,AS272891,Grupo ZGH SPA,6870.24,1784328349.39806
-http,207.248.0.193,999,Chile,CL,San Fernando,transparent,false,23.72,AS64139,Grupo Metrowan Telecom SPA,3854.07,1784328362.5682173
-http,167.249.30.64,999,Chile,CL,Pucón,transparent,false,3.22,AS64131,Globalconnect SPA,8256.92,1784328358.4355178
+socks4,190.54.100.74,5678,Chile,CL,Santiago,elite,true,21.03,AS6429,Telmex Chile Internet S.A.,5062.72,1784330212.2005382
+http,201.236.189.86,999,Chile,CL,Alto Hospicio,transparent,false,36.18,AS15311,Telefonica Empresas,3417.93,1784330201.38431
+http,45.225.204.10,999,Chile,CL,Las Cabras,transparent,false,15.68,AS265858,Netdelsur Telecomunicaciones SPA,7911.71,1784330178.1713943
+http,45.225.205.224,999,Chile,CL,Las Cabras,transparent,false,18.2,AS265858,Netdelsur Telecomunicaciones SPA,7037.25,1784330170.589267
+http,45.225.204.8,999,Chile,CL,Las Cabras,transparent,false,8.68,AS265858,Netdelsur Telecomunicaciones SPA,4154.85,1784330158.6633494
+http,45.225.206.1,999,Chile,CL,Las Cabras,transparent,false,13.25,AS265858,Netdelsur Telecomunicaciones SPA,14967.95,1784330127.4469619
+http,179.49.237.12,999,Chile,CL,Puente Alto,transparent,false,2.71,AS271777,Sitelco SPA,698.7,1784330126.2545383
+http,45.225.204.11,999,Chile,CL,Las Cabras,transparent,false,20.33,AS265858,Netdelsur Telecomunicaciones SPA,4144.83,1784330110.9553888
+http,45.225.205.5,999,Chile,CL,Las Cabras,transparent,false,18.59,AS265858,Netdelsur Telecomunicaciones SPA,4399.28,1784330089.551875
+http,200.95.184.58,999,Chile,CL,Chillan,transparent,true,13.04,AS264859,Comunicaciones Cablevision Ltda.,4549.52,1784330083.9502516
+http,45.225.204.97,999,Chile,CL,Las Cabras,transparent,true,14.77,AS265858,Netdelsur Telecomunicaciones SPA,5701.79,1784330059.5182476
+http,38.7.195.49,999,Chile,CL,Santiago,transparent,true,36.23,AS263702,Grupo ZGH SpA,2060.5,1784330259.7824721
+http,38.7.195.51,999,Chile,CL,Santiago,transparent,true,28.57,AS263702,Grupo ZGH SpA,10015.34,1784330249.5753288
+http,45.162.132.1,999,Chile,CL,Puente Alto,transparent,false,7.56,AS271843,Lara Ingenieria EN Tecnologia Y Telecomunicaciones Limitada,10407.09,1784330186.4965236
+http,38.7.195.55,999,Chile,CL,Santiago,transparent,false,28.68,AS263702,Grupo ZGH SpA,3045.24,1784330182.379842
+http,38.7.223.130,999,Chile,CL,Santiago,transparent,false,16.46,AS272891,Grupo ZGH SPA,7971.66,1784330040.7469914

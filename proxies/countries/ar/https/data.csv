@@ -1,4 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,45.65.227.97,999,Argentina,AR,Caseros,transparent,true,7.77,AS266725,Solution LAN S.A,8663.8,1784328474.998708
-http,131.221.65.109,8090,Argentina,AR,San Miguel de Tucumán,transparent,true,29.43,AS265798,Level Seven SRL,1183.88,1784328433.347658
-http,45.232.152.2,8080,Argentina,AR,Las Brenas,transparent,true,20.36,AS266761,Vicente Claudio Orlando,4928.5,1784328418.70784
+http,186.125.218.150,999,Argentina,AR,Salta,transparent,true,44.84,AS273974,CARDOZO JAVIER ALEJANDRO (KILLA INTERNET),6459.43,1784330183.8314068
+http,190.122.91.130,999,Argentina,AR,Puerto Vilelas,transparent,true,31.31,AS273096,Insaurralde Claudio Oscar,2058.73,1784330174.94548
+http,200.114.81.33,8080,Argentina,AR,Corrientes,transparent,true,26.93,AS273088,SIGOT ALEXIS RAUL (SPEED INTERNET),3390.61,1784330150.7733433
+http,190.7.24.103,3129,Argentina,AR,Paraná,transparent,true,35.4,AS20207,Gigared S.A.,8161.71,1784330138.2824903
+http,168.196.227.203,999,Argentina,AR,Moreno,transparent,true,11.31,AS264765,Vanet Telecomunicaciones S.R.L.,4680.85,1784330260.9762616

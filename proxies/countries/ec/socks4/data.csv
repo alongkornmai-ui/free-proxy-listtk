@@ -1,2 +1,4 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,177.234.247.221,1080,Ecuador,EC,Santo Domingo de los Colorados,elite,true,10.61,AS52468,Ufinet Panama S.A.,911.65,1784328534.3570745
+socks4,177.234.247.18,1080,Ecuador,EC,Santo Domingo de los Colorados,elite,true,10.67,AS52468,Ufinet Panama S.A.,912.96,1784330191.8511062
+socks4,177.234.247.218,1080,Ecuador,EC,Santo Domingo de los Colorados,elite,true,10.85,AS52468,Ufinet Panama S.A.,919.86,1784330189.3583782
+socks4,160.20.165.242,8080,Ecuador,EC,Guayaquil,elite,true,51.07,AS52468,Ufinet Panama S.A.,8033.9,1784330259.3979044

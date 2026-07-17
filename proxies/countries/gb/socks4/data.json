@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "130.49.187.63",
+    "ip": "138.124.125.198",
+    "port": 1080,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Coventry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.08,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 91.79,
+    "last_checked": 1784330219.1727831
+  },
+  {
+    "protocol": "socks4",
+    "ip": "130.49.187.61",
     "port": 1082,
     "country": "United Kingdom",
     "country_code": "GB",
     "city": "London",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 72.7,
+    "uptime_percent": 65.95,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1079.28,
-    "last_checked": 1784328552.6407223
+    "latency_ms": 64.14,
+    "last_checked": 1784330205.5327518
   },
   {
     "protocol": "socks4",
@@ -26,8 +41,8 @@
     "uptime_percent": 91.57,
     "asn": "AS20860",
     "isp": "Iomart Cloud Services Limited",
-    "latency_ms": 7195.75,
-    "last_checked": 1784328539.37714
+    "latency_ms": 14498.46,
+    "last_checked": 1784330205.2517643
   },
   {
     "protocol": "socks4",
@@ -41,38 +56,8 @@
     "uptime_percent": 37.24,
     "asn": "AS63949",
     "isp": "Akamai Technologies, Inc.",
-    "latency_ms": 12685.39,
-    "last_checked": 1784328538.6653397
-  },
-  {
-    "protocol": "socks4",
-    "ip": "130.49.187.61",
-    "port": 1081,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 70.12,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1103.75,
-    "last_checked": 1784328531.3362937
-  },
-  {
-    "protocol": "socks4",
-    "ip": "80.79.123.97",
-    "port": 9050,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.9,
-    "asn": "AS34702",
-    "isp": "Aktsiaselts WaveCom",
-    "latency_ms": 4813.02,
-    "last_checked": 1784328503.4532425
+    "latency_ms": 8351.71,
+    "last_checked": 1784330189.2926261
   },
   {
     "protocol": "socks4",
@@ -86,22 +71,22 @@
     "uptime_percent": 72.75,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 60.45,
-    "last_checked": 1784328598.2300699
+    "latency_ms": 6123.42,
+    "last_checked": 1784330257.8669603
   },
   {
     "protocol": "socks4",
-    "ip": "130.49.187.61",
+    "ip": "130.49.187.63",
     "port": 1082,
     "country": "United Kingdom",
     "country_code": "GB",
     "city": "London",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 65.96,
+    "uptime_percent": 72.68,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 7304.45,
-    "last_checked": 1784328557.6796427
+    "latency_ms": 7266.35,
+    "last_checked": 1784330219.7673333
   }
 ]
